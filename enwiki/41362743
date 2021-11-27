@@ -1,0 +1,795 @@
+{
+  "title": "Mustafa Jabbar",
+  "pageID": 41362743,
+  "categories": [
+    "1949 births",
+    "Living people",
+    "People from Khaliajuri Upazila",
+    "Dhaka College alumni",
+    "University of Dhaka alumni",
+    "Bangladeshi businesspeople",
+    "Posts, Telecommunications and Information Technology ministers",
+    "People from Ashuganj Upazila"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Mustafa Jabbar (মোস্তাফা জব্বার, ; born 12 August 1949) is a Bangladeshi businessman, technology entrepreneur and the current Minister of Post and Telecommunication in the Government of Bangladesh.",
+              "links": [
+                {
+                  "text": "Minister of Post and Telecommunication",
+                  "type": "internal",
+                  "page": "Ministry of Posts, Telecommunications and Information Technology"
+                },
+                {
+                  "type": "internal",
+                  "page": "Government of Bangladesh"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Mustafa Jabbar"
+                ]
+              }
+            },
+            {
+              "text": "He also served as the president of Bangladesh Association of Software and Information Services (BASIS).",
+              "links": [
+                {
+                  "text": "Bangladesh Association of Software and Information Services (BASIS)",
+                  "type": "internal",
+                  "page": "Bangladesh Association of Software and Information Services"
+                }
+              ]
+            },
+            {
+              "text": "He is best known for the creation of Bijoy Bengali keyboard, which was developed in 1988, and it was most widely used Bengali input method until the release of Unicode based Avro Keyboard.",
+              "links": [
+                {
+                  "text": "Bijoy Bengali keyboard",
+                  "type": "internal",
+                  "page": "Bengali input methods",
+                  "anchor": "Bijoy"
+                },
+                {
+                  "type": "internal",
+                  "page": "Unicode"
+                },
+                {
+                  "type": "internal",
+                  "page": "Avro Keyboard"
+                }
+              ]
+            },
+            {
+              "text": "He served as the president of Bangladesh Computer Samity, the national ICT organisation of Bangladesh for four consecutive periods.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bangladesh Computer Samity"
+                }
+              ]
+            },
+            {
+              "text": "He is a champion of Bangla Bhasha Procholon Ain, 1987 (বাংলা ভাষা প্রচলন আইন, ১৯৮৭; Bengali Language Implementation Act, 1987), and has been praised for promoting the Bengali language in the digital media.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bangla Bhasha Procholon Ain, 1987"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bengali language"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "April 2017",
+          "template": "engvarb"
+        },
+        {
+          "date": "April 2017",
+          "template": "use dmy dates"
+        },
+        {
+          "df": "yes",
+          "year": "1949",
+          "month": "8",
+          "day": "12",
+          "template": "birth date and age"
+        },
+        {
+          "transcription": "mostapʰa dʒɔbbar",
+          "template": "ipa"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Mustafa Jabbar"
+          },
+          "native_name": {
+            "text": "মোস্তাফা জব্বার"
+          },
+          "native_name_lang": {
+            "text": "bn"
+          },
+          "image": {
+            "text": "Mustafa Jabbar in Dhaka (35).jpg"
+          },
+          "caption": {
+            "text": "Jabbar in 2018"
+          },
+          "office": {
+            "text": "Minister of Posts and Telecommunications",
+            "links": [
+              {
+                "text": "Minister of Posts and Telecommunications",
+                "type": "internal",
+                "page": "Ministry of Posts, Telecommunications and Information Technology"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Sheikh Hasina",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sheikh Hasina"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "19 May 2019"
+          },
+          "birth_date": {
+            "text": "August 12, 1949"
+          },
+          "birth_place": {
+            "text": "Ashuganj, Brahmanbaria, East Bengal, Dominion of Pakistan (now Bangladesh)",
+            "links": [
+              {
+                "text": "Ashuganj",
+                "type": "internal",
+                "page": "Ashuganj Upazila"
+              },
+              {
+                "text": "Brahmanbaria",
+                "type": "internal",
+                "page": "Brahmanbaria District"
+              },
+              {
+                "type": "internal",
+                "page": "East Bengal"
+              },
+              {
+                "type": "internal",
+                "page": "Dominion of Pakistan"
+              },
+              {
+                "type": "internal",
+                "page": "Bangladesh"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Bangladeshi"
+          },
+          "alma_mater": {
+            "text": "Dhaka College University of Dhaka",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Dhaka College"
+              },
+              {
+                "type": "internal",
+                "page": "University of Dhaka"
+              }
+            ]
+          },
+          "education": {
+            "text": "MA (journalism)",
+            "links": [
+              {
+                "text": "MA",
+                "type": "internal",
+                "page": "Master of Arts"
+              }
+            ]
+          },
+          "known_for": {
+            "text": "Creation of Bijoy Keyboard"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.dhakatribune.com/bangladesh/government-affairs/2019/01/04/jabbar-probable-technocrat-minister-again",
+          "title": "Jabbar probable technocrat minister, again",
+          "date": "2019-01-04",
+          "work": "Dhaka Tribune",
+          "access-date": "2019-06-02",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://bdnews24.com/bangladesh/2019/05/19/mustafa-jabbar-stripped-of-ict-in-cabinet-shuffle",
+          "title": "Mustafa Jabbar stripped of ICT in cabinet shuffle",
+          "work": "bdnews24.com",
+          "access-date": "2019-06-02",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.thedailystar.net/politics/new-cabinet-members-of-bangladesh-government-formed-monday-1683733",
+          "title": "47-member new cabinet announced",
+          "date": "2019-01-06",
+          "work": "The Daily Star",
+          "access-date": "2019-01-08",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.thedailystar.net/tags/ict-minister-mustafa-jabbar",
+          "title": "ICT Minister Mustafa Jabbar",
+          "work": "The Daily Star",
+          "access-date": "2018-09-18",
+          "language": "en",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.dhakatribune.com/hashtag/telecommunication-and-ict-minister-mustafa-jabbar",
+          "title": "Telecommunication and ICT Minister Mustafa Jabbar",
+          "work": "Dhaka Tribune",
+          "access-date": "2018-09-18",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.thedailystar.net/business/mustafa-jabbar-new-president-basis-1246771",
+          "title": "Mustafa Jabbar, new president of BASIS",
+          "date": "2016-06-28",
+          "work": "The Daily Star",
+          "access-date": "2017-09-30",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://archive.thedailystar.net/newDesign/news-details.php?nid=136160",
+          "title": "An amazing journey from Shahid Lipi to Avro",
+          "newspaper": "The Daily Star",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.bcs.org.bd/ec_members.htm",
+          "title": "Members of BCS",
+          "access-date": "2019-01-08",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.daily-sun.com/post/279053/IT-entrepreneur-Mustafa-Jabbar-to-be-made-minister-for-ICT",
+          "title": "IT entrepreneur Mustafa Jabbar to be made minister for ICT!",
+          "work": "Daily Sun",
+          "access-date": "2018-09-18",
+          "language": "en",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://web.dailyjanakantha.com/details/article/401337/কম্পিউটারে-ও-মাতৃভাষায়-মোস্তাফা-জব্বার/",
+          "url-status": "dead",
+          "script-title": "bn:কম্পিউটারে ও মাতৃভাষায় মোস্তাফা জব্বার",
+          "last": "Selim",
+          "first": "Reza",
+          "work": "Dainik Janakantha",
+          "language": "bn",
+          "archive-url": "https://web.archive.org/web/20190325091915/http://web.dailyjanakantha.com/details/article/401337/%E0%A6%95%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%BF%E0%A6%89%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%93-%E0%A6%AE%E0%A6%BE%E0%A6%A4%E0%A7%83%E0%A6%AD%E0%A6%BE%E0%A6%B7%E0%A6%BE%E0%A7%9F-%E0%A6%AE%E0%A7%8B%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%AB%E0%A6%BE-%E0%A6%9C%E0%A6%AC%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B0/",
+          "archive-date": "25 March 2019",
+          "access-date": "2019-03-25",
+          "title": "Archived copy",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Early life and education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Jabbar's ancestral home is in Krishnapur village, Khaliajuri Upazila in Netrokona district.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Khaliajuri Upazila"
+                },
+                {
+                  "type": "internal",
+                  "page": "Netrokona district"
+                }
+              ]
+            },
+            {
+              "text": "He was born on Ashuganj Upazila in Brahmanbaria District to Abdul Jabbar Talukdar and Rabeya Khatun.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ashuganj Upazila"
+                },
+                {
+                  "type": "internal",
+                  "page": "Brahmanbaria District"
+                }
+              ]
+            },
+            {
+              "text": "Jabbar passed his HSC examination from Dhaka College.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Dhaka College"
+                }
+              ]
+            },
+            {
+              "text": "In 1968, he enrolled in the Department of Bangla at the University of Dhaka and completed his BA in 1972 and MA in journalism in 1974.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Dhaka"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://ictd.gov.bd/site/biography/8435bf68-0606-4b08-8d0c-c967485f18c4",
+          "title": "Life Sketch of Hon'able Minister Mr Mustafa Jabbar",
+          "date": "2018-02-28",
+          "website": "www.ictd.gov.bd",
+          "publisher": "Information and Technology Division, MOIST",
+          "access-date": "2018-09-18",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.bijoyekushe.net/html/backup/mustafa_life.php",
+          "title": "Bijoy Ekushe",
+          "publisher": "bijoyekushe.net",
+          "access-date": "2016-03-21",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Jabbar started his career as a journalist in 1972 for Daily Ganakantha until it's shut down in 1975.",
+              "formatting": {
+                "italic": [
+                  "Daily Ganakantha"
+                ]
+              }
+            },
+            {
+              "text": "In 1973, he was elected as the publicity secretary of the Dhaka Union of Journalists."
+            },
+            {
+              "text": "He got involved in the businesses of travel agency, printing and publication."
+            },
+            {
+              "text": "He had served as the general secretary of the Association of Travel Agents of Bangladesh (ATAB)."
+            },
+            {
+              "text": "Jabbar is a founder member of the Bangladesh Computer Samity (BCS) and its four-time president.",
+              "links": [
+                {
+                  "text": "Bangladesh Computer Samity (BCS)",
+                  "type": "internal",
+                  "page": "Bangladesh Computer Samity"
+                }
+              ]
+            },
+            {
+              "text": "He also anchored television shows on IT."
+            },
+            {
+              "text": "Jabbar founded Ananda Computers, best known for developing the Bangla keyboard Bijoy.",
+              "formatting": {
+                "italic": [
+                  "Bijoy"
+                ]
+              }
+            },
+            {
+              "text": "He heads the Bangladesh Association of Software and Information Services — the trade body of IT entrepreneurs in Bangladesh.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bangladesh Association of Software and Information Services"
+                }
+              ]
+            },
+            {
+              "text": "Jabbar started a venture involving computers and IT in 1987 and launched the Bijoy Bangla Keyboard and Software on 16 December 1988."
+            },
+            {
+              "text": "His first novel named Nokshotrer Onger was published in 2005.",
+              "formatting": {
+                "italic": [
+                  "Nokshotrer Onger"
+                ]
+              }
+            },
+            {
+              "text": "His second novel named Suborne Shekorh was published in the fortnightly Tarokalok's Eid issue of 2006.",
+              "formatting": {
+                "italic": [
+                  "Suborne Shekorh"
+                ]
+              }
+            },
+            {
+              "text": "He has developed Bijoy Library, a library management Software which is being used by libraries of Bangladesh including British Council.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "British Council"
+                }
+              ]
+            },
+            {
+              "text": "He has developed a software named Bijoy Shishu Shiksha for pre-school kids.",
+              "formatting": {
+                "italic": [
+                  "Bijoy Shishu Shiksha"
+                ]
+              }
+            },
+            {
+              "text": "He developed Prathomik Computer Shiksha, based on textbooks published by National Curriculum and Textbook Board (NCTB).",
+              "links": [
+                {
+                  "text": "National Curriculum and Textbook Board (NCTB)",
+                  "type": "internal",
+                  "page": "National Curriculum and Textbook Board"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Prathomik Computer Shiksha"
+                ]
+              }
+            },
+            {
+              "text": "He established schools in Bangladesh including computer-based Ananda Multimedia School and Bijoy Digital School."
+            },
+            {
+              "text": "He is involved in writing textbooks on computer in Bangla and English."
+            },
+            {
+              "text": "Jabbar sat on several government committees on ICT affairs, including the prime minister–formed Digital Bangladesh Taskforce.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Digital Bangladesh"
+                }
+              ]
+            },
+            {
+              "text": "He is also a member of the Bangladesh Copyright Board."
+            },
+            {
+              "text": "He was appointed as the Minister of Posts, Telecommunications and Information Technology of the Government of Bangladesh on 3 January 2018.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Government of Bangladesh"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.thedailystar.net/business/telecom/bangladesh-will-export-smartphones-two-years-says-telecom-and-ict-minister-mustafa-jabbar-1558615",
+          "title": "Bangladesh will export smartphones in 2yrs: ICT minister",
+          "date": "2018-04-05",
+          "work": "The Daily Star",
+          "access-date": "2018-09-18",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://bdnews24.com/bangladesh/2018/01/02/mustafa-jabbar-raises-hopes-for-faster-digitisation",
+          "title": "Mustafa Jabbar raises hopes for faster digitisation",
+          "work": "bdnews24.com",
+          "access-date": "2018-01-03",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.digitalworld.org.bd/speakers/profile/102/mustafa-jabbar",
+          "title": "Speakers – Mustafa Jabbar – Digital World-2015",
+          "work": "digitalworld.org.bd",
+          "access-date": "25 July 2015",
+          "archive-url": "https://web.archive.org/web/20151007213622/http://www.digitalworld.org.bd/speakers/profile/102/mustafa-jabbar",
+          "archive-date": "7 October 2015",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "January 2018",
+          "template": "citation needed"
+        }
+      ]
+    },
+    {
+      "title": "Activism",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Jabbar was a member of Mujib Bahini (Bangladesh Liberation Force) in 1971 and participated in the Liberation War of Bangladesh.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mujib Bahini"
+                },
+                {
+                  "text": "Liberation War of Bangladesh",
+                  "type": "internal",
+                  "page": "Bangladesh Liberation War"
+                }
+              ]
+            },
+            {
+              "text": "He was involved in the movement of freedom of the press and was actively associated with the Dhaka Union of Journalists."
+            },
+            {
+              "text": "He was elected as the Organising Secretary of Dhaka Union of Journalists (DUJ)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Reception",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Mustafa Jabbar has been praised for popularizing the use of the Bengali language in computer and other digital media.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bengali language"
+                }
+              ]
+            },
+            {
+              "text": "A champion of Bangla Bhasha Procholon Ain, 1987, Jabbar opines that until and unless Bengali is well-established as a language of verdict in the Supreme Court of Bangladesh and as the language of research in Bangladeshi universities, Bengali language movement cannot be called finished.",
+              "links": [
+                {
+                  "text": "Supreme Court",
+                  "type": "internal",
+                  "page": "Supreme Court of Bangladesh"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bengali language movement"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Mustafa Jabbar is also known for going after popular opensource Bengali keyboard software Avro.",
+              "links": [
+                {
+                  "text": "Avro",
+                  "type": "internal",
+                  "page": "Avro Keyboard"
+                }
+              ]
+            },
+            {
+              "text": "Later, they settled after Avro removed the alleged layout from their software.",
+              "links": [
+                {
+                  "text": "Avro",
+                  "type": "internal",
+                  "page": "Avro Keyboard"
+                }
+              ]
+            },
+            {
+              "text": "The whole affair was widely discussed in Bengali blog forums with most people supporting Avro."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Jabbar's recent decisions as minister of Post and Telecommunication, such as censorship, social site monitoring and blocking of PUBG, Reddit along with popular web services like Bitly URL shortener, issuu.com, medium.com, cloud file sharing website mediafire.com, Change.org, Russian social media website VK, Opera (web browser) and Internet Archive created a large group of critics and angered the young generation of Bangladesh.",
+              "links": [
+                {
+                  "text": "PUBG",
+                  "type": "internal",
+                  "page": "PlayerUnknown's Battlegrounds"
+                },
+                {
+                  "type": "internal",
+                  "page": "Reddit"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bitly"
+                },
+                {
+                  "type": "internal",
+                  "page": "Change.org"
+                },
+                {
+                  "text": "VK",
+                  "type": "internal",
+                  "page": "VK (service)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Opera (web browser)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Internet Archive"
+                }
+              ]
+            },
+            {
+              "text": "His ministry also blocked a webpage containing complaints against the government's student wing- BCL without any reason."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://web.dailyjanakantha.com/details/article/407417/বাংলার-চ্যালেঞ্জ-ও-সম্ভাবনা/",
+          "script-title": "bn:বাংলার চ্যালেঞ্জ ও সম্ভাবনা - এক",
+          "trans-title": "Bengali language: The Challenge and the Potential (Part 1)",
+          "last": "Jabbar",
+          "first": "Mustafa",
+          "work": "Dainik Janakantha",
+          "language": "bn",
+          "archive-url": "https://web.archive.org/web/20190325084701/http://web.dailyjanakantha.com/details/article/407417/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%9E%E0%A7%8D%E0%A6%9C-%E0%A6%93-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A6%A8%E0%A6%BE/",
+          "archive-date": "2019-03-25",
+          "access-date": "2019-03-25",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://web.dailyjanakantha.com/details/article/412111/মুজিব-ভাষাভিত্তিক-রাষ্ট্রের-পিতা/",
+          "script-title": "bn:মুজিব ॥ ভাষাভিত্তিক রাষ্ট্রের পিতা",
+          "trans-title": "Mujib: The Father of the Language-based Nation-State",
+          "last": "Jabbar",
+          "first": "Mustafa",
+          "work": "Dainik Janakantha",
+          "language": "bn",
+          "archive-url": "https://web.archive.org/web/20190326120847/http://web.dailyjanakantha.com/details/article/412111/%E0%A6%AE%E0%A7%81%E0%A6%9C%E0%A6%BF%E0%A6%AC-%E0%A6%AD%E0%A6%BE%E0%A6%B7%E0%A6%BE%E0%A6%AD%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%BF%E0%A6%A4%E0%A6%BE/",
+          "archive-date": "2019-03-26",
+          "access-date": "2019-03-26",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://web.dailyjanakantha.com/details/article/410332/বাংলার-চ্যালেঞ্জ-ও-সম্ভাবনা/",
+          "script-title": "bn:বাংলার চ্যালেঞ্জ ও সম্ভাবনা - তিন",
+          "trans-title": "Bengali language: The Challenge and the Potential (Part 3)",
+          "last": "Jabbar",
+          "first": "Mustafa",
+          "work": "Dainik Janakantha",
+          "language": "bn",
+          "archive-url": "https://web.archive.org/web/20190325084913/http://web.dailyjanakantha.com/details/article/410332/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%9E%E0%A7%8D%E0%A6%9C-%E0%A6%93-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A6%A8%E0%A6%BE/",
+          "archive-date": "2019-03-25",
+          "access-date": "2019-03-25",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.bhorerkagoj.com/2019/02/16/%e0%a6%b0%e0%a6%be%e0%a6%b7%e0%a7%8d%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%ad%e0%a6%be%e0%a6%b7%e0%a6%be%e0%a6%b0-%e0%a6%9c%e0%a6%a8%e0%a7%8d%e0%a6%af-%e0%a6%b8%e0%a6%a4%e0%a7%8d%e0%a6%a4%e0%a6%b0/",
+          "script-title": "bn:রাষ্ট্রভাষার জন্য সত্তর বছরের লড়াই",
+          "last": "Jabbar",
+          "first": "Mustafa",
+          "date": "2019-02-16",
+          "work": "Bhorer Kagoj",
+          "trans-title": "70 Years' Struggle for Bangla",
+          "archive-url": "https://web.archive.org/web/20190217120652/https://www.bhorerkagoj.com/2019/02/16/%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%AD%E0%A6%BE%E0%A6%B7%E0%A6%BE%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF-%E0%A6%B8%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%B0/",
+          "archive-date": "2019-02-17",
+          "access-date": "2019-03-26",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://archive.thedailystar.net/magazine/2010/05/02/perspective.htm",
+          "title": "The Fight over Fonts",
+          "work": "Star Weekend Magazine",
+          "publisher": "The Daily Star",
+          "access-date": "2019-10-18",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.dhakatribune.com/bangladesh/2019/10/18/pubg-banned-in-bangladesh",
+          "title": "PUBG banned in Bangladesh",
+          "date": "2019-10-18",
+          "work": "Dhaka Tribune",
+          "access-date": "2019-10-18",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.dhakatribune.com/bangladesh/dhaka/2019/10/10/btrc-blocks-webpage-containing-reports-of-abuse-in-buet",
+          "title": "BTRC blocks webpage containing reports of abuse in Buet",
+          "date": "2019-10-10",
+          "work": "Dhaka Tribune",
+          "access-date": "2019-10-18",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://web.dailyjanakantha.com/details/article/408878/বাংলার-চ্যালেঞ্জ-ও-সম্ভাবনা/",
+          "script-title": "bn:বাংলার চ্যালেঞ্জ ও সম্ভাবনা - দুই",
+          "trans-title": "Bengali language: The Challenge and the Potential (Part 2)",
+          "last": "Jabbar",
+          "first": "Mustafa",
+          "work": "Dainik Janakantha",
+          "language": "bn",
+          "archive-url": "https://web.archive.org/web/20190325084325/http://web.dailyjanakantha.com/details/article/408878/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%9E%E0%A7%8D%E0%A6%9C-%E0%A6%93-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A6%A8%E0%A6%BE/",
+          "archive-date": "2019-03-25",
+          "access-date": "2019-03-25",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}

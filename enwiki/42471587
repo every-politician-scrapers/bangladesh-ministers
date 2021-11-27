@@ -1,0 +1,446 @@
+{
+  "title": "Hasan Mahmud (politician)",
+  "pageID": 42471587,
+  "categories": [
+    "1963 births",
+    "Living people",
+    "People from Chittagong District",
+    "University of Chittagong alumni",
+    "Maastricht University alumni",
+    "Awami League politicians",
+    "9th Jatiya Sangsad members",
+    "10th Jatiya Sangsad members",
+    "State Ministers of Foreign Affairs (Bangladesh)",
+    "State Ministers of Environment and Forests (Bangladesh)",
+    "Environment, Forest and Climate Change ministers of Bangladesh",
+    "11th Jatiya Sangsad members",
+    "Information ministers of Bangladesh"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Muhammad Hasan Mahmud (born 5 June 1963) is a Bangladesh Awami League politician who is the incumbent Jatiya Sangsad member from Chittagong-7 constituency.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bangladesh Awami League"
+                },
+                {
+                  "type": "internal",
+                  "page": "Jatiya Sangsad"
+                },
+                {
+                  "type": "internal",
+                  "page": "Chittagong-7"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Muhammad Hasan Mahmud"
+                ]
+              }
+            },
+            {
+              "text": "In January 2019, he was appointed as the Bangladesh Minister of Information.",
+              "links": [
+                {
+                  "text": "Bangladesh Minister of Information",
+                  "type": "internal",
+                  "page": "Ministry of Information (Bangladesh)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Bangladeshi politician ‍and Parliamentarian",
+          "template": "short description"
+        },
+        {
+          "year": "1963",
+          "month": "06",
+          "day": "05",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "University of Chittagong",
+            "University of Limburg"
+          ],
+          "template": "unbulleted list"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Muhammad Hasan Mahmud"
+          },
+          "native_name": {
+            "text": "মোহাম্মদ হাসান মাহমুদ"
+          },
+          "native_name_lang": {
+            "text": "bn"
+          },
+          "image": {
+            "text": "Hasan Mahmud.jpg"
+          },
+          "caption": {
+            "text": "Mahmud in January 2020"
+          },
+          "office": {
+            "text": "Minister of Information",
+            "links": [
+              {
+                "text": "Minister of Information",
+                "type": "internal",
+                "page": "Ministry of Information (Bangladesh)"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Sheikh Hasina",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sheikh Hasina"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Hasanul Haq Inu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hasanul Haq Inu"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "7 January 2019"
+          },
+          "constituency_mp1": {
+            "text": "Chittagong-7",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chittagong-7"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "7 January 2014"
+          },
+          "predecessor1": {
+            "text": "Moin Uddin Khan Badal",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Moin Uddin Khan Badal"
+              }
+            ]
+          },
+          "office2": {
+            "text": "State Minister for Foreign Affairs",
+            "links": [
+              {
+                "text": "State Minister for Foreign Affairs",
+                "type": "internal",
+                "page": "Minister of Foreign Affairs (Bangladesh)"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "8 January 2009"
+          },
+          "term_end2": {
+            "text": "31 July 2009"
+          },
+          "office3": {
+            "text": "State Minister for Environment, Forest and Climate Change",
+            "links": [
+              {
+                "text": "State Minister for Environment, Forest and Climate Change",
+                "type": "internal",
+                "page": "Ministry of Environment, Forest and Climate Change (Bangladesh)"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "1 August 2009"
+          },
+          "term_end3": {
+            "text": "28 November 2011"
+          },
+          "office4": {
+            "text": "Minister for Environment, Forest and Climate Change"
+          },
+          "term_start4": {
+            "text": "29 November 2011"
+          },
+          "term_end4": {
+            "text": "2013",
+            "number": 2013
+          },
+          "successor4": {
+            "text": "Anwar Hossain Manju",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Anwar Hossain Manju"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "June 5, 1963"
+          },
+          "birth_place": {
+            "text": "Chittagong, East Pakistan, Pakistan",
+            "links": [
+              {
+                "text": "Chittagong",
+                "type": "internal",
+                "page": "Chittagong District"
+              },
+              {
+                "type": "internal",
+                "page": "East Pakistan"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Bangladeshi"
+          },
+          "alma_mater": {
+            "text": "University of Chittagong\n\nUniversity of Limburg"
+          },
+          "party": {
+            "text": "Bangladesh Awami League",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bangladesh Awami League"
+              }
+            ]
+          },
+          "education": {
+            "text": "PhD in environmental chemistry"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english",
+          "title": "List of 10th Parliament Members",
+          "website": "Bangladesh Parliament",
+          "access-date": "13 November 2015",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.thedailystar.net/politics/new-cabinet-members-of-bangladesh-government-formed-monday-1683733",
+          "title": "47-member new cabinet announced",
+          "date": "6 January 2019",
+          "work": "The Daily Star",
+          "access-date": "8 January 2019",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Early life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Mahmud completed his bachelor's and master's in chemistry from the University of Chittagong in 1987 and 1989 respectively.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Chittagong"
+                }
+              ]
+            },
+            {
+              "text": "He earned his PhD in environmental chemistry from Hasselt University in 2001.",
+              "links": [
+                {
+                  "text": "Hasselt University",
+                  "type": "internal",
+                  "page": "Hasselt_University"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.thedailystar.net/profile/index.htm",
+          "archive-url": "https://web.archive.org/web/20130126034248/http://www.thedailystar.net/profile/index.htm",
+          "archive-date": "26 January 2013",
+          "date": "9 January 2009",
+          "title": "Profile Of Ministers",
+          "newspaper": "The Daily Star",
+          "accessdate": "28 November 2018",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "During 1996–2001, Mahmud served as the political and parliamentary affairs adviser to then prime minister Sheikh Hasina.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sheikh Hasina"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Mahmud was the Jatiya Sangsad member from Chittagong-6 constituency during 2008–2014.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jatiya Sangsad"
+                },
+                {
+                  "type": "internal",
+                  "page": "Chittagong-6"
+                }
+              ]
+            },
+            {
+              "text": "He was appointed as the state minister for foreign affairs in January 2009 in Sheikh Hasina's cabinet but 6 months later he was moved to the position of state minister for environment and forests.",
+              "links": [
+                {
+                  "text": "Sheikh Hasina's cabinet",
+                  "type": "internal",
+                  "page": "Second Hasina Cabinet"
+                },
+                {
+                  "text": "state minister for environment and forests",
+                  "type": "internal",
+                  "page": "Ministry of Environment, Forest and Climate Change (Bangladesh)"
+                }
+              ]
+            },
+            {
+              "text": "In November 2011, he was promoted to the full minister of environment and forest and served the position until the end of 2013."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/former-mp-s/list-of-9th-parliament-members-bangla",
+          "title": "List of 9th Parliament Members",
+          "website": "Bangladesh Parliament",
+          "language": "bn",
+          "access-date": "13 November 2015",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "6 January 2009",
+          "title": "Hasina chooses 25 novice ministers, makes personal physician foreign minister",
+          "url": "http://www.thaindian.com/newsportal/uncategorized/hasina-chooses-25-novice-ministers-makes-personal-physician-foreign-minister_100139170.html",
+          "newspaper": "Thaindian",
+          "agency": "Indo-Asian News Service",
+          "access-date": "13 November 2015",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "31 July 2009",
+          "title": "Hasan Mahmud removed from foreign min",
+          "url": "http://bdnews24.com/bangladesh/2009/07/31/hasan-mahmud-removed-from-foreign-min",
+          "newspaper": "bdnews24.com",
+          "access-date": "13 November 2015",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "2 April 2014",
+          "title": "Govt forms 26 parliamentary bodies",
+          "url": "http://www.en.banglanews24.com/fullnews/bn/88828.html",
+          "newspaper": "BanglaNews24",
+          "access-date": "13 November 2015",
+          "url-status": "dead",
+          "archiveurl": "https://web.archive.org/web/20151117015757/http://www.en.banglanews24.com/fullnews/bn/88828.html",
+          "archivedate": "17 November 2015",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.thedailystar.net/news-detail-212105",
+          "title": "Two of the old guard made ministers",
+          "date": "29 November 2011",
+          "work": "The Daily Star",
+          "access-date": "29 November 2018",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Tusher",
+          "first1": "Hasan Jahid",
+          "last2": "Hasan",
+          "first2": "Rashidul",
+          "last3": "Bin Habib",
+          "first3": "Wasim",
+          "date": "13 January 2014",
+          "title": "Many go, a few stay",
+          "url": "http://www.thedailystar.net/many-go-a-few-stay-6674",
+          "newspaper": "The Daily Star",
+          "access-date": "13 November 2015",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Mahmud is married to Nuran Fatema."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,578 @@
+{
+  "title": "Anisul Huq (politician)",
+  "pageID": 50511993,
+  "categories": [
+    "1956 births",
+    "Living people",
+    "University of Dhaka alumni",
+    "Alumni of King's College London",
+    "Awami League politicians",
+    "10th Jatiya Sangsad members",
+    "State Ministers of Law, Justice and Parliamentary Affairs",
+    "11th Jatiya Sangsad members",
+    "Law, Justice and Parliamentary Affairs ministers of Bangladesh",
+    "People from Kasba Upazila"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Anisul Huq (born 30 March 1956) is a Bangladeshi lawyer and politician who is the Minister for Law, Justice and Parliamentary Affairs since 2014.",
+              "links": [
+                {
+                  "text": "Bangladeshi",
+                  "type": "internal",
+                  "page": "Bangladesh"
+                },
+                {
+                  "text": "Minister for Law, Justice and Parliamentary Affairs",
+                  "type": "internal",
+                  "page": "Ministry of Law, Justice and Parliamentary Affairs"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Anisul Huq"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Bangladeshi politician And lawyer",
+          "template": "short description"
+        },
+        {
+          "df": "yes",
+          "year": "1956",
+          "month": "03",
+          "day": "30",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "University of Dhaka",
+            "King's College London",
+            "Saint Joseph Higher Secondary School"
+          ],
+          "template": "unbulleted list"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Anisul Huq"
+          },
+          "native_name": {
+            "text": "আনিসুল হক"
+          },
+          "native_name_lang": {
+            "text": "bn"
+          },
+          "image": {
+            "text": "File:Advocate Anisul Huq.jpg"
+          },
+          "office": {
+            "text": "Minister for Law, Justice and Parliamentary Affairs",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Minister for Law, Justice and Parliamentary Affairs"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "12 January 2014"
+          },
+          "primeminister": {
+            "text": "Sheikh Hasina",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sheikh Hasina"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Shafique Ahmed",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Shafique Ahmed"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Member of Parliament",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Member of Parliament",
+                "anchor": "Bangladesh"
+              }
+            ]
+          },
+          "constituency1": {
+            "text": "Brahmanbaria-4",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Brahmanbaria-4"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "9 January 2014"
+          },
+          "predecessor1": {
+            "text": "Mohammad Shah Alam",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mohammad Shah Alam"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "March 30, 1956"
+          },
+          "party": {
+            "text": "Bangladesh Awami League",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bangladesh Awami League"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Dhaka\n\nKing's College London\n\nSaint Joseph Higher Secondary School."
+          },
+          "birth_place": {
+            "text": "Paniarup (Dargabari), Kasba, Brahmanbaria, East Pakistan",
+            "links": [
+              {
+                "text": "",
+                "type": "external",
+                "site": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-11th-parliament-members-english?layout=edit&id=3807"
+              },
+              {
+                "text": "Kasba",
+                "type": "internal",
+                "page": "Kasba Upazila"
+              },
+              {
+                "type": "internal",
+                "page": "Brahmanbaria"
+              },
+              {
+                "type": "internal",
+                "page": "East Pakistan"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Bangladeshi",
+            "links": [
+              {
+                "text": "Bangladeshi",
+                "type": "internal",
+                "page": "Bangladesh"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Nur Amtullah Rina Huq"
+          },
+          "parents": {
+            "text": "Serajul Huq (politician) (Father) \nJahanara Huq (Mother)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Serajul Huq (politician)"
+              }
+            ]
+          },
+          "education": {
+            "text": "Hons in English Literature, Masters in English Literature, LL.B (Bachelor of Laws) and LL.M (Masters of Laws)"
+          },
+          "relatives": {
+            "text": "Ariful Huq Rony (Brother)",
+            "links": [
+              {
+                "text": "",
+                "type": "external",
+                "site": "https://www.daily-sun.com/post/468278/Doa-Mahfil-held-for-Ariful-Huq-"
+              }
+            ]
+          },
+          "residence": {
+            "text": "(Gulshan-1), Dhaka",
+            "links": [
+              {
+                "text": "",
+                "type": "external",
+                "site": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-11th-parliament-members-english?layout=edit&id=3807"
+              },
+              {
+                "text": "(Gulshan-1)",
+                "type": "internal",
+                "page": "Gulshan Thana"
+              },
+              {
+                "type": "internal",
+                "page": "Dhaka"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://lawjusticediv.gov.bd/site/biography/f5cc93f6-2ad5-499b-a101-50f6625c3aaf",
+          "title": "Honorable Minister - Anisul Huq, M.P",
+          "website": "Government of the People's Republic of Bangladesh - Minister for Law, Justice and Parliamentary Affairs",
+          "url-status": "live",
+          "access-date": "15 April 2020",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Early life and education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Anisul Huq was the son of Advocate Serajul Huq, lawyer and a former member of parliament.",
+              "links": [
+                {
+                  "text": "Advocate Serajul Huq",
+                  "type": "internal",
+                  "page": "Serajul Huq (politician)"
+                }
+              ]
+            },
+            {
+              "text": "He was educated at Saint Joseph Higher Secondary School (Dhaka), the University of Dhaka (BA (Hons) English Literature; Masters in English Literature; LLB) and King's College London (LLM).",
+              "links": [
+                {
+                  "text": "Saint Joseph Higher Secondary School (Dhaka)",
+                  "type": "internal",
+                  "page": "St Joseph Higher Secondary School, Dhaka"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Dhaka"
+                },
+                {
+                  "text": "LLB",
+                  "type": "internal",
+                  "page": "Bachelor of Laws"
+                },
+                {
+                  "type": "internal",
+                  "page": "King's College London"
+                },
+                {
+                  "text": "LLM",
+                  "type": "internal",
+                  "page": "Master of Laws"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0
+    },
+    {
+      "title": "Law profession",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Anisul Huq was enrolled as a lawyer in the Dhaka District Bar in November 1985 and in the High Court Division of the Supreme Court of Bangladesh in November 1987.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "High Court Division"
+                },
+                {
+                  "type": "internal",
+                  "page": "Supreme Court of Bangladesh"
+                }
+              ]
+            },
+            {
+              "text": "In 2001 he was enrolled in the Appellate Division of the Supreme Court of Bangladesh as a lawyer and became a Senior Advocate of the Supreme Court of Bangladesh in 2010.",
+              "links": [
+                {
+                  "text": "Appellate Division",
+                  "type": "internal",
+                  "page": "Bangladesh Supreme Court, Appellate Division"
+                },
+                {
+                  "type": "internal",
+                  "page": "Supreme Court of Bangladesh"
+                },
+                {
+                  "type": "internal",
+                  "page": "Supreme Court of Bangladesh"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On his father's death, Anisul Huq became the Chief Special Prosecutor for both the Bangabandhu Murder Case and the Jail Killing case.",
+              "links": [
+                {
+                  "text": "Bangabandhu Murder",
+                  "type": "internal",
+                  "page": "Assassination of Sheikh Mujibur Rahman"
+                },
+                {
+                  "text": "Jail Killing",
+                  "type": "internal",
+                  "page": "Jail Killing Day"
+                }
+              ]
+            },
+            {
+              "text": "It was under his counsel that Bangabandhu Murder case was finally completed and a judgment was delivered by the apex court of this country.",
+              "links": [
+                {
+                  "text": "Bangabandhu Murder",
+                  "type": "internal",
+                  "page": "Assassination of Sheikh Mujibur Rahman"
+                }
+              ]
+            },
+            {
+              "text": "Anisul Huq was also the Chief Counsel and Special Prosecutor for the Anti-Corruption Commission, Bangladesh.",
+              "links": [
+                {
+                  "text": "Anti-Corruption Commission, Bangladesh",
+                  "type": "internal",
+                  "page": "Anti-Corruption Commission (Bangladesh)"
+                }
+              ]
+            },
+            {
+              "text": "Anisul Huq was also the Chief Prosecutor for the Peelkhana Carnage Case which relates to the mutiny of the Bangladesh Rifles in 2009.",
+              "links": [
+                {
+                  "text": "mutiny of the Bangladesh Rifles in 2009",
+                  "type": "internal",
+                  "page": "Bangladesh Rifles revolt"
+                }
+              ]
+            },
+            {
+              "text": "This case was also completed successfully under his leadership."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The late Advocate Serajul Huq and his son Anisul Huq both are Senior Advocates of the Supreme Court of Bangladesh, acted as counsel for most of the important, leading and sensitive criminal cases of the country during the 1980-2014 period.",
+              "links": [
+                {
+                  "text": "late Advocate Serajul Huq",
+                  "type": "internal",
+                  "page": "Serajul Huq (politician)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Supreme Court of Bangladesh"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Politics",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In the general elections held on 5 January 2014, Anisul Huq was elected as a Member of Parliament from Brahmanbaria-4 (Kasba-Akhaura) Constituency as a candidate of Bangladesh Awami League.",
+              "links": [
+                {
+                  "text": "In the general elections",
+                  "type": "internal",
+                  "page": "2014 Bangladeshi general election"
+                },
+                {
+                  "text": "Member of Parliament",
+                  "type": "internal",
+                  "page": "Jatiya Sangsad"
+                },
+                {
+                  "text": "Brahmanbaria-4 (Kasba-Akhaura)",
+                  "type": "internal",
+                  "page": "Brahmanbaria-4"
+                },
+                {
+                  "text": "Bangladesh Awami League",
+                  "type": "internal",
+                  "page": "Awami League"
+                }
+              ]
+            },
+            {
+              "text": "which also houses the ancestral home of Anisul Huq."
+            },
+            {
+              "text": "He took oath as a Member of Parliament on 9 January 2014.",
+              "links": [
+                {
+                  "text": "Member of Parliament on 9 January 2014",
+                  "type": "internal",
+                  "page": "List of members of the 10th Jatiya Sangsad"
+                }
+              ]
+            },
+            {
+              "text": "Thereafter he was inducted in the cabinet as a Minister on 12 January 2014 and was allocated the portfolio of Ministry of Law, Justice and Parliamentary Affairs.",
+              "links": [
+                {
+                  "text": "cabinet",
+                  "type": "internal",
+                  "page": "Third Sheikh Hasina Cabinet"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ministry of Law, Justice and Parliamentary Affairs"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In the 11th National Parliamentary Election held on 30 December 2018, Anisul Huq has once again been elected as Member of Parliament from the same Constituency as a candidate of Bangladesh Awami League.",
+              "links": [
+                {
+                  "text": "11th National Parliamentary Election",
+                  "type": "internal",
+                  "page": "2018 Bangladeshi general election"
+                },
+                {
+                  "text": "Member of Parliament",
+                  "type": "internal",
+                  "page": "Jatiya Sangsad"
+                },
+                {
+                  "text": "Bangladesh Awami League",
+                  "type": "internal",
+                  "page": "Awami League"
+                }
+              ]
+            },
+            {
+              "text": "He has taken oath as a Member of Parliament on 3 January 2019.",
+              "links": [
+                {
+                  "text": "Member of Parliament on 3 January 2019",
+                  "type": "internal",
+                  "page": "List of members of the 11th Jatiya Sangsad"
+                }
+              ]
+            },
+            {
+              "text": "He has further been appointed as the Minister for the Ministry of Law, Justice and Parliamentary Affairs and taken oath on 7 January 2019 as Minister.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ministry of Law, Justice and Parliamentary Affairs"
+                },
+                {
+                  "text": "7 January 2019 as Minister",
+                  "type": "internal",
+                  "page": "Fourth Sheikh Hasina Cabinet"
+                }
+              ]
+            },
+            {
+              "text": "He is the first person to be the Minister of the Ministry of Law, Justice and Parliamentary Affairs for consecutively two terms in the history of Bangladesh.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ministry of Law, Justice and Parliamentary Affairs"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bangladesh"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Anisul Huq was married to Nur Amtullah Rina Huq on 18 December 1987."
+            },
+            {
+              "text": "Rina Haque died on 2 January 1991 in a road accident."
+            },
+            {
+              "text": "His mother Jahanara Huq was the first chairman of Citizens Bank Bangladesh."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.banglanews24.com/national/news/bd/667291.details",
+          "title": "I lost my wife in an road accident, I understand the pain of losing loved one.",
+          "date": "1 August 2019",
+          "work": "Banglanews24.com",
+          "language": "bn",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}
