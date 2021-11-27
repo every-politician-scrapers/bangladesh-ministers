@@ -1,1 +1,4 @@
-wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
+wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,psid
+Q26923392,Abul Kalam Abdul Momen,Abul Kalam Abdul Momen,male,1947-08-23,11,,,Q1153140,Minister of Foreign Affairs of Bangladesh,Q26923392-197ADE06-A4F6-4CE0-9C0F-46D9A66D00F6
+Q52183,Sheikh Hasina,Sheikh Hasina,female,1947-09-28,11,,,Q14565638,Prime Minister of Bangladesh,Q52183-df101ad0-4630-ee43-ece5-e6a38198927f
+Q8046660,Yafes Osman,Yafes Osman,male,1946-05-01,11,,,Q29383100,Minister of Science and Technology,Q8046660-c6143cd6-4318-8caf-59d5-af86aee98d07
