@@ -13,8 +13,8 @@ class MemberList
 
     field :position do
       tds[5].text.tidy.split(/(?=Ministry )/).map(&:tidy).map do |posn|
-        posn.start_with?('Ministry') ? posn.sub('Ministry', 'Minister') : "Minister for #{posn}"
-      end
+        posn.start_with?('Ministry') ? posn.sub('Ministry', 'Minister') : nil
+      end.compact
     end
 
     field :start_date do
