@@ -179,65 +179,6 @@
           "type": "web"
         }
       ]
-    },
-    {
-      "title": "Career",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Uddin was elected to the parliament on 5 January 2014 from Moulvibazar-1 as a Bangladesh Awami League candidate."
-            },
-            {
-              "text": "He is also the whip of the parliament."
-            }
-          ]
-        }
-      ],
-      "references": [
-        {
-          "title": "Md. Shahab Uddin -মোঃ শাহাব উদ্দিন History",
-          "url": "https://amarmp.com/mp/684/history",
-          "website": "Amarmp",
-          "accessdate": "23 December 2018",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "MOULBIBAZAR: Whip of the National Parliament Md Shahab Uddin MP distributing agricultural materials to the members of local 11 farmers' associations at Barolekha Upazila recently.",
-          "url": "http://thedailynewnation.com/news/86888/moulbibazar-whip-of-the-national-parliament--md-shahab-uddin-mp-distributing--agricultural--materials--to-the-members-of-local-11-farmers-associations-at-barolekha-upazila-recently.html",
-          "accessdate": "23 December 2018",
-          "work": "The New Nation",
-          "language": "en",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "ASM Feroz made Chief Whip",
-          "url": "https://bdnews24.com/bangladesh/2014/01/24/asm-feroz-made-chief-whip",
-          "accessdate": "23 December 2018",
-          "work": "bdnews24.com",
-          "template": "citation",
-          "type": "news"
-        }
-      ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "authority control"
-        },
-        {
-          "template": "awamileague-politician-stub"
-        }
-      ]
     }
   ]
 }

@@ -252,55 +252,6 @@
           "type": "web"
         }
       ]
-    },
-    {
-      "title": "Career",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Karim was elected to parliament from Pirojpur-1 as a Bangladesh Awami League candidate 30 December 2018."
-            }
-          ]
-        }
-      ],
-      "references": [
-        {
-          "title": "S.M Rezaul Karim - শ ম রেজাউল করিম Biography",
-          "url": "https://amarmp.com/mp/17817/biography",
-          "website": "Amarmp",
-          "access-date": "5 August 2019",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Sayedee's son puts local BNP in a tight spot",
-          "url": "https://www.thedailystar.net/bangladesh-national-election-2018/news/sayedees-son-puts-local-bnp-tight-spot-1675723",
-          "access-date": "5 August 2019",
-          "work": "The Daily Star",
-          "date": "19 December 2018",
-          "language": "en",
-          "template": "citation",
-          "type": "news"
-        }
-      ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "authority control"
-        },
-        {
-          "template": "awamileague-politician-stub"
-        }
-      ]
     }
   ]
 }

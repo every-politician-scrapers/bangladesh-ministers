@@ -277,64 +277,6 @@
           "type": "web"
         }
       ]
-    },
-    {
-      "title": "Political life",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "He became the Minister of State in the Ministry of Food On 14 July 2015, one year after becoming a Member of Parliament."
-            },
-            {
-              "text": "He held the post from June 21 of the same year to January 8, 2019."
-            },
-            {
-              "text": "After winning the Eleventh Parliamentary Election, he has been serving as a Minister of the same Ministry since January 8, 2019."
-            }
-          ]
-        }
-      ],
-      "references": [
-        {
-          "script-title": "bn:খাদ্যের নুরুজ্জামান হলেন সমাজকল্যাণ প্রতিমন্ত্রী",
-          "url": "https://bangla.bdnews24.com/politics/article1170463.bdnews",
-          "access-date": "2021-05-26",
-          "work": "bdnews24.com",
-          "language": "bn",
-          "template": "citation",
-          "type": "news"
-        }
-      ]
-    },
-    {
-      "title": "Personal life",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "He is married to Hosne Ara Begum and the couple has 3 children."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "authority control"
-        },
-        {
-          "template": "awamileague-politician-stub"
-        }
-      ]
     }
   ]
 }

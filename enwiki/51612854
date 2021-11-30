@@ -313,24 +313,6 @@
           "type": "news"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "list": [
-            "30em"
-          ],
-          "template": "reflist"
-        },
-        {
-          "template": "ministry of chittagong hill tracts affairs"
-        },
-        {
-          "template": "awamileague-politician-stub"
-        }
-      ]
     }
   ]
 }
