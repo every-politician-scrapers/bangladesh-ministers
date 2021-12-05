@@ -57,6 +57,16 @@
           "day": "31",
           "df": "y",
           "template": "birth date and age"
+        },
+        {
+          "image": "Digital_Evidence_Seminar-2020_at_Westin.jpg",
+          "bsize": "1200",
+          "cwidth": "250",
+          "cheight": "300",
+          "otop": "380",
+          "oleft": "465",
+          "location": "center",
+          "template": "css image crop"
         }
       ],
       "infoboxes": [
