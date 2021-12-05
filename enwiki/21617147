@@ -253,9 +253,9 @@
             "text": "Member of Parliament",
             "links": [
               {
+                "text": "Member of Parliament",
                 "type": "internal",
-                "page": "Member of Parliament",
-                "anchor": "Bangladesh"
+                "page": "Member of Parliament (Bangladesh)"
               }
             ]
           },
@@ -293,7 +293,7 @@
             "text": "December 8, 1965"
           },
           "birth_place": {
-            "text": "Chandpur, East Pakistan, Pakistan",
+            "text": "Chandpur, Bangladesh",
             "links": [
               {
                 "text": "Chandpur",
@@ -302,7 +302,7 @@
               },
               {
                 "type": "internal",
-                "page": "East Pakistan"
+                "page": "Bangladesh"
               }
             ]
           },
