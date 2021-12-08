@@ -770,15 +770,6 @@
           },
           "nationality": {
             "text": "Bangladeshi"
-          },
-          "honorific_prefix": {
-            "text": "The Honourable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
           }
         }
       ],
