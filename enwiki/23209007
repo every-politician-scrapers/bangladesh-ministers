@@ -108,15 +108,6 @@
       ],
       "infoboxes": [
         {
-          "honorific_prefix": {
-            "text": "His Excellency",
-            "links": [
-              {
-                "type": "internal",
-                "page": "His Excellency"
-              }
-            ]
-          },
           "name": {
             "text": "Mohammad Abdul Hamid"
           },
