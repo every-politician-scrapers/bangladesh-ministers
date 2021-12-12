@@ -92,7 +92,7 @@
               ]
             },
             {
-              "text": "Hasina is the daughter of former president and prime minister of Bangladesh, Sheikh Mujibur Rahman, and the eldest daughter among his five children.",
+              "text": "She is the eldest daughter among the five children of the father of the nation of Bangladesh, Sheikh Mujibur Rahman.",
               "links": [
                 {
                   "type": "internal",
@@ -144,7 +144,7 @@
               "text": "In the 2014 Bangladeshi general election, she was re-elected for a third term as prime minister and in the 2018 general election she was re-elected for a fourth term."
             },
             {
-              "text": "Both these elections were boycotted by many of the opposition parties in Bangladesh, who criticised the elections and tried to discredit the elections by saying they were rigged."
+              "text": "Both these elections were boycotted by some of the opposition parties in Bangladesh, who criticized the elections and tried to discredit the elections by alleging they were rigged."
             },
             {
               "text": "Since 1981 Sheikh Hasina has led the Bangladesh Awami League, which is a major political party in Bangladesh."
@@ -270,7 +270,7 @@
             "text": "Sheikh Hasina in London 2011.jpg"
           },
           "caption": {
-            "text": "Hasina in 2011"
+            "text": "Sheikh Hasina in state visit to London in 2011"
           },
           "office": {
             "text": "Prime Minister of Bangladesh",
@@ -333,7 +333,7 @@
             "text": "23 June 1996"
           },
           "term_end1": {
-            "text": "15 July 2001"
+            "text": "15 December 2001"
           },
           "predecessor1": {
             "text": "Muhammad Habibur Rahman (acting)",
@@ -400,6 +400,9 @@
           },
           "term_start3": {
             "text": "6 January 2009"
+          },
+          "term_end3": {
+            "text": "30 December 2013"
           },
           "predecessor3": {
             "text": "Khaleda Zia",
@@ -738,15 +741,14 @@
             }
           },
           "children": {
-            "text": "Sajeeb Saima",
+            "text": "Sajeeb Wazed Joy Saima Wazed",
             "links": [
               {
-                "text": "Sajeeb",
+                "text": "Sajeeb Wazed Joy",
                 "type": "internal",
                 "page": "Sajeeb Wazed"
               },
               {
-                "text": "Saima",
                 "type": "internal",
                 "page": "Saima Wazed"
               }
@@ -770,6 +772,15 @@
           },
           "nationality": {
             "text": "Bangladeshi"
+          },
+          "honorific_prefix": {
+            "text": "The Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
           }
         }
       ],
