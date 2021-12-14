@@ -48,7 +48,7 @@
         {
           "sentences": [
             {
-              "text": "Sheikh Hasina Wazed (née Sheikh Hasina; ; শেখ হাসিনা ওয়াজেদ, ; born 28 September 1947) is the Prime Minister of Bangladesh.",
+              "text": "Sheikh Hasina Wazed (née Sheikh Hasina; ; শেখ হাসিনা ওয়াজেদ, ; born 28 September 1947) is a Bangladeshi politician who has been serving as the Prime Minister of Bangladesh since January 2009.",
               "links": [
                 {
                   "text": "née",
@@ -71,32 +71,15 @@
               }
             },
             {
-              "text": "She was sworn-in to office in January 2019 after her political party won a landslide in the 2018 Bangladesh general elections."
+              "text": "She previously served as prime minister from June 1996 to July 2001."
             },
             {
-              "text": "Sheikh Hasina is the longest serving prime minister in the history of Bangladesh, having served for a combined total of over seventeen years and four terms, similar to Tony Blair or Angela Merkel.",
+              "text": "She is the longest serving prime minister in the history of Bangladesh, having served for a combined total of over 17 years.",
               "links": [
                 {
                   "text": "history of Bangladesh",
                   "type": "internal",
                   "page": "History of Bangladesh (1971–present)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Tony Blair"
-                },
-                {
-                  "type": "internal",
-                  "page": "Angela Merkel"
-                }
-              ]
-            },
-            {
-              "text": "She is the eldest daughter among the five children of the father of the nation of Bangladesh, Sheikh Mujibur Rahman.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Sheikh Mujibur Rahman"
                 }
               ]
             }
@@ -105,10 +88,19 @@
         {
           "sentences": [
             {
-              "text": "Her political career has spanned over four decades."
+              "text": "Hasina is the daughter of Bangladesh's first president, Sheikh Mujibur Rahman, and the eldest of his five children.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sheikh Mujibur Rahman"
+                }
+              ]
             },
             {
-              "text": "She previously served as opposition leader from 1986 to 1990 and 1991 to 1995.",
+              "text": "Her political career has spanned more than four decades."
+            },
+            {
+              "text": "She previously served as opposition leader from 1986 to 1990, and 1991 to 1995, then as prime minister from 1996 to 2001.",
               "links": [
                 {
                   "text": "opposition leader",
@@ -124,12 +116,7 @@
                   "text": "1991 to 1995",
                   "type": "internal",
                   "page": "1991 Bangladeshi general election"
-                }
-              ]
-            },
-            {
-              "text": "Then she was elected prime minister for the first time and served from 1996 to 2001 but she became opposition leader once again from 2002 to 2008 after losing the 2001 general election.",
-              "links": [
+                },
                 {
                   "text": "1996 to 2001",
                   "type": "internal",
@@ -138,23 +125,56 @@
               ]
             },
             {
-              "text": "In 2009, she was sworn in for her second term as Prime Minister, having won a landslide victory in the 2008 Bangladeshi general election."
+              "text": "She has led the Awami League (AL) since 1981.",
+              "links": [
+                {
+                  "text": "Awami League",
+                  "type": "internal",
+                  "page": "Bangladesh Awami League"
+                }
+              ]
             },
             {
-              "text": "In the 2014 Bangladeshi general election, she was re-elected for a third term as prime minister and in the 2018 general election she was re-elected for a fourth term."
+              "text": "In 2009, she was sworn in for her second term as Prime Minister, having won a landslide victory in the 2008 general election.",
+              "links": [
+                {
+                  "text": "2008 general election",
+                  "type": "internal",
+                  "page": "2008 Bangladeshi general election"
+                }
+              ]
             },
             {
-              "text": "Both these elections were boycotted by some of the opposition parties in Bangladesh, who criticized the elections and tried to discredit the elections by alleging they were rigged."
+              "text": "In 2014, she was re-elected for a third term in an election that was boycotted by the BNP and criticised by international observers.",
+              "links": [
+                {
+                  "text": "2014",
+                  "type": "internal",
+                  "page": "2014 Bangladeshi general election"
+                },
+                {
+                  "text": "BNP",
+                  "type": "internal",
+                  "page": "Bangladesh Nationalist Party"
+                }
+              ]
             },
             {
-              "text": "Since 1981 Sheikh Hasina has led the Bangladesh Awami League, which is a major political party in Bangladesh."
+              "text": "She won a fourth term in 2018, following an election marred with violence and criticised by the opposition as being rigged.",
+              "links": [
+                {
+                  "text": "2018",
+                  "type": "internal",
+                  "page": "2018 Bangladeshi general election"
+                }
+              ]
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "Sheikh Hasina has been considered one of the most powerful women in the world, ranking 39th on Forbes magazine's list of The World's 100 Most Powerful Women in 2020, 26th in 2018, and 30th in 2017.",
+              "text": "Hasina has been considered one of the most powerful women in the world, ranking 39th on Forbes magazine's list of The World's 100 Most Powerful Women in 2020, 26th in 2018, and 30th in 2017.",
               "links": [
                 {
                   "text": "women",
@@ -199,6 +219,19 @@
                   "Time"
                 ]
               }
+            },
+            {
+              "text": "Reporters Without Borders in 2021 characterised Sheikh Hasina as a predator for curbing press freedom in Bangladesh since 2014.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Reporters Without Borders"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bangladesh"
+                }
+              ]
             }
           ]
         }
@@ -270,7 +303,7 @@
             "text": "Sheikh Hasina in London 2011.jpg"
           },
           "caption": {
-            "text": "Sheikh Hasina in state visit to London in 2011"
+            "text": "Hasine in 2011"
           },
           "office": {
             "text": "Prime Minister of Bangladesh",
@@ -333,7 +366,7 @@
             "text": "23 June 1996"
           },
           "term_end1": {
-            "text": "15 December 2001"
+            "text": "15 July 2001"
           },
           "predecessor1": {
             "text": "Muhammad Habibur Rahman (acting)",
@@ -400,9 +433,6 @@
           },
           "term_start3": {
             "text": "6 January 2009"
-          },
-          "term_end3": {
-            "text": "30 December 2013"
           },
           "predecessor3": {
             "text": "Khaleda Zia",
@@ -741,14 +771,15 @@
             }
           },
           "children": {
-            "text": "Sajeeb Wazed Joy Saima Wazed",
+            "text": "Sajeeb Saima",
             "links": [
               {
-                "text": "Sajeeb Wazed Joy",
+                "text": "Sajeeb",
                 "type": "internal",
                 "page": "Sajeeb Wazed"
               },
               {
+                "text": "Saima",
                 "type": "internal",
                 "page": "Saima Wazed"
               }
@@ -785,6 +816,16 @@
         }
       ],
       "references": [
+        {
+          "date": "2021-09-28",
+          "title": "Happy birthday, prime minister Shaikh Hasina",
+          "url": "https://rawmarketer.com/happy-birthday-prime-minister-shaikh-hasina/",
+          "access-date": "2021-11-18",
+          "website": "Raw Marketer",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
         {
           "url": "http://www.btrc.gov.bd/content/sheikh-hasina",
           "title": "Sheikh Hasina",
@@ -897,6 +938,16 @@
           "url-status": "live",
           "template": "citation",
           "type": "magazine"
+        },
+        {
+          "title": "Predator Sheikh Hasina",
+          "url": "https://rsf.org/en/predator/sheikh-hasina",
+          "access-date": "5 July 2021",
+          "website": "Reporters Without Borders",
+          "date": "30 June 2021",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
         },
         {
           "url": "https://www.thedailystar.net/city/news/happy-birthday-pm-1806445",
