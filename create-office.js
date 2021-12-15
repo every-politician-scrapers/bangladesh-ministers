@@ -11,7 +11,6 @@ module.exports = (label, ministry) => {
     P1001: { value: meta.jurisdiction.id },
     P361: { // part of
       value: meta.cabinet.parent,
-      references: { P854: meta.source.url },
     }
   }
 
