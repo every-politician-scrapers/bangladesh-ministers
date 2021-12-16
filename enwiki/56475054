@@ -20,7 +20,7 @@
         {
           "sentences": [
             {
-              "text": "Syed Mahmud Hossain (born 31 December 1954) is the 22nd and current Chief Justice of Bangladesh.",
+              "text": "Syed Mahmud Hossain (born 31 December 1954) is the 22nd Chief Justice of Bangladesh.",
               "links": [
                 {
                   "text": "22nd",
@@ -38,6 +38,9 @@
                   "Syed Mahmud Hossain"
                 ]
               }
+            },
+            {
+              "text": "He will retire on 30 December, 2021."
             }
           ]
         }
@@ -164,6 +167,15 @@
           "newspaper": "The Daily Observer",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "date": "2021-12-16",
+          "title": "Chief Justice: We need a law to appoint High Court judges",
+          "url": "https://www.dhakatribune.com/bangladesh/court/2021/12/16/chief-justice-we-need-a-law-to-appoint-high-court-judges",
+          "access-date": "2021-12-15",
+          "website": "Dhaka Tribune",
+          "template": "citation",
+          "type": "web"
         },
         {
           "url": "https://bdnews24.com/bangladesh/2018/02/02/president-appoints-justice-syed-mahmud-hossain-as-chief-justice",
