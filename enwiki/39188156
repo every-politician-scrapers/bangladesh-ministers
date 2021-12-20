@@ -25,6 +25,10 @@
               "text": "Shirin Sharmin Chaudhury (born 6 October 1966) is the current and the first woman Speaker of the Jatiya Sangsad since April 2013.",
               "links": [
                 {
+                  "type": "internal",
+                  "page": "Shirin Sharmin Chaudhury"
+                },
+                {
                   "text": "Speaker",
                   "type": "internal",
                   "page": "Speaker (politics)"
@@ -48,6 +52,10 @@
               "links": [
                 {
                   "type": "internal",
+                  "page": "Chairperson of the Executive Committee"
+                },
+                {
+                  "type": "internal",
                   "page": "Commonwealth Parliamentary Association"
                 }
               ]
@@ -55,6 +63,15 @@
             {
               "text": "She previously served as the state minister of the Ministry of Women and Children Affairs of Bangladesh.",
               "links": [
+                {
+                  "text": "state minister",
+                  "type": "internal",
+                  "page": "Minister of State"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ministry of Women and Children Affairs"
+                },
                 {
                   "type": "internal",
                   "page": "Bangladesh"
