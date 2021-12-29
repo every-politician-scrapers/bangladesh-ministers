@@ -199,6 +199,15 @@
             "text": "2018",
             "number": 2018
           },
+          "president3": {
+            "text": "Abdul Hamid",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Abdul Hamid"
+              }
+            ]
+          },
           "primeminister3": {
             "text": "Sheikh Hasina",
             "links": [

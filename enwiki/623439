@@ -48,7 +48,7 @@
         {
           "sentences": [
             {
-              "text": "Sheikh Hasina Wazed (née Sheikh Hasina; ; শেখ হাসিনা ওয়াজেদ, ; born 28 September 1947) is a Bangladeshi politician who has been serving as the Prime Minister of Bangladesh since January 2009.",
+              "text": "Sheikh Hasina Wazed (née Sheikh Hasina ; ; শেখ হাসিনা ওয়াজেদ, ; born 28 September 1947) is a Bangladeshi politician who has been serving as the Prime Minister of Bangladesh since January 2009.",
               "links": [
                 {
                   "text": "née",
@@ -822,6 +822,9 @@
                 "page": "The Honourable"
               }
             ]
+          },
+          "died": {
+            "text": "28 December 2021"
           }
         }
       ],
