@@ -20,7 +20,7 @@
         {
           "sentences": [
             {
-              "text": "Syed Mahmud Hossain (born 31 December 1954) is the 22nd Chief Justice of Bangladesh.",
+              "text": "Syed Mahmud Hossain (born 31 December 1954) was the 22nd Chief Justice of Bangladesh.",
               "links": [
                 {
                   "text": "22nd",
@@ -40,7 +40,7 @@
               }
             },
             {
-              "text": "He will retire on 30 December, 2021."
+              "text": "He retired on 30 December 2021."
             }
           ]
         }
@@ -59,13 +59,6 @@
           "template": "about"
         },
         {
-          "year": "1954",
-          "month": "12",
-          "day": "31",
-          "df": "y",
-          "template": "birth date and age"
-        },
-        {
           "image": "Digital_Evidence_Seminar-2020_at_Westin.jpg",
           "bsize": "1200",
           "cwidth": "250",
@@ -74,10 +67,20 @@
           "oleft": "465",
           "location": "center",
           "template": "css image crop"
+        },
+        {
+          "year": "1954",
+          "month": "12",
+          "day": "31",
+          "df": "y",
+          "template": "birth date and age"
         }
       ],
       "infoboxes": [
         {
+          "honorific_prefix": {
+            "text": "Justice"
+          },
           "name": {
             "text": "Syed Mahmud Hossain"
           },
@@ -86,6 +89,9 @@
           },
           "native_name_lang": {
             "text": "bn"
+          },
+          "caption": {
+            "text": "Hossain in January 2020"
           },
           "office": {
             "text": "22nd Chief Justice of Bangladesh",
@@ -118,30 +124,17 @@
               }
             ]
           },
-          "birth_date": {
-            "text": "December 31, 1954"
-          },
-          "birth_place": {
-            "text": "Nangalkot Upazila, Comilla District, East Bengal, Pakistan",
+          "successor": {
+            "text": "Hasan Foez Siddique",
             "links": [
               {
                 "type": "internal",
-                "page": "Nangalkot Upazila"
-              },
-              {
-                "type": "internal",
-                "page": "Comilla District"
-              },
-              {
-                "type": "internal",
-                "page": "East Bengal"
-              },
-              {
-                "text": "Pakistan",
-                "type": "internal",
-                "page": "Dominion of Pakistan"
+                "page": "Hasan Foez Siddique"
               }
             ]
+          },
+          "birth_date": {
+            "text": "December 31, 1954"
           },
           "nationality": {
             "text": "Bangladeshi"
@@ -157,9 +150,6 @@
           },
           "profession": {
             "text": "Judge"
-          },
-          "honorific_prefix": {
-            "text": "Justice"
           }
         }
       ],
