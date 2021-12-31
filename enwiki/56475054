@@ -105,6 +105,9 @@
           "term_start": {
             "text": "2 February 2018"
           },
+          "term_end": {
+            "text": "30 December 2021"
+          },
           "appointer": {
             "text": "Abdul Hamid",
             "links": [
