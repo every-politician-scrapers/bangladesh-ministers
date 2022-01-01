@@ -1,0 +1,165 @@
+{
+  "title": "Hasan Foez Siddique",
+  "pageID": 56843712,
+  "categories": [
+    "Living people",
+    "1956 births",
+    "University of Dhaka alumni",
+    "Bangladeshi lawyers",
+    "Bangladeshi judges",
+    "Supreme Court of Bangladesh justices",
+    "Chief Justices of Bangladesh",
+    "Place of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Hasan Foez Siddique (born 26 September 1956) is the current and the 23rd Chief Justice of Bangladesh of the Supreme Court of Bangladesh since December 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Chief Justice of Bangladesh"
+                },
+                {
+                  "type": "internal",
+                  "page": "Supreme Court of Bangladesh"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Hasan Foez Siddique"
+                ]
+              }
+            },
+            {
+              "text": "He suppose to retire on 25 September 2023."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "year": "1956",
+          "month": "09",
+          "day": "26",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Honourable Chief Justice",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Hasan Foez Siddique"
+          },
+          "native_name": {
+            "text": "হাসান ফয়েজ সিদ্দিকী"
+          },
+          "native_name_lang": {
+            "text": "bn"
+          },
+          "office": {
+            "text": "23rd Chief Justice of Bangladesh",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chief Justice of Bangladesh"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "30 December 2021"
+          },
+          "predecessor": {
+            "text": "Syed Mahmud Hossain",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Syed Mahmud Hossain"
+              }
+            ]
+          },
+          "appointer": {
+            "text": "Abdul Hamid",
+            "links": [
+              {
+                "text": "Abdul Hamid",
+                "type": "internal",
+                "page": "Abdul Hamid (politician)"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "September 26, 1956"
+          },
+          "nationality": {
+            "text": "Bangladeshi"
+          },
+          "alma_mater": {
+            "text": "University of Dhaka",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Dhaka"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Annual Report 2014",
+          "url": "http://www.supremecourt.gov.bd/resources/contents/Annual_Report_2014.pdf",
+          "publisher": "Supreme Court of Bangladesh",
+          "accessdate": "15 March 2018",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Desk",
+          "first": "City",
+          "date": "2015-05-01",
+          "title": "Justice Hasan Foez new Judicial Service Commission chairman",
+          "url": "https://www.thedailystar.net/city/justice-hasan-new-judicial-service-commission-chairman-80070",
+          "access-date": "2021-12-22",
+          "website": "The Daily Star",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "ডটকম",
+          "first": "জ্যেষ্ঠ প্রতিবেদক বিডিনিউজ টোয়েন্টিফোর",
+          "title": "নতুন প্রধান বিচারপতি হাসান ফয়েজ সিদ্দিকী",
+          "url": "https://bangla.bdnews24.com/bangladesh/article1992100.bdnews",
+          "access-date": "2021-12-30",
+          "website": "bangla.bdnews24.com",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "হাসান ফয়েজ সিদ্দিকী প্রধান বিচারপতি",
+          "url": "https://www.dailyinqilab.com/article/448716/%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A6%BE%E0%A6%A8-%E0%A6%AB%E0%A7%9F%E0%A7%87%E0%A6%9C-%E0%A6%B8%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A6%BF%E0%A6%95%E0%A7%80-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8-%E0%A6%AC%E0%A6%BF%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A6%AA%E0%A6%A4%E0%A6%BF",
+          "access-date": "2021-12-30",
+          "website": "DailyInqilabOnline",
+          "language": "bn",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}
