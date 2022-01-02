@@ -19,9 +19,10 @@
         {
           "sentences": [
             {
-              "text": "Hasan Foez Siddique (born 26 September 1956) is the current and the 23rd Chief Justice of Bangladesh of the Supreme Court of Bangladesh since December 2021.",
+              "text": "Hasan Foez Siddique (born 26 September 1956) is a Bangladeshi lawyer and jurist currently serving as the 23rd Chief Justice of the Supreme Court of Bangladesh.",
               "links": [
                 {
+                  "text": "Chief Justice",
                   "type": "internal",
                   "page": "Chief Justice of Bangladesh"
                 },
@@ -37,7 +38,7 @@
               }
             },
             {
-              "text": "He suppose to retire on 25 September 2023."
+              "text": "He scheduled to retire in September 2023."
             }
           ]
         }
