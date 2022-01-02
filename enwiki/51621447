@@ -226,56 +226,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "AL-led Grand Alliance wins 287 seats, Oikyafront 6 seats",
-          "url": "http://en.ntvbd.com/bangladesh/179673/AL-led-Grand-Alliance-wins-in-271-constituencies",
-          "work": "NTV",
-          "date": "30 December 2018",
-          "access-date": "10 January 2019",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.thedailystar.net/politics/new-cabinet-members-of-bangladesh-government-formed-monday-1683733",
-          "title": "47-member new cabinet announced",
-          "date": "2019-01-06",
-          "work": "The Daily Star",
-          "language": "en",
-          "access-date": "2019-01-08",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Rice at Tk10 per kg for ultra poor",
-          "url": "http://www.dhakatribune.com/bangladesh/2016/09/07/rice-tk10-per-kg-ultra-poor/",
-          "work": "Dhaka Tribune",
-          "access-date": "16 September 2016",
-          "date": "7 September 2016",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "State Minister Nuruzzaman Ahmed moved to social welfare",
-          "url": "http://bdnews24.com/bangladesh/2016/06/19/state-minister-nuruzzaman-ahmed-moved-to-social-welfare",
-          "work": "bdnews24.com",
-          "access-date": "16 September 2016",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "date": "2018-12-20",
-          "script-title": "bn:নুরুজ্জামান-আহমেদ-এম-পি",
-          "url": "https://msw.gov.bd/site/office_head/e1426f44-9135-4710-b64b-60b79febd588/নুরুজ্জামান-আহমেদ-এম-পি",
-          "website": "Ministry of Social Welfare",
-          "language": "bn",
-          "archive-url": "http://archive.today/2018.12.20-005841/https://msw.gov.bd/site/office_head/e1426f44-9135-4710-b64b-60b79febd588/%E0%A6%A8%E0%A7%81%E0%A6%B0%E0%A7%81%E0%A6%9C%E0%A7%8D%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%A8-%E0%A6%86%E0%A6%B9%E0%A6%AE%E0%A7%87%E0%A6%A6-%E0%A6%8F%E0%A6%AE-%E0%A6%AA%E0%A6%BF",
-          "archive-date": "2018-12-20",
-          "access-date": "2021-05-26",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

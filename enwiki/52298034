@@ -222,61 +222,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-11th-parliament-members-english?layout=edit&id=3764&csrt=7075618611143794859",
-          "title": "Constituency 204_11th_En",
-          "website": "www.parliament.gov.bd",
-          "access-date": "2020-03-17",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.parliament.gov.bd/index.php/bn/mps-bangla/members-of-parliament-bangla/current-mps-bangla/2014-03-23-11-45-04?layout=edit&id=2104",
-          "title": "Constituency 204_10th_En",
-          "last": "Golam Dastagir Gazi",
-          "website": "www.parliament.gov.bd",
-          "language": "bn-bd",
-          "access-date": "2018-09-24",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.thedailystar.net/politics/new-cabinet-members-of-bangladesh-government-formed-monday-1683733",
-          "title": "47-member new cabinet announced",
-          "date": "January 6, 2019",
-          "website": "The Daily Star",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Larger number of taxpayers going to get tax cards",
-          "url": "http://www.thefinancialexpress-bd.com/2016/03/22/22586",
-          "work": "The Financial Express",
-          "location": "Dhaka",
-          "accessdate": "16 November 2016",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "http://www.bssnews.net/?p=361262",
-          "title": "Govt. issues revised list of Independence Award 2020 recipients",
-          "publisher": "Bangladesh Sangbad Sangstha (BSS",
-          "language": "en-US",
-          "access-date": "2020-03-17",
-          "date": "2020-03-12",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "BCB sells worldwide media rights for $20.02 million",
-          "url": "http://www.espncricinfo.com/bangladesh/content/story/745199.html",
-          "website": "Cricinfo",
-          "accessdate": "16 November 2016",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

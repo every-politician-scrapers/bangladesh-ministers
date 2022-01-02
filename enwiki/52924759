@@ -271,38 +271,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.dhakatribune.com/bangladesh/government-affairs/2019/07/11/cabinet-reshuffle-2-new-ministers-to-take-oath",
-          "title": "Imran to become minister, Indira state minister",
-          "date": "2019-07-11",
-          "work": "Dhaka Tribune",
-          "access-date": "2019-07-13",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Constituency 232",
-          "url": "http://www.parliament.gov.bd/index.php/mps/members-of-parliament/former-mp-s/list-of-5th-parliament-members-bangla/110-mps-category/mps-of-9th-parliament/889-constituency-232",
-          "website": "parliament.gov.bd",
-          "access-date": "19 January 2017",
-          "language": "en-gb",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Final Election Result from EC",
-          "url": "http://www.bssnews.net/newsDetails.php?cat=0&id=381134$date=2014-01-05&dateCurrent=2014-01-11",
-          "work": "Bangladesh Sangbad Sangstha",
-          "access-date": "19 January 2017",
-          "language": "en",
-          "archive-url": "https://web.archive.org/web/20170202055009/http://www.bssnews.net/newsDetails.php?cat=0&id=381134$date=2014-01-05&dateCurrent=2014-01-11",
-          "archive-date": "2 February 2017",
-          "url-status": "dead",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

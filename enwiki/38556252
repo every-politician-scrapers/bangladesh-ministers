@@ -265,62 +265,6 @@
             "text": "Politician, agriculturalist"
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.thedailystar.net/news-detail-249887",
-          "title": "MKA replaces Shahara",
-          "date": "16 September 2012",
-          "work": "The Daily Star",
-          "access-date": "20 August 2018",
-          "language": "en",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.thedailystar.net/politics/new-cabinet-members-of-bangladesh-government-formed-monday-1683733",
-          "title": "47-member new cabinet announced",
-          "date": "6 January 2019",
-          "work": "The Daily Star",
-          "language": "en",
-          "access-date": "8 January 2019",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "National Board of Revenue (NBR), Bangladesh",
-          "url": "http://nbr.gov.bd/about-us/standing-committee-on-ministry-of-finance/ban",
-          "website": "nbr.gov.bd",
-          "access-date": "23 January 2019",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "script-title": "bn:মধুপুরে ড. আবদুর রাজ্জাকের ওপরই আস্থা আ’লীগের",
-          "url": "http://www.jaijaidinbd.com/todays-paper/eleventh-national-parliament-election/25368/%E0%A6%AE%E0%A6%A7%E0%A7%81%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%87-%E0%A6%A1.-%E0%A6%86%E0%A6%AC%E0%A6%A6%E0%A7%81%E0%A6%B0-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%8D%E0%A6%9C%E0%A6%BE%E0%A6%95%E0%A7%87%E0%A6%B0--%E0%A6%93%E0%A6%AA%E0%A6%B0%E0%A6%87-%E0%A6%86%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE-%E0%A6%86%E0%A6%B2%E0%A7%80%E0%A6%97%E0%A7%87%E0%A6%B0",
-          "work": "Jaijaidin",
-          "language": "bn",
-          "access-date": "23 January 2019",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "script-title": "bn:আওয়ামী লীগের নির্বাচনী ইশতেহার ১০ ডিসেম্বর {{!}} বাংলাদেশ প্রতিদিন",
-          "url": "http://www.bd-pratidin.com/last-page/2018/11/25/378530",
-          "work": "Bangladesh Pratidin",
-          "language": "bn",
-          "access-date": "23 January 2019",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "script-title": "bn:মাননীয় মন্ত্রীর জীবনী",
-          "url": "https://moa.gov.bd/site/page/a9a60dc0-94e7-41cc-9b28-9c76e2cd915d",
-          "website": "Ministry of Agriculture",
-          "access-date": "23 January 2019",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

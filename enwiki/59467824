@@ -159,25 +159,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-11th-parliament-members-english?layout=edit&id=3796",
-          "title": "Constituency 235",
-          "website": "Bangladesh Parliament",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.thedailystar.net/politics/new-cabinet-members-of-bangladesh-government-formed-monday-1683733",
-          "title": "47-member new cabinet announced",
-          "date": "2019-01-06",
-          "website": "The Daily Star",
-          "language": "en",
-          "access-date": "2019-01-08",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
