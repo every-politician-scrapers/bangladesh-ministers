@@ -139,32 +139,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.thedailystar.net/politics/new-cabinet-members-of-bangladesh-government-formed-monday-1683733",
-          "title": "47-member new cabinet announced",
-          "date": "2019-01-06",
-          "work": "The Daily Star",
-          "language": "en",
-          "access-date": "2019-01-08",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "author": "Hafez Ahmed",
-          "date": "2009-01-14",
-          "title": "Yafes Osman visits BASIS, ICT Incubator",
-          "url": "http://www.thefinancialexpress-bd.com/2009/01/14/55848.html",
-          "newspaper": "The Financial Express",
-          "location": "Dhaka",
-          "access-date": "2012-08-05",
-          "url-status": "dead",
-          "archive-url": "https://web.archive.org/web/20120305061805/http://www.thefinancialexpress-bd.com/2009/01/14/55848.html",
-          "archive-date": "5 March 2012",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

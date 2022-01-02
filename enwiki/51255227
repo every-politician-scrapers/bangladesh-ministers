@@ -207,29 +207,6 @@
             "text": "200px"
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-11th-parliament-members-english",
-          "title": "List of 11th Parliament Members",
-          "website": "Bangladesh Parliament",
-          "access-date": "10 January 2019",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last1": "Adhikary",
-          "first1": "Tuhin Shubhra",
-          "last2": "Bhattacharjee",
-          "first2": "Partha Pratim",
-          "date": "7 January 2019",
-          "title": "Hasina Axes Heavyweights",
-          "url": "https://www.thedailystar.net/bangladesh-national-election-2018/news/hasina-banks-fresh-blood-1684012",
-          "work": "The Daily Star",
-          "access-date": "10 January 2019",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

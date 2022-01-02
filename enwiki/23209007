@@ -283,59 +283,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "others": "PTI",
-          "date": "2019-01-03",
-          "title": "Bangladesh President invites Hasina to form government",
-          "language": "en-IN",
-          "work": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/bangladesh-president-invites-hasina-to-form-government/article25900462.ece",
-          "access-date": "2020-05-14",
-          "issn": "0971-751X",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "President Hamid made a unique record",
-          "url": "https://www.thedailystar.net/politics/president-abdul-hamid-made-unique-record-in-the-history-of-bangladesh-by-swearing-1567549",
-          "date": "2018-04-25",
-          "work": "The Daily Star",
-          "language": "en",
-          "access-date": "2020-05-14",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.thedailystar.net/news/hamid-elected-president",
-          "title": "Hamid elected president",
-          "date": "22 April 2013",
-          "access-date": "28 October 2018",
-          "work": "The Daily Star",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "access-date": "2018-10-28",
-          "title": "Hamid elected president for second term",
-          "url": "https://www.thedailystar.net/politics/abdul-hamid-elected-president-of-bangladesh-second-term-1531225",
-          "newspaper": "The Daily Star",
-          "date": "7 February 2018",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "http://www.parliament.gov.bd/biography_speaker.pdf",
-          "title": "Speaker's Biography",
-          "publisher": "Bangladesh Parliament",
-          "access-date": "22 March 2011",
-          "url-status": "dead",
-          "archive-url": "https://web.archive.org/web/20110706132401/http://www.parliament.gov.bd/biography_speaker.pdf",
-          "archive-date": "6 July 2011",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
