@@ -38,12 +38,16 @@
               }
             },
             {
-              "text": "He scheduled to retire in September 2023."
+              "text": "He is scheduled to retire in September 2023."
             }
           ]
         }
       ],
       "templates": [
+        {
+          "description": "23rd Chief Justice of Bangladesh",
+          "template": "short description"
+        },
         {
           "year": "1956",
           "month": "09",
