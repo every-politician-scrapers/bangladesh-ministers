@@ -14,7 +14,8 @@
     "Harvard Business School alumni",
     "Bangladeshi officials of the United Nations",
     "11th Jatiya Sangsad members",
-    "Foreign ministers of Bangladesh"
+    "Foreign ministers of Bangladesh",
+    "Bangladeshi people of Arab descent"
   ],
   "sections": [
     {
@@ -24,7 +25,7 @@
         {
           "sentences": [
             {
-              "text": "Abul Kalam Abdul Momen (আব্দুল কালাম আব্দুল মোমেন) (born 23 August 1947) is a Bangladeshi economist, diplomat, politician and the Minister of Foreign Affairs of Bangladesh.",
+              "text": "Abul Kalam Abdul Momen (আব্দুল কালাম আব্দুল মোমেন; born 23 August 1947) is a Bangladeshi economist, diplomat, politician and the Minister of Foreign Affairs of Bangladesh.",
               "links": [
                 {
                   "text": "Minister of Foreign Affairs",
@@ -277,9 +278,10 @@
             "text": "University of Dhaka (BA, MA)\n\nNortheastern University (PhD)"
           },
           "relatives": {
-            "text": "Abul Maal Abdul Muhith (brother)",
+            "text": "AM Abdul Muhith (brother)",
             "links": [
               {
+                "text": "AM Abdul Muhith",
                 "type": "internal",
                 "page": "Abul Maal Abdul Muhith"
               }
