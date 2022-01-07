@@ -169,18 +169,13 @@
             "text": "1982 - present"
           },
           "rank": {
-            "text": "Admiral",
+            "text": "14.BNF-ADMF.svg Admiral",
             "links": [
               {
                 "type": "internal",
                 "page": "Admiral"
               }
-            ],
-            "formatting": {
-              "bold": [
-                "Admiral"
-              ]
-            }
+            ]
           },
           "commands": {
             "text": "• Assistant Chief of Naval Staff (Operations) • Assistant Chief of Naval Staff (Personnel) • Commandar of Chattogram Naval Area • Commandar of Khulna Naval Area"
