@@ -115,6 +115,25 @@
               }
             ]
           },
+          "president": {
+            "text": "Abdul Hamid",
+            "links": [
+              {
+                "text": "Abdul Hamid",
+                "type": "internal",
+                "page": "Abdul Hamid (politician)"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Sheikh Hasina",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sheikh Hasina"
+              }
+            ]
+          },
           "predecessor": {
             "text": "Abul Mal Abdul Muhit",
             "links": [
@@ -127,7 +146,7 @@
           "term_start": {
             "text": "7 January 2019"
           },
-          "office1": {
+          "office2": {
             "text": "Minister for Planning",
             "links": [
               {
@@ -136,13 +155,32 @@
               }
             ]
           },
-          "term_start1": {
+          "president2": {
+            "text": "Abdul Hamid",
+            "links": [
+              {
+                "text": "Abdul Hamid",
+                "type": "internal",
+                "page": "Abdul Hamid (politician)"
+              }
+            ]
+          },
+          "primeminister2": {
+            "text": "Sheikh Hasina",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sheikh Hasina"
+              }
+            ]
+          },
+          "term_start2": {
             "text": "12 January 2014"
           },
-          "term_end1": {
+          "term_end2": {
             "text": "7 January 2019"
           },
-          "successor1": {
+          "successor2": {
             "text": "Muhammad Abdul Mannan",
             "links": [
               {
@@ -151,16 +189,17 @@
               }
             ]
           },
-          "office2": {
+          "office3": {
             "text": "President of the International Cricket Council",
             "links": [
               {
+                "text": "President of the International Cricket Council",
                 "type": "internal",
                 "page": "International Cricket Council"
               }
             ]
           },
-          "predecessor2": {
+          "predecessor3": {
             "text": "Alan Isaac",
             "links": [
               {
@@ -169,7 +208,7 @@
               }
             ]
           },
-          "successor2": {
+          "successor3": {
             "text": "Zaheer Abbas",
             "links": [
               {
@@ -178,28 +217,29 @@
               }
             ]
           },
-          "term_start2": {
+          "term_start3": {
             "text": "1 July 2014"
           },
-          "term_end2": {
+          "term_end3": {
             "text": "1 April 2015"
           },
-          "office3": {
+          "office4": {
             "text": "President of the Bangladesh Cricket Board",
             "links": [
               {
+                "text": "President of the Bangladesh Cricket Board",
                 "type": "internal",
                 "page": "Bangladesh Cricket Board"
               }
             ]
           },
-          "term_start3": {
+          "term_start4": {
             "text": "23 September 2009"
           },
-          "term_end3": {
+          "term_end4": {
             "text": "17 October 2012"
           },
-          "predecessor3": {
+          "predecessor4": {
             "text": "Sina Ibn Jamali",
             "links": [
               {
@@ -208,7 +248,7 @@
               }
             ]
           },
-          "successor3": {
+          "successor4": {
             "text": "Nazmul Hasan Papon",
             "links": [
               {
@@ -217,7 +257,17 @@
               }
             ]
           },
-          "constituency_mp4": {
+          "office1": {
+            "text": "Member of Parliament",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Member of Parliament",
+                "anchor": "Bangladesh"
+              }
+            ]
+          },
+          "constituency1": {
             "text": "Comilla-10",
             "links": [
               {
@@ -226,7 +276,7 @@
               }
             ]
           },
-          "predecessor4": {
+          "predecessor1": {
             "text": "Anwarul Azim",
             "links": [
               {
@@ -236,7 +286,7 @@
               }
             ]
           },
-          "term_start4": {
+          "term_start1": {
             "text": "January 2009"
           },
           "party": {
