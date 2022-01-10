@@ -123,6 +123,21 @@
           "native_name_lang": {
             "text": "bn"
           },
+          "image": {
+            "text": "General SM Shafiuddin Ahmed CAS.jpg"
+          },
+          "image_size": {
+            "text": "250px"
+          },
+          "alt": {
+            "text": "Portrait of Ahmed",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Portrait"
+              }
+            ]
+          },
           "office": {
             "text": "17th Chief of Army Staff",
             "links": [
@@ -209,12 +224,22 @@
             "text": "1983 - present"
           },
           "rank": {
-            "text": "Bangladesh-army-OF-9.svg General Four star.jpg",
+            "text": "Bangladesh-army-OF-9.svg General Four Star General Plate.svg Bangladesh Army General Flag (4 star).svg Chief of Army Staff Flag",
             "links": [
               {
                 "text": "General",
                 "type": "internal",
                 "page": "General (Bangladesh)"
+              },
+              {
+                "text": "Chief of Army Staff",
+                "type": "internal",
+                "page": "Chief of Army Staff (Bangladesh)"
+              },
+              {
+                "text": "Flag",
+                "type": "internal",
+                "page": "List of Bangladeshi flags"
               }
             ]
           },
