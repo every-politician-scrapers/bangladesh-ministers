@@ -137,7 +137,13 @@
             "text": "Dipu Moni February 2013 (8510153398).jpg"
           },
           "caption": {
-            "text": "Moni in 2013"
+            "text": "Moni in 2013 in Vienna, Austria",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Vienna"
+              }
+            ]
           },
           "office": {
             "text": "Minister of Education",
@@ -299,10 +305,6 @@
                 "text": "Chandpur",
                 "type": "internal",
                 "page": "Chandpur District"
-              },
-              {
-                "type": "internal",
-                "page": "Bangladesh"
               }
             ]
           },
