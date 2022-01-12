@@ -81,10 +81,10 @@
       "infoboxes": [
         {
           "name": {
-            "text": "Muhammad Hasan Mahmud"
+            "text": "Hasan Mahmud"
           },
           "native_name": {
-            "text": "মোহাম্মদ হাসান মাহমুদ"
+            "text": "হাসান মাহমুদ"
           },
           "native_name_lang": {
             "text": "bn"
@@ -197,6 +197,9 @@
                 "page": "Anwar Hossain Manju"
               }
             ]
+          },
+          "birth_name": {
+            "text": "Muhammad Hasan Mahmud"
           },
           "birth_date": {
             "text": "June 5, 1963"
