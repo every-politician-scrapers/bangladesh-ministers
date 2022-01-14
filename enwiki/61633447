@@ -112,7 +112,12 @@
                 "type": "internal",
                 "page": "General (Bangladesh)"
               }
-            ]
+            ],
+            "formatting": {
+              "bold": [
+                "General"
+              ]
+            }
           },
           "name": {
             "text": "SM Shafiuddin Ahmed"
