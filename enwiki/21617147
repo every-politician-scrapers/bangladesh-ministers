@@ -198,7 +198,7 @@
               }
             ]
           },
-          "office1": {
+          "office2": {
             "text": "Minister of Foreign Affairs",
             "links": [
               {
@@ -208,7 +208,7 @@
               }
             ]
           },
-          "president1": {
+          "president2": {
             "text": "Zillur Rahman Abdul Hamid",
             "links": [
               {
@@ -222,7 +222,7 @@
               }
             ]
           },
-          "primeminister1": {
+          "primeminister2": {
             "text": "Sheikh Hasina",
             "links": [
               {
@@ -231,13 +231,13 @@
               }
             ]
           },
-          "term_start1": {
+          "term_start2": {
             "text": "30 January 2009"
           },
-          "term_end1": {
+          "term_end2": {
             "text": "20 November 2013"
           },
-          "predecessor1": {
+          "predecessor2": {
             "text": "Iftekhar Ahmed Chowdhury",
             "links": [
               {
@@ -246,7 +246,7 @@
               }
             ]
           },
-          "successor1": {
+          "successor2": {
             "text": "Abul Hassan Mahmud Ali",
             "links": [
               {
@@ -255,7 +255,7 @@
               }
             ]
           },
-          "office2": {
+          "office1": {
             "text": "Member of Parliament",
             "links": [
               {
@@ -265,10 +265,10 @@
               }
             ]
           },
-          "term_start2": {
+          "term_start1": {
             "text": "6 January 2009"
           },
-          "constituency2": {
+          "constituency1": {
             "text": "Chandpur-3",
             "links": [
               {
@@ -277,7 +277,7 @@
               }
             ]
           },
-          "predecessor2": {
+          "predecessor1": {
             "text": "G. M. Fazlul Haque",
             "links": [
               {
