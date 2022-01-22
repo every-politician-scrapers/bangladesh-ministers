@@ -27,11 +27,6 @@
               "text": "Mohammad Abdur Razzaque (born 1 February 1950) is a Bangladeshi politician and the incumbent Minister of Agriculture.",
               "links": [
                 {
-                  "text": "Bangladeshi",
-                  "type": "internal",
-                  "page": "Bangladesh"
-                },
-                {
                   "text": "Minister of Agriculture",
                   "type": "internal",
                   "page": "Ministry of Agriculture (Bangladesh)"
@@ -91,6 +86,10 @@
       ],
       "templates": [
         {
+          "description": "Bangladeshi politician",
+          "template": "short description"
+        },
+        {
           "list": [
             "the current Agriculture Minister of Bangladesh",
             "the former Water Resources Minister of Bangladesh",
@@ -104,10 +103,6 @@
             "Abdur Razzaq (disambiguation)"
           ],
           "template": "other people"
-        },
-        {
-          "description": "Bangladeshi politician",
-          "template": "short description"
         },
         {
           "df": "yes",
