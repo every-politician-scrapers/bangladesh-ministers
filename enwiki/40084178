@@ -111,10 +111,38 @@
               }
             ]
           },
-          "term_start": {
-            "text": "December 2011"
+          "president": {
+            "text": "Abdul Hamid",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Abdul Hamid"
+              }
+            ]
           },
-          "constituency_mp1": {
+          "term_start": {
+            "text": "6 December 2011"
+          },
+          "predecessor": {
+            "text": "Syed Abul Hossain",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Syed Abul Hossain"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Member of Parliament",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Member of Parliament",
+                "anchor": "Bangladesh"
+              }
+            ]
+          },
+          "constituency1": {
             "text": "Noakhali-5",
             "links": [
               {
@@ -132,6 +160,15 @@
               {
                 "type": "internal",
                 "page": "Moudud Ahmed"
+              }
+            ]
+          },
+          "constituency2": {
+            "text": "Noakhali-5",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Noakhali-5"
               }
             ]
           },
@@ -155,6 +192,18 @@
               {
                 "type": "internal",
                 "page": "General Secretary of Bangladesh Awami League"
+              }
+            ]
+          },
+          "1blankname3": {
+            "text": "Party Leader"
+          },
+          "1namedata3": {
+            "text": "Sheikh Hasina",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sheikh Hasina"
               }
             ]
           },
@@ -204,6 +253,9 @@
                 "page": "University of Dhaka"
               }
             ]
+          },
+          "nationality": {
+            "text": "Bangladeshi"
           },
           "party": {
             "text": "Bangladesh Awami League",

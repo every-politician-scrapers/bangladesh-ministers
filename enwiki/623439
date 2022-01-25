@@ -248,7 +248,7 @@
       ],
       "templates": [
         {
-          "description": "Prime Minister of Bangladesh",
+          "description": "Prime minister of Bangladesh since 2009",
           "template": "short description"
         },
         {
@@ -316,7 +316,7 @@
             "text": "Hasina in 2011 in London"
           },
           "office": {
-            "text": "Prime Minister of Bangladesh",
+            "text": "12th Prime Minister of Bangladesh",
             "links": [
               {
                 "type": "internal",
@@ -410,7 +410,7 @@
             "text": "Ministries, Divisions and Commission"
           },
           "1namedata2": {
-            "text": "Ministry of Defence, Armed Forces Division, Ministry of Energy, Ministry of Women and Children Affairs, Cabinet Division, Planning Commission",
+            "text": "Ministry of Defence, Armed Forces Division, Ministry of Energy, Ministry of Women and Children Affairs, Cabinet Division, Planning Commission, Department of Atomic Energy",
             "links": [
               {
                 "text": "Ministry of Defence",
@@ -438,13 +438,17 @@
                 "text": "Planning Commission",
                 "type": "internal",
                 "page": "Bangladesh Planning Commission"
+              },
+              {
+                "type": "internal",
+                "page": "Department of Atomic Energy"
               }
             ]
           },
-          "term_start3": {
+          "term_start2": {
             "text": "6 January 2009"
           },
-          "predecessor3": {
+          "predecessor2": {
             "text": "Khaleda Zia",
             "links": [
               {
@@ -735,10 +739,9 @@
             ]
           },
           "party": {
-            "text": "Awami League (1980–present)",
+            "text": "Bangladesh Awami League (1980–present)",
             "links": [
               {
-                "text": "Awami League",
                 "type": "internal",
                 "page": "Bangladesh Awami League"
               }
