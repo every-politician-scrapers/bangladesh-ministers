@@ -316,7 +316,7 @@
             "text": "Hasina in 2011 in London"
           },
           "office": {
-            "text": "12th Prime Minister of Bangladesh",
+            "text": "Prime Minister of Bangladesh",
             "links": [
               {
                 "type": "internal",
@@ -826,9 +826,6 @@
                 "anchor": "Bangladesh"
               }
             ]
-          },
-          "died": {
-            "text": "28 December 2021"
           }
         }
       ]

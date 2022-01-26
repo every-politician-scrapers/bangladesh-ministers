@@ -112,8 +112,12 @@
             ]
           },
           "president": {
-            "text": "Abdul Hamid",
+            "text": "Zillur Rahman\nAbdul Hamid",
             "links": [
+              {
+                "type": "internal",
+                "page": "Zillur Rahman"
+              },
               {
                 "type": "internal",
                 "page": "Abdul Hamid"
