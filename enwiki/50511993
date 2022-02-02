@@ -82,6 +82,16 @@
               }
             ]
           },
+          "president": {
+            "text": "Abdul Hamid",
+            "links": [
+              {
+                "text": "Abdul Hamid",
+                "type": "internal",
+                "page": "Abdul Hamid (politician)"
+              }
+            ]
+          },
           "term_start": {
             "text": "12 January 2014"
           },

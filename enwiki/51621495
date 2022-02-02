@@ -104,7 +104,17 @@
               }
             ]
           },
-          "constituency_mp1": {
+          "office1": {
+            "text": "Member of Parliament",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Member of Parliament",
+                "anchor": "Bangladesh"
+              }
+            ]
+          },
+          "constituency1": {
             "text": "Chittagong-13",
             "links": [
               {
@@ -128,7 +138,7 @@
               }
             ]
           },
-          "constituency_mp2": {
+          "constituency2": {
             "text": "Chittagong-12",
             "links": [
               {
