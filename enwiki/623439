@@ -98,11 +98,11 @@
         {
           "sentences": [
             {
-              "text": "Hasina is the daughter of Bangladesh's first president, Sheikh Mujibur Rahman, and the eldest of his five children.",
+              "text": "Hasina is the daughter of Bangladesh's first president, Bangabandhu Sheikh Mujibur Rahman, and the eldest of his five children.",
               "links": [
                 {
                   "type": "internal",
-                  "page": "Sheikh Mujibur Rahman"
+                  "page": "Bangabandhu Sheikh Mujibur Rahman"
                 }
               ]
             },
