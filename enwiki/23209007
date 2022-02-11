@@ -22,7 +22,7 @@
         {
           "sentences": [
             {
-              "text": "Mohammad Abdul Hamid (born 1 January 1944) is a Bangladeshi politician who is currently serving as the president of Bangladesh.",
+              "text": "Abdul Hamid (born 1 January 1944) is a Bangladeshi politician who is currently serving as the president of Bangladesh.",
               "links": [
                 {
                   "text": "Bangladeshi",
@@ -37,7 +37,7 @@
               ],
               "formatting": {
                 "bold": [
-                  "Mohammad Abdul Hamid"
+                  "Abdul Hamid"
                 ]
               }
             },
@@ -109,7 +109,7 @@
       "infoboxes": [
         {
           "name": {
-            "text": "Mohammad Abdul Hamid"
+            "text": "Abdul Hamid"
           },
           "native_name": {
             "text": "মোহাম্মাদ আবদুল হামিদ"
