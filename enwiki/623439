@@ -253,10 +253,6 @@
       ],
       "templates": [
         {
-          "description": "Prime Minister of Bangladesh since 2009",
-          "template": "short description"
-        },
-        {
           "date": "July 2021",
           "template": "use bangladeshi english"
         },
