@@ -78,16 +78,16 @@
           "template": "short description"
         },
         {
-          "date": "January 2013",
-          "template": "use dmy dates"
-        },
-        {
           "list": [
             "the Bangladeshi politician",
             "the other people with similar name",
             "Mustafa Kamal (disambiguation)"
           ],
           "template": "about"
+        },
+        {
+          "date": "February 2022",
+          "template": "use dmy dates"
         },
         {
           "year": "1947",
