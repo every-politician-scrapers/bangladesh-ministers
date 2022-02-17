@@ -39,7 +39,7 @@
               }
             },
             {
-              "text": "He is a member of the Jatiya Sangsad representing the Comilla-10 constituency and is a former Minister for Planning and current Minister of Finance.",
+              "text": "He is a member of the Jatiya Sangsad representing the Cumilla-10 constituency and is a former Minister for Planning and current Minister of Finance.",
               "links": [
                 {
                   "type": "internal",
@@ -47,7 +47,7 @@
                 },
                 {
                   "type": "internal",
-                  "page": "Comilla-10"
+                  "page": "Cumilla-10"
                 }
               ]
             },
@@ -268,11 +268,11 @@
             ]
           },
           "constituency1": {
-            "text": "Comilla-10",
+            "text": "Cumilla-10",
             "links": [
               {
                 "type": "internal",
-                "page": "Comilla-10"
+                "page": "Cumilla-10"
               }
             ]
           },
