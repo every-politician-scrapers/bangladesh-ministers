@@ -191,8 +191,9 @@
             "text": "Deputy Speaker of the Jatiya Sangsad",
             "links": [
               {
+                "text": "Deputy Speaker of the Jatiya Sangsad",
                 "type": "internal",
-                "page": "Jatiya Sangsad"
+                "page": "List of speakers of the Jatiya Sangsad"
               }
             ]
           },
@@ -220,6 +221,146 @@
           "term_end2": {
             "text": "10 July 2001"
           },
+          "office3": {
+            "text": "Member of Parliament",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Member of Parliament",
+                "anchor": "Bangladesh"
+              }
+            ]
+          },
+          "constituency3": {
+            "text": "Kishoreganj-4",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kishoreganj-4"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "2008",
+            "number": 2008
+          },
+          "term_end3": {
+            "text": "2013",
+            "number": 2013
+          },
+          "predecessor3": {
+            "text": "Osman Faruk",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Osman Faruk"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Rejwan Ahammad Taufiq",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rejwan Ahammad Taufiq"
+              }
+            ]
+          },
+          "constituency4": {
+            "text": "Kishoreganj-5",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kishoreganj-5"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "June 1996"
+          },
+          "term_end4": {
+            "text": "2006",
+            "number": 2006
+          },
+          "predecessor4": {
+            "text": "Imdadul Haque",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Imdadul Haque"
+              }
+            ]
+          },
+          "successor4": {
+            "text": "Md. Afzal Hossain",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Md. Afzal Hossain"
+              }
+            ]
+          },
+          "constituency5": {
+            "text": "Kishoreganj-5",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kishoreganj-5"
+              }
+            ]
+          },
+          "term_start5": {
+            "text": "1990",
+            "number": 1990
+          },
+          "term_end5": {
+            "text": "1996",
+            "number": 1996
+          },
+          "predecessor5": {
+            "text": "Abdul Latif Bhuiyan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Abdul Latif Bhuiyan"
+              }
+            ]
+          },
+          "successor5": {
+            "text": "Imdadul Haque",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Imdadul Haque"
+              }
+            ]
+          },
+          "constituency6": {
+            "text": "Kishoreganj-5",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kishoreganj-5"
+              }
+            ]
+          },
+          "term_start6": {
+            "text": "1986",
+            "number": 1986
+          },
+          "term_end6": {
+            "text": "1988",
+            "number": 1988
+          },
+          "successor6": {
+            "text": "Abdul Latif Bhuiyan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Abdul Latif Bhuiyan"
+              }
+            ]
+          },
           "birth_date": {
             "text": "January 1, 1944"
           },
@@ -243,11 +384,11 @@
             ]
           },
           "party": {
-            "text": "Awami League",
+            "text": "Bangladesh Awami League",
             "links": [
               {
                 "type": "internal",
-                "page": "Awami League"
+                "page": "Bangladesh Awami League"
               }
             ]
           },
