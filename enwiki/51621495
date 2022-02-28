@@ -45,6 +45,10 @@
       ],
       "templates": [
         {
+          "description": "Bangladeshi politician",
+          "template": "short description"
+        },
+        {
           "year": "1969",
           "month": "02",
           "day": "18",

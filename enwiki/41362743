@@ -93,6 +93,10 @@
       ],
       "templates": [
         {
+          "description": "Bangladeshi politician",
+          "template": "short description"
+        },
+        {
           "date": "April 2017",
           "template": "engvarb"
         },

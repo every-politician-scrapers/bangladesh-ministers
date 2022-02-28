@@ -42,6 +42,10 @@
       ],
       "templates": [
         {
+          "description": "Bangladeshi politician",
+          "template": "short description"
+        },
+        {
           "year": "1946",
           "month": "10",
           "day": "01",
@@ -130,17 +134,15 @@
             ]
           },
           "office2": {
-            "text": "President of  Gazipur District   Awami League",
+            "text": "President of Gazipur District Awami League",
             "links": [
               {
-                "text": " Gazipur District ",
                 "type": "internal",
-                "page": " Gazipur District "
+                "page": "Gazipur District"
               },
               {
-                "text": " Awami League ",
                 "type": "internal",
-                "page": " Awami League "
+                "page": "Awami League"
               }
             ]
           },
