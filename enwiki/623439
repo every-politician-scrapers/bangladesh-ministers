@@ -311,6 +311,26 @@
       ],
       "infoboxes": [
         {
+          "honorific-prefix": {
+            "text": "The Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable",
+                "anchor": "Bangladesh"
+              }
+            ]
+          },
+          "honorific-suffix": {
+            "text": "MP",
+            "links": [
+              {
+                "text": "MP",
+                "type": "internal",
+                "page": "Member of Parliament (Bangladesh)"
+              }
+            ]
+          },
           "name": {
             "text": "Sheikh Hasina"
           },
@@ -768,8 +788,8 @@
           "spouse": {
             "text": "M. A. Wazed Miah (m. 1968-2009)"
           },
-          "relatives": {
-            "text": "Sheikh Mujibur Rahman (father) Sheikh Fazilatunnesa Mujib (mother) See Sheikh-Wazed family",
+          "parents": {
+            "text": "Sheikh Mujibur Rahman (father) Sheikh Fazilatunnesa Mujib (mother)",
             "links": [
               {
                 "type": "internal",
@@ -778,18 +798,18 @@
               {
                 "type": "internal",
                 "page": "Sheikh Fazilatunnesa Mujib"
-              },
+              }
+            ]
+          },
+          "relatives": {
+            "text": "See Sheikh-Wazed family''",
+            "links": [
               {
                 "text": "Sheikh-Wazed family",
                 "type": "internal",
                 "page": "Sheikh–Wazed family"
               }
-            ],
-            "formatting": {
-              "italic": [
-                "See Sheikh-Wazed family"
-              ]
-            }
+            ]
           },
           "children": {
             "text": "Sajeeb Saima",
@@ -824,16 +844,6 @@
           },
           "nationality": {
             "text": "Bangladeshi"
-          },
-          "honorific_prefix": {
-            "text": "The Honourable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "The Honourable",
-                "anchor": "Bangladesh"
-              }
-            ]
           }
         }
       ]
