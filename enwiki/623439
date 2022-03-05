@@ -498,6 +498,9 @@
           "term_start4": {
             "text": "6 January 2010"
           },
+          "primeminister4": {
+            "text": "Herself"
+          },
           "predecessor4": {
             "text": "Khaleda Zia",
             "links": [
@@ -512,6 +515,9 @@
           },
           "term_end5": {
             "text": "15 July 2001"
+          },
+          "primeminister5": {
+            "text": "Herself"
           },
           "predecessor5": {
             "text": "Khaleda Zia",
@@ -661,6 +667,15 @@
           "term_end9": {
             "text": "29 October 2006"
           },
+          "primeminister9": {
+            "text": "Khaleda Zia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Khaleda Zia"
+              }
+            ]
+          },
           "predecessor9": {
             "text": "Khaleda Zia",
             "links": [
@@ -684,6 +699,15 @@
           },
           "term_end10": {
             "text": "30 March 1996"
+          },
+          "primeminister10": {
+            "text": "Khaleda Zia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Khaleda Zia"
+              }
+            ]
           },
           "predecessor10": {
             "text": "Abdur Rab",
@@ -709,6 +733,15 @@
           },
           "term_end11": {
             "text": "3 March 1988"
+          },
+          "president11": {
+            "text": "Hussain Muhammad Ershad",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hussain Muhammad Ershad"
+              }
+            ]
           },
           "predecessor11": {
             "text": "Asaduzzaman Khan",

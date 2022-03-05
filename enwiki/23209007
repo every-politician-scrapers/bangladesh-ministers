@@ -118,10 +118,10 @@
             "text": "bn"
           },
           "image": {
-            "text": "Abdul Hamid - 2014 (cropped).jpg"
+            "text": "File:President of People’s Republic of Bangladesh, Mr. Md. Abdul Hamid, at Hyderabad House, in New Delhi on May 31, 2019.jpg"
           },
           "caption": {
-            "text": "Hamid in 2014"
+            "text": "Hamid at Hyderabad House, in New Delhi on May 31, 2019"
           },
           "office": {
             "text": "President of Bangladesh",
@@ -159,6 +159,16 @@
               {
                 "type": "internal",
                 "page": "Speaker of the Jatiya Sangsad"
+              }
+            ]
+          },
+          "deputy1": {
+            "text": "Shawkat Ali",
+            "links": [
+              {
+                "text": "Shawkat Ali",
+                "type": "internal",
+                "page": "Shawkat Ali (politician)"
               }
             ]
           },
