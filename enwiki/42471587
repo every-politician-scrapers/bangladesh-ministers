@@ -1,243 +1,31 @@
 {
-  "title": "Hasan Mahmud (politician)",
-  "pageID": 42471587,
-  "categories": [
-    "1963 births",
-    "Living people",
-    "People from Chittagong District",
-    "University of Chittagong alumni",
-    "Maastricht University alumni",
-    "Awami League politicians",
-    "9th Jatiya Sangsad members",
-    "10th Jatiya Sangsad members",
-    "State Ministers of Foreign Affairs (Bangladesh)",
-    "State Ministers of Environment and Forests (Bangladesh)",
-    "Environment, Forest and Climate Change ministers of Bangladesh",
-    "11th Jatiya Sangsad members",
-    "Information ministers of Bangladesh"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Muhammad Hasan Mahmud (born 5 June 1963) is a Bangladesh Awami League politician who is the incumbent Jatiya Sangsad member from Chittagong-7 constituency.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Bangladesh Awami League"
-                },
-                {
-                  "type": "internal",
-                  "page": "Jatiya Sangsad"
-                },
-                {
-                  "type": "internal",
-                  "page": "Chittagong-7"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Muhammad Hasan Mahmud"
-                ]
-              }
-            },
-            {
-              "text": "In January 2019, he was appointed as the Bangladesh Minister of Information.",
-              "links": [
-                {
-                  "text": "Bangladesh Minister of Information",
-                  "type": "internal",
-                  "page": "Ministry of Information (Bangladesh)"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Bangladeshi politician ‍and Parliamentarian",
-          "template": "short description"
-        },
-        {
-          "year": "1963",
-          "month": "06",
-          "day": "05",
-          "df": "y",
-          "template": "birth date and age"
-        },
-        {
-          "list": [
-            "University of Chittagong",
-            "University of Limburg"
-          ],
-          "template": "unbulleted list"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Hasan Mahmud"
-          },
-          "native_name": {
-            "text": "হাসান মাহমুদ"
-          },
-          "native_name_lang": {
-            "text": "bn"
-          },
-          "image": {
-            "text": "Hasan Mahmud.jpg"
-          },
-          "caption": {
-            "text": "Mahmud in January 2020"
-          },
-          "office": {
-            "text": "Minister of Information",
-            "links": [
-              {
-                "text": "Minister of Information",
-                "type": "internal",
-                "page": "Ministry of Information (Bangladesh)"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Sheikh Hasina",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sheikh Hasina"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Hasanul Haq Inu",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Hasanul Haq Inu"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "7 January 2019"
-          },
-          "constituency_mp1": {
-            "text": "Chittagong-7",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Chittagong-7"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "7 January 2014"
-          },
-          "predecessor1": {
-            "text": "Moin Uddin Khan Badal",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Moin Uddin Khan Badal"
-              }
-            ]
-          },
-          "office2": {
-            "text": "State Minister for Foreign Affairs",
-            "links": [
-              {
-                "text": "State Minister for Foreign Affairs",
-                "type": "internal",
-                "page": "Minister of Foreign Affairs (Bangladesh)"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "8 January 2009"
-          },
-          "term_end2": {
-            "text": "31 July 2009"
-          },
-          "office3": {
-            "text": "State Minister for Environment, Forest and Climate Change",
-            "links": [
-              {
-                "text": "State Minister for Environment, Forest and Climate Change",
-                "type": "internal",
-                "page": "Ministry of Environment, Forest and Climate Change (Bangladesh)"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "1 August 2009"
-          },
-          "term_end3": {
-            "text": "28 November 2011"
-          },
-          "office4": {
-            "text": "Minister for Environment, Forest and Climate Change"
-          },
-          "term_start4": {
-            "text": "29 November 2011"
-          },
-          "term_end4": {
-            "text": "2013",
-            "number": 2013
-          },
-          "successor4": {
-            "text": "Anwar Hossain Manju",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Anwar Hossain Manju"
-              }
-            ]
-          },
-          "birth_name": {
-            "text": "Muhammad Hasan Mahmud"
-          },
-          "birth_date": {
-            "text": "June 5, 1963"
-          },
-          "birth_place": {
-            "text": "Chittagong, East Pakistan, Pakistan",
-            "links": [
-              {
-                "text": "Chittagong",
-                "type": "internal",
-                "page": "Chittagong District"
-              },
-              {
-                "type": "internal",
-                "page": "East Pakistan"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Bangladeshi"
-          },
-          "alma_mater": {
-            "text": "University of Chittagong\n\nUniversity of Limburg"
-          },
-          "party": {
-            "text": "Bangladesh Awami League",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bangladesh Awami League"
-              }
-            ]
-          },
-          "education": {
-            "text": "PhD in environmental chemistry"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Hasan Mahmud",
+  "native_name": "হাসান মাহমুদ",
+  "native_name_lang": "bn",
+  "image": "Hasan Mahmud.jpg",
+  "caption": "Mahmud in January 2020",
+  "office": "Minister of Information",
+  "primeminister": "Sheikh Hasina",
+  "predecessor": "Hasanul Haq Inu",
+  "term_start": "7 January 2019",
+  "constituency_mp1": "Chittagong-7",
+  "term_start1": "7 January 2014",
+  "predecessor1": "Moin Uddin Khan Badal",
+  "office2": "State Minister for Foreign Affairs",
+  "term_start2": "8 January 2009",
+  "term_end2": "31 July 2009",
+  "office3": "State Minister for Environment, Forest and Climate Change",
+  "term_start3": "1 August 2009",
+  "term_end3": "28 November 2011",
+  "office4": "Minister for Environment, Forest and Climate Change",
+  "term_start4": "29 November 2011",
+  "term_end4": "2013",
+  "successor4": "Anwar Hossain Manju",
+  "birth_name": "Muhammad Hasan Mahmud",
+  "birth_date": "June 5, 1963",
+  "birth_place": "Chittagong, East Pakistan, Pakistan",
+  "nationality": "Bangladeshi",
+  "alma_mater": "University of Chittagong\n\nUniversity of Limburg",
+  "party": "Bangladesh Awami League",
+  "education": "PhD in environmental chemistry"
 }

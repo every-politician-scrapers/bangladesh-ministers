@@ -1,440 +1,49 @@
 {
-  "title": "Abdul Hamid (politician)",
-  "pageID": 23209007,
-  "categories": [
-    "1944 births",
-    "Living people",
-    "People from Kishoreganj District",
-    "University of Dhaka alumni",
-    "Awami League politicians",
-    "Bengali politicians",
-    "Recipients of the Independence Day Award",
-    "Deputy Speakers of the Jatiya Sangsad",
-    "Speakers of the Jatiya Sangsad",
-    "8th Jatiya Sangsad members",
-    "Presidents of Bangladesh"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Abdul Hamid (born 1 January 1944) is a Bangladeshi politician who is currently serving as the president of Bangladesh.",
-              "links": [
-                {
-                  "text": "Bangladeshi",
-                  "type": "internal",
-                  "page": "Bangladeshis"
-                },
-                {
-                  "text": "president of Bangladesh",
-                  "type": "internal",
-                  "page": "president of Bangladesh"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Abdul Hamid"
-                ]
-              }
-            },
-            {
-              "text": "He was elected to his first term in April 2013, and re-elected to his current second term in 2018."
-            },
-            {
-              "text": "Previously he served as the speaker of the National Parliament from January 2009 to April 2013.",
-              "links": [
-                {
-                  "text": "National Parliament",
-                  "type": "internal",
-                  "page": "Jatiyo Sangshad"
-                }
-              ]
-            },
-            {
-              "text": "He was the acting president after the death of Zillur Rahman in March 2013, and he was elected as president on 22 April 2013.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Zillur Rahman"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "He is the longest serving president in the history of Bangladesh.",
-              "links": [
-                {
-                  "text": "history of Bangladesh",
-                  "type": "internal",
-                  "page": "history of Bangladesh"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Current President of Bangladesh",
-          "template": "short description"
-        },
-        {
-          "date": "March 2017",
-          "template": "engvarb"
-        },
-        {
-          "date": "August 2021",
-          "template": "use dmy dates"
-        },
-        {
-          "df": "yes",
-          "year": "1944",
-          "month": "1",
-          "day": "1",
-          "template": "birth date and age"
-        },
-        {
-          "spouse": "Rashida Hamid",
-          "from": "1964",
-          "template": "marriage"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Abdul Hamid"
-          },
-          "native_name": {
-            "text": "মোহাম্মাদ আবদুল হামিদ"
-          },
-          "native_name_lang": {
-            "text": "bn"
-          },
-          "image": {
-            "text": "File:President of People’s Republic of Bangladesh, Mr. Md. Abdul Hamid, at Hyderabad House, in New Delhi on May 31, 2019.jpg"
-          },
-          "caption": {
-            "text": "Hamid at Hyderabad House, in New Delhi on May 31, 2019"
-          },
-          "office": {
-            "text": "President of Bangladesh",
-            "links": [
-              {
-                "type": "internal",
-                "page": "President of Bangladesh"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Sheikh Hasina",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sheikh Hasina"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Zillur Rahman",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Zillur Rahman"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "14 March 2013 Acting until 24 April 2013"
-          },
-          "office1": {
-            "text": "Speaker of the Jatiya Sangsad",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Speaker of the Jatiya Sangsad"
-              }
-            ]
-          },
-          "deputy1": {
-            "text": "Shawkat Ali",
-            "links": [
-              {
-                "text": "Shawkat Ali",
-                "type": "internal",
-                "page": "Shawkat Ali (politician)"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Jamiruddin Sircar",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jamiruddin Sircar"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Shawkat Ali (Acting)",
-            "links": [
-              {
-                "text": "Shawkat Ali",
-                "type": "internal",
-                "page": "Shawkat Ali (politician)"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "25 January 2009"
-          },
-          "term_end1": {
-            "text": "24 April 2013"
-          },
-          "office2": {
-            "text": "Deputy Speaker of the Jatiya Sangsad",
-            "links": [
-              {
-                "text": "Deputy Speaker of the Jatiya Sangsad",
-                "type": "internal",
-                "page": "List of speakers of the Jatiya Sangsad"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "L. K. Siddiqi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "L. K. Siddiqi"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Akhtar Hameed Siddiqui",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Akhtar Hameed Siddiqui"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "14 July 1996"
-          },
-          "term_end2": {
-            "text": "10 July 2001"
-          },
-          "office3": {
-            "text": "Member of Parliament",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Member of Parliament",
-                "anchor": "Bangladesh"
-              }
-            ]
-          },
-          "constituency3": {
-            "text": "Kishoreganj-4",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kishoreganj-4"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "2008",
-            "number": 2008
-          },
-          "term_end3": {
-            "text": "2013",
-            "number": 2013
-          },
-          "predecessor3": {
-            "text": "Osman Faruk",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Osman Faruk"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Rejwan Ahammad Taufiq",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Rejwan Ahammad Taufiq"
-              }
-            ]
-          },
-          "constituency4": {
-            "text": "Kishoreganj-5",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kishoreganj-5"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "June 1996"
-          },
-          "term_end4": {
-            "text": "2006",
-            "number": 2006
-          },
-          "predecessor4": {
-            "text": "Imdadul Haque",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Imdadul Haque"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Md. Afzal Hossain",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Md. Afzal Hossain"
-              }
-            ]
-          },
-          "constituency5": {
-            "text": "Kishoreganj-5",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kishoreganj-5"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "1990",
-            "number": 1990
-          },
-          "term_end5": {
-            "text": "1996",
-            "number": 1996
-          },
-          "predecessor5": {
-            "text": "Abdul Latif Bhuiyan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Abdul Latif Bhuiyan"
-              }
-            ]
-          },
-          "successor5": {
-            "text": "Imdadul Haque",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Imdadul Haque"
-              }
-            ]
-          },
-          "constituency6": {
-            "text": "Kishoreganj-5",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kishoreganj-5"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "1986",
-            "number": 1986
-          },
-          "term_end6": {
-            "text": "1988",
-            "number": 1988
-          },
-          "successor6": {
-            "text": "Abdul Latif Bhuiyan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Abdul Latif Bhuiyan"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "January 1, 1944"
-          },
-          "birth_place": {
-            "text": "Kamalpur, Bengal Presidency, British India",
-            "links": [
-              {
-                "text": "Kamalpur",
-                "type": "internal",
-                "page": "Mithamain Upazila"
-              },
-              {
-                "type": "internal",
-                "page": "Bengal Presidency"
-              },
-              {
-                "text": "British India",
-                "type": "internal",
-                "page": "British Raj"
-              }
-            ]
-          },
-          "party": {
-            "text": "Bangladesh Awami League",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bangladesh Awami League"
-              }
-            ]
-          },
-          "otherparty": {
-            "text": "Grand Alliance (2008–present)",
-            "links": [
-              {
-                "text": "Grand Alliance",
-                "type": "internal",
-                "page": "Grand Alliance (Bangladesh)"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Rashida Hamid (m. 1964)"
-          },
-          "children": {
-            "text": "Rejwan Ahammad Taufiq, Rasel Ahmed Tuhin, Riad Ahmed, Shorna Hamid",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Rejwan Ahammad Taufiq"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Gurudayal Government College",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Gurudayal Government College"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Abdul Hamid",
+  "native_name": "মোহাম্মাদ আবদুল হামিদ",
+  "native_name_lang": "bn",
+  "image": "File:President of People’s Republic of Bangladesh, Mr. Md. Abdul Hamid, at Hyderabad House, in New Delhi on May 31, 2019.jpg",
+  "caption": "Hamid at Hyderabad House, in New Delhi on May 31, 2019",
+  "office": "President of Bangladesh",
+  "primeminister": "Sheikh Hasina",
+  "predecessor": "Zillur Rahman",
+  "term_start": "14 March 2013 Acting until 24 April 2013",
+  "office1": "Speaker of the Jatiya Sangsad",
+  "deputy1": "Shawkat Ali",
+  "predecessor1": "Jamiruddin Sircar",
+  "successor1": "Shawkat Ali (Acting)",
+  "term_start1": "25 January 2009",
+  "term_end1": "24 April 2013",
+  "office2": "Deputy Speaker of the Jatiya Sangsad",
+  "predecessor2": "L. K. Siddiqi",
+  "successor2": "Akhtar Hameed Siddiqui",
+  "term_start2": "14 July 1996",
+  "term_end2": "10 July 2001",
+  "office3": "Member of Parliament",
+  "constituency3": "Kishoreganj-4",
+  "term_start3": "2008",
+  "term_end3": "2013",
+  "predecessor3": "Osman Faruk",
+  "successor3": "Rejwan Ahammad Taufiq",
+  "constituency4": "Kishoreganj-5",
+  "term_start4": "June 1996",
+  "term_end4": "2006",
+  "predecessor4": "Imdadul Haque",
+  "successor4": "Md. Afzal Hossain",
+  "constituency5": "Kishoreganj-5",
+  "term_start5": "1990",
+  "term_end5": "1996",
+  "predecessor5": "Abdul Latif Bhuiyan",
+  "successor5": "Imdadul Haque",
+  "constituency6": "Kishoreganj-5",
+  "term_start6": "1986",
+  "term_end6": "1988",
+  "successor6": "Abdul Latif Bhuiyan",
+  "birth_date": "January 1, 1944",
+  "birth_place": "Kamalpur, Bengal Presidency, British India",
+  "party": "Bangladesh Awami League",
+  "otherparty": "Grand Alliance (2008–present)",
+  "spouse": "Rashida Hamid (m. 1964)",
+  "children": "Rejwan Ahammad Taufiq, Rasel Ahmed Tuhin, Riad Ahmed, Shorna Hamid",
+  "alma_mater": "Gurudayal Government College"
 }
