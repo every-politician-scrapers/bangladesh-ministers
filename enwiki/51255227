@@ -1,213 +1,24 @@
 {
-  "title": "Asaduzzaman Khan",
-  "pageID": 51255227,
-  "categories": [
-    "Living people",
-    "1950 births",
-    "Awami League politicians",
-    "Mukti Bahini personnel",
-    "9th Jatiya Sangsad members",
-    "10th Jatiya Sangsad members",
-    "11th Jatiya Sangsad members",
-    "Home Affairs ministers of Bangladesh",
-    "State Ministers of Home Affairs (Bangladesh)",
-    "Place of birth missing (living people)"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Asaduzzaman Khan (born 31 December 1950) is a Bangladesh Awami League politician.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Bangladesh Awami League"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Asaduzzaman Khan"
-                ]
-              }
-            },
-            {
-              "text": "He became the Member of Parliament for Dhaka-12 in 2014, being re-elected in 2018.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Dhaka-12"
-                }
-              ]
-            },
-            {
-              "text": "He currently serves as Minister of Home Affairs.",
-              "links": [
-                {
-                  "text": "Minister of Home Affairs",
-                  "type": "internal",
-                  "page": "Minister of Home Affairs (Bangladesh)"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Bangladeshi politician",
-          "template": "short description"
-        },
-        {
-          "list": [
-            "the current Home Affairs Minister of Bangladesh",
-            "the former Jute Minister of Bangladesh",
-            "Asaduzzaman Khan (politician, born 1916)"
-          ],
-          "template": "about"
-        },
-        {
-          "year": "1950",
-          "month": "12",
-          "day": "31",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Asaduzzaman Khan"
-          },
-          "native_name": {
-            "text": "আসাদুজ্জামান খাঁন"
-          },
-          "native_name_lang": {
-            "text": "bn"
-          },
-          "office": {
-            "text": "Minister of Home Affairs",
-            "links": [
-              {
-                "text": "Minister of Home Affairs",
-                "type": "internal",
-                "page": "Ministry of Home Affairs (Bangladesh)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "12 January 2014"
-          },
-          "predecessor": {
-            "text": "Muhiuddin Khan Alamgir",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Muhiuddin Khan Alamgir"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Sheikh Hasina",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sheikh Hasina"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Member of Parliament",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Member of Parliament"
-              }
-            ]
-          },
-          "constituency1": {
-            "text": "Dhaka-12",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Dhaka-12"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Sheikh Fazle Noor Taposh",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sheikh Fazle Noor Taposh"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "12 January 2014"
-          },
-          "party": {
-            "text": "Bangladesh Awami League",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bangladesh Awami League"
-              }
-            ]
-          },
-          "constituency2": {
-            "text": "Dhaka-11",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Dhaka-11"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "S. A. Khaleque",
-            "links": [
-              {
-                "type": "internal",
-                "page": "S. A. Khaleque"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "AKM Rahmatullah",
-            "links": [
-              {
-                "type": "internal",
-                "page": "AKM Rahmatullah"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "29 January 2009"
-          },
-          "term_end2": {
-            "text": "28 January 2014"
-          },
-          "birth_date": {
-            "text": "December 31, 1950"
-          },
-          "occupation": {
-            "text": "Politician"
-          },
-          "nationality": {
-            "text": "Bangladeshi"
-          },
-          "image": {
-            "text": "Asaduzzaman Khan kamal.jpeg"
-          },
-          "image_size": {
-            "text": "200px"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Asaduzzaman Khan",
+  "native_name": "আসাদুজ্জামান খাঁন",
+  "native_name_lang": "bn",
+  "office": "Minister of Home Affairs",
+  "term_start": "12 January 2014",
+  "predecessor": "Muhiuddin Khan Alamgir",
+  "primeminister": "Sheikh Hasina",
+  "office1": "Member of Parliament",
+  "constituency1": "Dhaka-12",
+  "predecessor1": "Sheikh Fazle Noor Taposh",
+  "term_start1": "12 January 2014",
+  "party": "Bangladesh Awami League",
+  "constituency2": "Dhaka-11",
+  "predecessor2": "S. A. Khaleque",
+  "successor2": "AKM Rahmatullah",
+  "term_start2": "29 January 2009",
+  "term_end2": "28 January 2014",
+  "birth_date": "December 31, 1950",
+  "occupation": "Politician",
+  "nationality": "Bangladeshi",
+  "image": "Asaduzzaman Khan kamal.jpeg",
+  "image_size": "200px"
 }

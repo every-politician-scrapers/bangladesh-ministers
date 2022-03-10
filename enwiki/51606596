@@ -1,205 +1,22 @@
 {
-  "title": "Muhammad Abdul Mannan",
-  "pageID": 51606596,
-  "categories": [
-    "Living people",
-    "University of Dhaka alumni",
-    "Awami League politicians",
-    "State Ministers of Finance (Bangladesh)",
-    "State Ministers of Planning (Bangladesh)",
-    "People from Dakshin Sunamganj Upazila",
-    "PAF College Sargodha alumni",
-    "9th Jatiya Sangsad members",
-    "11th Jatiya Sangsad members",
-    "Planning ministers of Bangladesh",
-    "10th Jatiya Sangsad members",
-    "1946 births",
-    "Murari Chand College alumni"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "M. A. Mannan M.P (born 16 February 1946) is a Bangladeshi politician and the Minister of Planning of Bangladesh since 2019.",
-              "links": [
-                {
-                  "text": "Minister of Planning",
-                  "type": "internal",
-                  "page": "Ministry of Planning (Bangladesh)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "M. A. Mannan M.P"
-                ]
-              }
-            },
-            {
-              "text": "Mr Mannan was a former diplomat and bureaucrat of Bangladesh who served to the Government Bangladesh."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Bangladeshi Politician and Minister",
-          "template": "short description"
-        },
-        {
-          "year": "1946",
-          "month": "02",
-          "day": "16",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "M. A. Mannan"
-          },
-          "image": {
-            "text": "M A Mannan (2) (cropped).jpg"
-          },
-          "caption": {
-            "text": "Mannan in 2018"
-          },
-          "native_name": {
-            "text": "এম. এ. মান্নান"
-          },
-          "native_name_lang": {
-            "text": "bn"
-          },
-          "office": {
-            "text": "Minister of Planning",
-            "links": [
-              {
-                "text": "Minister of Planning",
-                "type": "internal",
-                "page": "Ministry of Planning (Bangladesh)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "7 January 2019"
-          },
-          "predecessor": {
-            "text": "Mustafa Kamal",
-            "links": [
-              {
-                "text": "Mustafa Kamal",
-                "type": "internal",
-                "page": "Mustafa Kamal (politician)"
-              }
-            ]
-          },
-          "office2": {
-            "text": "State Minister of Finance",
-            "links": [
-              {
-                "text": "State Minister of Finance",
-                "type": "internal",
-                "page": "Ministry of Finance (Bangladesh)"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "14 January 2014"
-          },
-          "term_end2": {
-            "text": "7 January 2019"
-          },
-          "predecessor2": {
-            "text": "Shah M. Abul Hussain",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Shah M. Abul Hussain"
-              }
-            ]
-          },
-          "constituency_mp3": {
-            "text": "Sunamganj-3",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sunamganj-3"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "6 January 2009"
-          },
-          "predecessor3": {
-            "text": "Shahinur Pasha Chowdhury",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Shahinur Pasha Chowdhury"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "February 16, 1946"
-          },
-          "birth_place": {
-            "text": "Dungria, Sylhet District, Assam Province, British India",
-            "links": [
-              {
-                "text": "Dungria",
-                "type": "internal",
-                "page": "Shantiganj Upazila"
-              },
-              {
-                "text": "Sylhet District",
-                "type": "internal",
-                "page": "Sylhet Division"
-              },
-              {
-                "type": "internal",
-                "page": "Assam Province"
-              },
-              {
-                "type": "internal",
-                "page": "British India"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Bangladeshi"
-          },
-          "alma_mater": {
-            "text": "PAF Public School Sargodha University of Dhaka Murari Chand College",
-            "links": [
-              {
-                "type": "internal",
-                "page": "PAF Public School Sargodha"
-              },
-              {
-                "type": "internal",
-                "page": "University of Dhaka"
-              },
-              {
-                "type": "internal",
-                "page": "Murari Chand College"
-              }
-            ]
-          },
-          "party": {
-            "text": "Bangladesh Awami League",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bangladesh Awami League"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "M. A. Mannan",
+  "image": "M A Mannan (2) (cropped).jpg",
+  "caption": "Mannan in 2018",
+  "native_name": "এম. এ. মান্নান",
+  "native_name_lang": "bn",
+  "office": "Minister of Planning",
+  "term_start": "7 January 2019",
+  "predecessor": "Mustafa Kamal",
+  "office2": "State Minister of Finance",
+  "term_start2": "14 January 2014",
+  "term_end2": "7 January 2019",
+  "predecessor2": "Shah M. Abul Hussain",
+  "constituency_mp3": "Sunamganj-3",
+  "term_start3": "6 January 2009",
+  "predecessor3": "Shahinur Pasha Chowdhury",
+  "birth_date": "February 16, 1946",
+  "birth_place": "Dungria, Sylhet District, Assam Province, British India",
+  "nationality": "Bangladeshi",
+  "alma_mater": "PAF Public School Sargodha University of Dhaka Murari Chand College",
+  "party": "Bangladesh Awami League"
 }

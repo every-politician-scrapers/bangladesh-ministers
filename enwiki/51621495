@@ -1,214 +1,26 @@
 {
-  "title": "Saifuzzaman Chowdhury",
-  "pageID": 51621495,
-  "categories": [
-    "Living people",
-    "People from Anwara Upazila",
-    "1969 births",
-    "Awami League politicians",
-    "9th Jatiya Sangsad members",
-    "10th Jatiya Sangsad members",
-    "11th Jatiya Sangsad members",
-    "Land ministers of Bangladesh"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Saifuzzaman Chowdhury (born 18 February 1969) is a Bangladesh Awami League politician and the Minister of Land since 2019.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Bangladesh Awami League"
-                },
-                {
-                  "text": "Minister of Land",
-                  "type": "internal",
-                  "page": "Ministry of Land"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Saifuzzaman Chowdhury"
-                ]
-              }
-            },
-            {
-              "text": "He is a member of parliament."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Bangladeshi politician",
-          "template": "short description"
-        },
-        {
-          "year": "1969",
-          "month": "02",
-          "day": "18",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Saifuzzaman Chowdhury"
-          },
-          "native_name": {
-            "text": "সাইফুজ্জামান চৌধুরী"
-          },
-          "native_name_lang": {
-            "text": "bn"
-          },
-          "office": {
-            "text": "Minister of Land",
-            "links": [
-              {
-                "text": "Minister of Land",
-                "type": "internal",
-                "page": "Ministry of Land"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "7 January 2019"
-          },
-          "predecessor": {
-            "text": "Shamsur Rahman Sherif",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Shamsur Rahman Sherif"
-              }
-            ]
-          },
-          "president": {
-            "text": "Abdul Hamid",
-            "links": [
-              {
-                "text": "Abdul Hamid",
-                "type": "internal",
-                "page": "Abdul Hamid (Politician)"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Sheikh Hasina",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sheikh Hasina"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Member of Parliament",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Member of Parliament",
-                "anchor": "Bangladesh"
-              }
-            ]
-          },
-          "constituency1": {
-            "text": "Chittagong-13",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Chittagong-13"
-              }
-            ]
-          },
-          "parliament1": {
-            "text": "Bangladesh"
-          },
-          "term_start1": {
-            "text": "7 January 2019"
-          },
-          "predecessor1": {
-            "text": "Oli Ahmad",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Oli Ahmad"
-              }
-            ]
-          },
-          "constituency2": {
-            "text": "Chittagong-12",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Chittagong-12"
-              }
-            ]
-          },
-          "parliament2": {
-            "text": "Bangladesh"
-          },
-          "term_start2": {
-            "text": "2013",
-            "number": 2013
-          },
-          "term_end2": {
-            "text": "2014",
-            "number": 2014
-          },
-          "predecessor2": {
-            "text": "Akhtaruzzaman Chowdhury Babu",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Akhtaruzzaman Chowdhury Babu"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Shamsul Haque Chowdhury",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Shamsul Haque Chowdhury"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "February 18, 1969"
-          },
-          "nationality": {
-            "text": "Bangladeshi"
-          },
-          "father": {
-            "text": "Akhtaruzzaman Chowdhury Babu",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Akhtaruzzaman Chowdhury Babu"
-              }
-            ]
-          },
-          "party": {
-            "text": "Bangladesh Awami League",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bangladesh Awami League"
-              }
-            ]
-          },
-          "awards": {
-            "text": "UN Public Service award"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Saifuzzaman Chowdhury",
+  "native_name": "সাইফুজ্জামান চৌধুরী",
+  "native_name_lang": "bn",
+  "office": "Minister of Land",
+  "term_start": "7 January 2019",
+  "predecessor": "Shamsur Rahman Sherif",
+  "president": "Abdul Hamid",
+  "primeminister": "Sheikh Hasina",
+  "office1": "Member of Parliament",
+  "constituency1": "Chittagong-13",
+  "parliament1": "Bangladesh",
+  "term_start1": "7 January 2019",
+  "predecessor1": "Oli Ahmad",
+  "constituency2": "Chittagong-12",
+  "parliament2": "Bangladesh",
+  "term_start2": "2013",
+  "term_end2": "2014",
+  "predecessor2": "Akhtaruzzaman Chowdhury Babu",
+  "successor2": "Shamsul Haque Chowdhury",
+  "birth_date": "February 18, 1969",
+  "nationality": "Bangladeshi",
+  "father": "Akhtaruzzaman Chowdhury Babu",
+  "party": "Bangladesh Awami League",
+  "awards": "UN Public Service award"
 }

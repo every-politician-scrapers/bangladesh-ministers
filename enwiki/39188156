@@ -1,255 +1,29 @@
 {
-  "title": "Shirin Sharmin Chaudhury",
-  "pageID": 39188156,
-  "categories": [
-    "1966 births",
-    "Living people",
-    "Awami League politicians",
-    "11th Jatiya Sangsad members",
-    "10th Jatiya Sangsad members",
-    "Women members of the Jatiya Sangsad",
-    "State Ministers of Women and Children Affairs (Bangladesh)",
-    "Women government ministers of Bangladesh",
-    "Speakers of the Jatiya Sangsad",
-    "21st-century Bangladeshi women politicians",
-    "People from Chatkhil Upazila"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Shirin Sharmin Chaudhury (born 6 October 1966) is the current and the first woman Speaker of the Jatiya Sangsad since April 2013.",
-              "links": [
-                {
-                  "text": "Speaker",
-                  "type": "internal",
-                  "page": "Speaker (politics)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Jatiya Sangsad"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Shirin Sharmin Chaudhury"
-                ]
-              }
-            },
-            {
-              "text": "At 46 years of age, she became the youngest to assume the office."
-            },
-            {
-              "text": "She was also the Chairperson of the Executive Committee of the Commonwealth Parliamentary Association between 2014 and 2017.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Chairperson of the Executive Committee"
-                },
-                {
-                  "type": "internal",
-                  "page": "Commonwealth Parliamentary Association"
-                }
-              ]
-            },
-            {
-              "text": "She previously served as the state minister of the Ministry of Women and Children Affairs of Bangladesh.",
-              "links": [
-                {
-                  "text": "state minister",
-                  "type": "internal",
-                  "page": "Minister of State"
-                },
-                {
-                  "type": "internal",
-                  "page": "Ministry of Women and Children Affairs"
-                },
-                {
-                  "type": "internal",
-                  "page": "Bangladesh"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Bangladeshi politician",
-          "template": "short description"
-        },
-        {
-          "year": "1966",
-          "month": "10",
-          "day": "6",
-          "df": "yes",
-          "template": "birth date and age"
-        },
-        {
-          "list": [
-            "University of Essex",
-            "University of Dhaka"
-          ],
-          "template": "unbulleted list"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Shirin Sharmin Chaudhury"
-          },
-          "honorific-prefix": {
-            "text": "The Honourable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
-          "native_name": {
-            "text": "শিরীন শারমিন চৌধুরী"
-          },
-          "native_name_lang": {
-            "text": "bn"
-          },
-          "image": {
-            "text": "Shirin Sharmin Chaudhury.JPG"
-          },
-          "caption": {
-            "text": "Chaudhury in 2012"
-          },
-          "office": {
-            "text": "Speaker of the Jatiya Sangsad",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Speaker of the Jatiya Sangsad"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "1 May 2013"
-          },
-          "deputy": {
-            "text": "Fazle Rabbi Miah",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Fazle Rabbi Miah"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Shawkat Ali (acting)",
-            "links": [
-              {
-                "text": "Shawkat Ali",
-                "type": "internal",
-                "page": "Shawkat Ali (politician)"
-              }
-            ]
-          },
-          "constituency_mp2": {
-            "text": "Rangpur-6",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Rangpur-6"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "January 2014"
-          },
-          "predecessor2": {
-            "text": "Abul Kalam Azad",
-            "links": [
-              {
-                "text": "Abul Kalam Azad",
-                "type": "internal",
-                "page": "Abul Kalam Azad (politician, born 1950)"
-              }
-            ]
-          },
-          "office3": {
-            "text": "State minister of the Women and Children Affairs",
-            "links": [
-              {
-                "text": "State minister of the Women and Children Affairs",
-                "type": "internal",
-                "page": "Ministry of Women and Children Affairs"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "6 January 2009"
-          },
-          "term_end3": {
-            "text": "30 April 2013"
-          },
-          "constituency_mp4": {
-            "text": "Reserved Women's Seat-31"
-          },
-          "term_start4": {
-            "text": "25 January 2009"
-          },
-          "term_end4": {
-            "text": "24 January 2014"
-          },
-          "successor4": {
-            "text": "Waseqa Ayesha Khan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Waseqa Ayesha Khan"
-              }
-            ]
-          },
-          "party": {
-            "text": "Bangladesh Awami League",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bangladesh Awami League"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "October 6, 1966"
-          },
-          "birth_place": {
-            "text": "Noakhali, East Pakistan, Pakistan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Noakhali"
-              },
-              {
-                "type": "internal",
-                "page": "East Pakistan"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Bangladeshi"
-          },
-          "spouse": {
-            "text": "Syed Ishtiaque Hossain"
-          },
-          "children": {
-            "text": "2",
-            "number": 2
-          },
-          "alma_mater": {
-            "text": "University of Essex\n\nUniversity of Dhaka"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Shirin Sharmin Chaudhury",
+  "honorific-prefix": "The Honourable",
+  "native_name": "শিরীন শারমিন চৌধুরী",
+  "native_name_lang": "bn",
+  "image": "Shirin Sharmin Chaudhury.JPG",
+  "caption": "Chaudhury in 2012",
+  "office": "Speaker of the Jatiya Sangsad",
+  "term_start": "1 May 2013",
+  "deputy": "Fazle Rabbi Miah",
+  "predecessor": "Shawkat Ali (acting)",
+  "constituency_mp2": "Rangpur-6",
+  "term_start2": "January 2014",
+  "predecessor2": "Abul Kalam Azad",
+  "office3": "State minister of the Women and Children Affairs",
+  "term_start3": "6 January 2009",
+  "term_end3": "30 April 2013",
+  "constituency_mp4": "Reserved Women's Seat-31",
+  "term_start4": "25 January 2009",
+  "term_end4": "24 January 2014",
+  "successor4": "Waseqa Ayesha Khan",
+  "party": "Bangladesh Awami League",
+  "birth_date": "October 6, 1966",
+  "birth_place": "Noakhali, East Pakistan, Pakistan",
+  "nationality": "Bangladeshi",
+  "spouse": "Syed Ishtiaque Hossain",
+  "children": "2",
+  "alma_mater": "University of Essex\n\nUniversity of Dhaka"
 }

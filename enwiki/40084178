@@ -1,280 +1,33 @@
 {
-  "title": "Obaidul Quader",
-  "pageID": 40084178,
-  "categories": [
-    "1950 births",
-    "Living people",
-    "University of Dhaka alumni",
-    "Awami League politicians",
-    "State Ministers of Cultural Affairs (Bangladesh)",
-    "State Ministers of Youth and Sports (Bangladesh)",
-    "Road Transport and Bridges ministers of Bangladesh",
-    "Commerce ministers of Bangladesh",
-    "11th Jatiya Sangsad members",
-    "7th Jatiya Sangsad members",
-    "9th Jatiya Sangsad members",
-    "10th Jatiya Sangsad members",
-    "People from Companiganj Upazila, Noakhali"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Obaidul Quader (born 1 January 1950) is a Bangladeshi politician who has been General Secretary of Bangladesh Awami League since October 2016.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Bangladesh Awami League"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Obaidul Quader"
-                ]
-              }
-            },
-            {
-              "text": "He is the Minister of Road Transport and Bridges since December 2011 and a Member of Parliament representing the Noakhali-5 constituency since January 2009.",
-              "links": [
-                {
-                  "text": "Minister of Road Transport and Bridges",
-                  "type": "internal",
-                  "page": "Ministry of Road Transport and Bridges"
-                },
-                {
-                  "text": "Member of Parliament",
-                  "type": "internal",
-                  "page": "Jatiya Sangsad"
-                },
-                {
-                  "type": "internal",
-                  "page": "Noakhali-5"
-                }
-              ]
-            },
-            {
-              "text": "He is still representing Awami League in the media and working voluntarily as their media advisor."
-            },
-            {
-              "text": "He was the State Minister of Youth, Sports and Cultural Affairs from 1996 to 2001."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Bangladeshi politician and parliamentarian",
-          "template": "short description"
-        },
-        {
-          "year": "1950",
-          "month": "1",
-          "day": "1",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "native_name": {
-            "text": "ওবায়দুল কাদের"
-          },
-          "native_name_lang": {
-            "text": "Bengali"
-          },
-          "image": {
-            "text": "Obaidul Quader MP (cropped).jpg"
-          },
-          "caption": {
-            "text": "Quader in 2012"
-          },
-          "primeminister": {
-            "text": "Sheikh Hasina",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sheikh Hasina"
-              }
-            ]
-          },
-          "office": {
-            "text": "Minister of Road Transport and Bridges",
-            "links": [
-              {
-                "text": "Minister of Road Transport and Bridges",
-                "type": "internal",
-                "page": "Ministry of Road Transport and Bridges"
-              }
-            ]
-          },
-          "president": {
-            "text": "Zillur Rahman\nAbdul Hamid",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Zillur Rahman"
-              },
-              {
-                "type": "internal",
-                "page": "Abdul Hamid"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "6 December 2011"
-          },
-          "predecessor": {
-            "text": "Syed Abul Hossain",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Syed Abul Hossain"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Member of Parliament",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Member of Parliament",
-                "anchor": "Bangladesh"
-              }
-            ]
-          },
-          "constituency1": {
-            "text": "Noakhali-5",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Noakhali-5"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "6 January 2009"
-          },
-          "predecessor1": {
-            "text": "Moudud Ahmed",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Moudud Ahmed"
-              }
-            ]
-          },
-          "constituency2": {
-            "text": "Noakhali-5",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Noakhali-5"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "1996",
-            "number": 1996
-          },
-          "term_end2": {
-            "text": "2001",
-            "number": 2001
-          },
-          "predecessor2": {
-            "text": "Moudud Ahmed"
-          },
-          "successor2": {
-            "text": "Moudud Ahmed"
-          },
-          "office3": {
-            "text": "General Secretary of Bangladesh Awami League",
-            "links": [
-              {
-                "type": "internal",
-                "page": "General Secretary of Bangladesh Awami League"
-              }
-            ]
-          },
-          "1blankname3": {
-            "text": "Party Leader"
-          },
-          "1namedata3": {
-            "text": "Obaidul Quader",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Obaidul Quader"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "23 October 2016"
-          },
-          "predecessor3": {
-            "text": "Sayed Ashraful Islam",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sayed Ashraful Islam"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Isratunnesa Quader"
-          },
-          "relatives": {
-            "text": "Abdul Quader Mirza (brother)"
-          },
-          "birth_date": {
-            "text": "January 1, 1950"
-          },
-          "birth_place": {
-            "text": "Companiganj Upazila, Noakhali, East Bengal, Dominion of Pakistan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Companiganj Upazila, Noakhali"
-              },
-              {
-                "type": "internal",
-                "page": "East Bengal"
-              },
-              {
-                "type": "internal",
-                "page": "Dominion of Pakistan"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "University of Dhaka",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Dhaka"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Bangladeshi"
-          },
-          "party": {
-            "text": "Bangladesh Awami League",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bangladesh Awami League"
-              }
-            ]
-          },
-          "education": {
-            "text": "BA"
-          }
-        }
-      ]
-    }
-  ]
+  "native_name": "ওবায়দুল কাদের",
+  "native_name_lang": "Bengali",
+  "image": "Obaidul Quader MP (cropped).jpg",
+  "caption": "Quader in 2012",
+  "primeminister": "Sheikh Hasina",
+  "office": "Minister of Road Transport and Bridges",
+  "president": "Zillur Rahman\nAbdul Hamid",
+  "term_start": "6 December 2011",
+  "predecessor": "Syed Abul Hossain",
+  "office1": "Member of Parliament",
+  "constituency1": "Noakhali-5",
+  "term_start1": "6 January 2009",
+  "predecessor1": "Moudud Ahmed",
+  "constituency2": "Noakhali-5",
+  "term_start2": "1996",
+  "term_end2": "2001",
+  "predecessor2": "Moudud Ahmed",
+  "successor2": "Moudud Ahmed",
+  "office3": "General Secretary of Bangladesh Awami League",
+  "1blankname3": "Party Leader",
+  "1namedata3": "Obaidul Quader",
+  "term_start3": "23 October 2016",
+  "predecessor3": "Sayed Ashraful Islam",
+  "spouse": "Isratunnesa Quader",
+  "relatives": "Abdul Quader Mirza (brother)",
+  "birth_date": "January 1, 1950",
+  "birth_place": "Companiganj Upazila, Noakhali, East Bengal, Dominion of Pakistan",
+  "alma_mater": "University of Dhaka",
+  "nationality": "Bangladeshi",
+  "party": "Bangladesh Awami League",
+  "education": "BA"
 }

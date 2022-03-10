@@ -1,212 +1,23 @@
 {
-  "title": "SM Rezaul Karim",
-  "pageID": 61447321,
-  "categories": [
-    "Living people",
-    "Awami League politicians",
-    "11th Jatiya Sangsad members",
-    "Housing and Public Works ministers of Bangladesh",
-    "Fisheries and Livestock ministers of Bangladesh",
-    "Place of birth missing (living people)",
-    "1962 births"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "SM Rezaul Karim is a Bangladesh Awami League politician and the incumbent Jatiya Sangsad member representing the Pirojpur-1 constituency.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Bangladesh Awami League"
-                },
-                {
-                  "type": "internal",
-                  "page": "Jatiya Sangsad"
-                },
-                {
-                  "type": "internal",
-                  "page": "Pirojpur-1"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "SM Rezaul Karim"
-                ]
-              }
-            },
-            {
-              "text": "He is the current minister of fisheries and livestock since 13 February 2020.",
-              "links": [
-                {
-                  "text": "minister of fisheries and livestock",
-                  "type": "internal",
-                  "page": "Ministry of Fisheries and Livestock"
-                }
-              ]
-            },
-            {
-              "text": "Earlier he served as the minister of housing and public works for 11  months.",
-              "links": [
-                {
-                  "text": "minister of housing and public works",
-                  "type": "internal",
-                  "page": "Ministry of Housing and Public Works"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Bangladeshi politician",
-          "template": "short description"
-        },
-        {
-          "template": "date",
-          "data": {
-            "year": 1962,
-            "month": 2,
-            "date": 18
-          }
-        },
-        {
-          "list": [
-            "M.S.S",
-            "L.L.B"
-          ],
-          "template": "ubl"
-        },
-        {
-          "list": [
-            "Lawyer",
-            "Politician"
-          ],
-          "template": "ubl"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "SM Rezaul Karim"
-          },
-          "native_name": {
-            "text": "শ ম রেজাউল করিম"
-          },
-          "native_name_lang": {
-            "text": "bn"
-          },
-          "office": {
-            "text": "Minister of Fisheries and Livestock",
-            "links": [
-              {
-                "text": "Minister of Fisheries and Livestock",
-                "type": "internal",
-                "page": "Ministry of Fisheries and Livestock"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "13 February 2020"
-          },
-          "predecessor": {
-            "text": "Narayon Chandra Chanda",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Narayon Chandra Chanda"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Minister of Housing and Public Works",
-            "links": [
-              {
-                "text": "Minister of Housing and Public Works",
-                "type": "internal",
-                "page": "Ministry of Housing and Public Works"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "7 January 2019"
-          },
-          "term_end1": {
-            "text": "13 February 2020"
-          },
-          "predecessor1": {
-            "text": "Mosharraf Hossain",
-            "links": [
-              {
-                "text": "Mosharraf Hossain",
-                "type": "internal",
-                "page": "Mosharraf Hossain (politician)"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Vacant",
-            "formatting": {
-              "italic": [
-                "Vacant"
-              ]
-            }
-          },
-          "constituency_mp2": {
-            "text": "Pirojpur-1",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pirojpur-1"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "30 January 2019"
-          },
-          "predecessor2": {
-            "text": "AKMA Awal",
-            "links": [
-              {
-                "type": "internal",
-                "page": "AKMA Awal"
-              }
-            ]
-          },
-          "party": {
-            "text": "Bangladesh Awami League",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bangladesh Awami League"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Bangladeshi"
-          },
-          "birth_date": {
-            "text": "18 Feb 1962"
-          },
-          "education": {
-            "text": "M.S.S\n\nL.L.B"
-          },
-          "profession": {
-            "text": "Lawyer\n\nPolitician"
-          },
-          "website": {
-            "text": "rezaandassociates.com"
-          },
-          "father": {
-            "text": "Abdul Khalek Sheikh"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "SM Rezaul Karim",
+  "native_name": "শ ম রেজাউল করিম",
+  "native_name_lang": "bn",
+  "office": "Minister of Fisheries and Livestock",
+  "term_start": "13 February 2020",
+  "predecessor": "Narayon Chandra Chanda",
+  "office1": "Minister of Housing and Public Works",
+  "term_start1": "7 January 2019",
+  "term_end1": "13 February 2020",
+  "predecessor1": "Mosharraf Hossain",
+  "successor1": "Vacant",
+  "constituency_mp2": "Pirojpur-1",
+  "term_start2": "30 January 2019",
+  "predecessor2": "AKMA Awal",
+  "party": "Bangladesh Awami League",
+  "nationality": "Bangladeshi",
+  "birth_date": "18 Feb 1962",
+  "education": "M.S.S\n\nL.L.B",
+  "profession": "Lawyer\n\nPolitician",
+  "website": "rezaandassociates.com",
+  "father": "Abdul Khalek Sheikh"
 }

@@ -1,203 +1,23 @@
 {
-  "title": "M Shaheen Iqbal",
-  "pageID": 64650687,
-  "categories": [
-    "Chiefs of Naval Staff (Bangladesh)",
-    "Bangladeshi Navy admirals",
-    "Bangladesh Navy",
-    "Living people",
-    "Bangladesh Navy personnel",
-    "1964 births"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Admiral M Shaheen Iqbal, NBP, NUP, ndc, afwc, psc is the Admiral of Bangladesh Navy who is currently serving as the 16th Chief of Naval Staff (Bangladesh) of Bangladesh Navy.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Admiral"
-                },
-                {
-                  "type": "internal",
-                  "page": "Bangladesh Navy"
-                },
-                {
-                  "type": "internal",
-                  "page": "Chief of Naval Staff (Bangladesh)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "M Shaheen Iqbal"
-                ]
-              }
-            },
-            {
-              "text": "Previously he held the posts of Assistant Chief of Naval Staff Operations & Assistant Chief of Naval Staff Personnel in Naval Headquarters."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Chief of Naval Staff of Bangladesh Navy",
-          "template": "short description"
-        },
-        {
-          "birth_year": "1964",
-          "template": "birth year and age"
-        },
-        {
-          "list": [
-            "Naval War College",
-            "National Defence College"
-          ],
-          "template": "ubl"
-        },
-        {
-          "template": "ban"
-        },
-        {
-          "list": [
-            "Bangladesh"
-          ],
-          "template": "navy"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific_prefix": {
-            "text": "Admiral",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Admiral"
-              }
-            ]
-          },
-          "honorific_suffix": {
-            "text": "NBP, NUP, ndc, afwc, psc"
-          },
-          "name": {
-            "text": "M Shaheen Iqbal"
-          },
-          "native_name": {
-            "text": "মোহাম্মদ শাহীন ইকবাল"
-          },
-          "native_name_lang": {
-            "text": "bn"
-          },
-          "image": {
-            "text": "Vice Admiral M Shaheen Iqbal, NBP, NUP, NDC, Afwc, Psc .jpg"
-          },
-          "caption": {
-            "text": "Official Military Portrait"
-          },
-          "office": {
-            "text": "16th Chief of Naval Staff",
-            "links": [
-              {
-                "text": "Chief of Naval Staff",
-                "type": "internal",
-                "page": "Chief of Naval Staff (Bangladesh)"
-              }
-            ]
-          },
-          "termstart": {
-            "text": "25 July 2020"
-          },
-          "president": {
-            "text": "Abdul Hamid",
-            "links": [
-              {
-                "text": "Abdul Hamid",
-                "type": "internal",
-                "page": "Abdul Hamid (politician)"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Sheikh Hasina",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sheikh Hasina"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Aurangzeb Chowdhury",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Aurangzeb Chowdhury"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "1964 (age 58)"
-          },
-          "birth_place": {
-            "text": "Comilla, Bangladesh",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Comilla"
-              },
-              {
-                "type": "internal",
-                "page": "Bangladesh"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Bangladeshi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bangladeshi"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Naval War College\n\nNational Defence College"
-          },
-          "serviceyears": {
-            "text": "1982 - present"
-          },
-          "rank": {
-            "text": "14.BNF-ADMF.svg Admiral",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Admiral"
-              }
-            ]
-          },
-          "commands": {
-            "text": "• Assistant Chief of Naval Staff (Operations) • Assistant Chief of Naval Staff (Personnel) • Commandar of Chattogram Naval Area • Commandar of Khulna Naval Area"
-          },
-          "battles": {
-            "text": "UNAMI",
-            "links": [
-              {
-                "text": "UNAMI",
-                "type": "internal",
-                "page": "United Nations Assistance Mission for Iraq"
-              }
-            ]
-          },
-          "website": {
-            "text": "https://www.navy.mil.bd"
-          }
-        }
-      ]
-    }
-  ]
+  "honorific_prefix": "Admiral",
+  "honorific_suffix": "NBP, NUP, ndc, afwc, psc",
+  "name": "M Shaheen Iqbal",
+  "native_name": "মোহাম্মদ শাহীন ইকবাল",
+  "native_name_lang": "bn",
+  "image": "Vice Admiral M Shaheen Iqbal, NBP, NUP, NDC, Afwc, Psc .jpg",
+  "caption": "Official Military Portrait",
+  "office": "16th Chief of Naval Staff",
+  "termstart": "25 July 2020",
+  "president": "Abdul Hamid",
+  "primeminister": "Sheikh Hasina",
+  "predecessor": "Aurangzeb Chowdhury",
+  "birth_date": "1964 (age 58)",
+  "birth_place": "Comilla, Bangladesh",
+  "nationality": "Bangladeshi",
+  "alma_mater": "Naval War College\n\nNational Defence College",
+  "serviceyears": "1982 - present",
+  "rank": "14.BNF-ADMF.svg Admiral",
+  "commands": "• Assistant Chief of Naval Staff (Operations) • Assistant Chief of Naval Staff (Personnel) • Commandar of Chattogram Naval Area • Commandar of Khulna Naval Area",
+  "battles": "UNAMI",
+  "website": "https://www.navy.mil.bd"
 }
