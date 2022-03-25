@@ -135,12 +135,70 @@
     <script src="/accessibility/js/asb.js" type="text/javascript"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.min.css" />
     <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/js/all.min.js"></script>
+    <!-- accessibility active issues -->
+     
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <script>
+            var access = 0;
+            // Add event listener on keydown
+            if(access === 0){
+                document.addEventListener('keyup', (event) => {
+                var name = event.key;
+                var code = event.code;
+                var i = 0;
+                if(code == "Tab" && i == 0){
+                    $('#myModal').show();
+                    $('#myModal').modal();
+                    i = i + 1;
+                }
+                // Alert the key name and key code on keydown
+                });
+                var accessibilitypop = document.querySelector('#accessibilitypop');
+                function accessibility(){
+                    $('#myModal').modal('hide');
+                    document.getElementById("universalAccessBtn").click();
+                    $('#myModal').attr('id', 'myModalClose');
+                    //$('#accessibilityBar').attr('class', 'active');
+                    $('#myModal').attr('tabindex', '');
+                    document.getElementById("universalAccessBtn").focus();
+                    $('#accessibilityBar').attr('role', 'dialog');
+                    $('#universalAccessBtn').attr('tabindex', '1');
+                };
+                
+                function accessibilitymodelClose(){
+                    $('#myModal').attr('id', 'myModalClose');
+                }
+            
+            }
+        </script>
+        <style>
+            .btn-for-accessibility{
+                font-size: 13px;
+                background: local;
+            }
+        </style>
+    <!-- end accessibility active issues -->
     <!-- custom accessibility end -->
 
     </head>
 
     <body class="cabinet-portal-gov-bd">
-
+        <!-- accessibility Modal -->
+        <div class="modal fade" id="myModal" role="dialog" tabindex="-1" style="display: none;margin: 5px;text-align: center;">
+            <div class="modal-dialog text-center" >
+            <!-- Modal content-->
+            <div class="modal-content">
+                <div class="modal-body">
+                <button class="btn-for-accessibility"  data-dismiss="modal" onclick="accessibilitymodelClose()">Skip to main content</button>
+                <button class="btn-for-accessibility" id="accessibilitypop" onclick="accessibility()">Go to accessibility menu</button>
+                <button class="btn-for-accessibility close"  type="button" data-dismiss="modal" onclick="accessibilitymodelClose()">&times;</button>
+                </div>
+            </div>
+            
+            </div>
+        </div>
+        <!--   -->
         <!-- ====== start jump to selections ======   -->
         <a class="skip-link" href="/accessibility.html" target="_blank">Accessibility Help</a>
         <a class="skip-link" href="#jmenu">Jump to Menu</a>
@@ -1392,7 +1450,7 @@ sub {
 
         <ul><li><a href="/site/page/7bd8d22c-ac27-48b9-a61d-0fe3c8e5fb00/Credits">Credits</a></li><li><a href="/site/view/sitemap/At-a-glance">At a glance</a></li><li><a href="/site/page/4e16b052-ef96-4d06-ae79-17f9673d5194/Privacy-Policy">Privacy Policy</a></li><li><a href="/site/page/1d245ced-1a27-4d2d-a0c8-9ead7fb83228/Contact">Contact</a></li><li><a href="/site/page/ec3c4b7c-9d95-4d32-bf4d-f364623f4ecf/FAQ">FAQ</a></li><li><a href="/site/page/0be1d21b-ead3-412c-bfdf-b579ce2f9d03/Terms-of-Use">Terms of Use</a></li></ul>                    <div style="float: left; font-size: .9em;">
 				Site was last updated: <span style="font-style: italic;">
-				2022-03-23 19:49:46				</span>
+				2022-03-24 16:28:02				</span>
 				<!--<span><a href="http://support.portal.gov.bd/" style="color: green" target="_blank"> | <u>Technical HelpDesk</u></a></span>-->
 			</div>
             </div>
