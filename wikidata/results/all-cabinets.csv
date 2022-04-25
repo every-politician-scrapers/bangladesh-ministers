@@ -1,4 +1,5 @@
 ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+,Q22031835,First Hasina Cabinet,1996-01-01,9,,,,,,,,,,,,,,
 ,Q24912627,Fakhruddin Ahmed Cabinet,2007-01-11,11,,,2009-01-01,9,,,,,Q23023515,Second Hasina Cabinet,,,,
 ,Q23023515,Second Hasina Cabinet,2009-01-06,11,,,2014-01-24,11,,,Q24912627,Fakhruddin Ahmed Cabinet,Q30588534,Third Hasina Cabinet,,,,
 ,Q30588534,Third Hasina Cabinet,2014-01-14,11,,,2019-01-07,11,,,Q23023515,Second Hasina Cabinet,Q60461592,Fourth Sheikh Hasina Cabinet,,,,
