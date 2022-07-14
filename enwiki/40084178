@@ -1,7 +1,8 @@
 {
-  "native_name": "Obaidul Quader",
-  "native_name_lang": "Bangali",
-  "primeminister": "Sheikh hasina",
+  "name": "Obaidul Quader",
+  "native_name": "ওবায়দুল কাদের",
+  "native_name_lang": "Bn",
+  "primeminister": "Sheikh Hasina",
   "office": "Minister of Road Transport and Bridges",
   "president": "Zillur Rahman\nAbdul Hamid",
   "term_start": "6 December 2011",
@@ -14,9 +15,9 @@
   "term_end2": "2001",
   "predecessor2": "Moudud Ahmed",
   "successor2": "Moudud Ahmed",
-  "office3": "General Secretary of Bangladesh Awami League",
-  "1blankname3": "Party Leader",
-  "1namedata3": "Obaidul Quader",
+  "office3": "Bangladesh Awami League",
+  "1blankname3": "General Secretary",
+  "1namedata3": "Himself",
   "term_start3": "23 October 2016",
   "predecessor3": "Sayed Ashraful Islam",
   "spouse": "Isratunnesa Quader",
@@ -24,6 +25,6 @@
   "birth_place": "Companiganj Upazila, Noakhali, East Bengal, Dominion of Pakistan",
   "alma_mater": "University of Dhaka",
   "nationality": "Bangladeshi",
-  "party": "Bangladesh Awamileague",
+  "party": "Awami League",
   "education": "BA"
 }
