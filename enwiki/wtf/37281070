@@ -1,0 +1,711 @@
+{
+  "title": "Mustafa Kamal (politician)",
+  "pageID": 37281070,
+  "categories": [
+    "1947 births",
+    "Living people",
+    "People from Comilla",
+    "Comilla Victoria Government College alumni",
+    "Awami League politicians",
+    "Bangladeshi cricket administrators",
+    "Presidents of the International Cricket Council",
+    "Planning ministers of Bangladesh",
+    "Finance ministers of Bangladesh",
+    "9th Jatiya Sangsad members",
+    "10th Jatiya Sangsad members",
+    "11th Jatiya Sangsad members"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Abu Hena Mohammad Mustafa Kamal (Bengali: আবু হেনা মুহাম্মদ মুস্তফা কামাল; born 15 June 1947) much commonly known as Lotus Kamal is a Bangladeshi politician and businessman.",
+              "links": [
+                {
+                  "text": "Bengali",
+                  "type": "internal",
+                  "page": "Bengali language"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Abu Hena Mohammad Mustafa Kamal",
+                  "Lotus Kamal"
+                ]
+              }
+            },
+            {
+              "text": "He is a member of the Jatiya Sangsad representing the Cumilla-10 constituency and is a former Minister for Planning and current Minister of Finance.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jatiya Sangsad"
+                },
+                {
+                  "type": "internal",
+                  "page": "Cumilla-10"
+                }
+              ]
+            },
+            {
+              "text": "He is the owner of Lotus Kamal Group, which is a well-known Bengali textile industry."
+            },
+            {
+              "text": "Kamal was awarded the Finance Minister of the Year 2020 by the Banker.",
+              "links": [
+                {
+                  "text": "Finance Minister",
+                  "type": "internal",
+                  "page": "Finance minister"
+                },
+                {
+                  "text": "the Banker",
+                  "type": "internal",
+                  "page": "the Banker"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Bangladeshi politician and cricket official",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "the Bangladeshi politician",
+            "the other people with similar name",
+            "Mustafa Kamal (disambiguation)"
+          ],
+          "template": "about"
+        },
+        {
+          "date": "February 2022",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1947",
+          "month": "06",
+          "day": "15",
+          "df": "yes",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "A. H. M. Mustafa Kamal"
+          },
+          "native_name": {
+            "text": "আ. হ. ম. মুস্তফা কামাল"
+          },
+          "office": {
+            "text": "Minister of Finance",
+            "links": [
+              {
+                "text": "Minister of Finance",
+                "type": "internal",
+                "page": "Minister of Finance (Bangladesh)"
+              }
+            ]
+          },
+          "president": {
+            "text": "Abdul Hamid",
+            "links": [
+              {
+                "text": "Abdul Hamid",
+                "type": "internal",
+                "page": "Abdul Hamid (politician)"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Sheikh Hasina",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sheikh Hasina"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Abul Mal Abdul Muhit",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Abul Mal Abdul Muhit"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "7 January 2019"
+          },
+          "office2": {
+            "text": "Minister for Planning",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Minister for Planning"
+              }
+            ]
+          },
+          "president2": {
+            "text": "Abdul Hamid",
+            "links": [
+              {
+                "text": "Abdul Hamid",
+                "type": "internal",
+                "page": "Abdul Hamid (politician)"
+              }
+            ]
+          },
+          "primeminister2": {
+            "text": "Sheikh Hasina",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sheikh Hasina"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "12 January 2014"
+          },
+          "term_end2": {
+            "text": "7 January 2019"
+          },
+          "successor2": {
+            "text": "Muhammad Abdul Mannan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Muhammad Abdul Mannan"
+              }
+            ]
+          },
+          "office3": {
+            "text": "President of the International Cricket Council",
+            "links": [
+              {
+                "text": "President of the International Cricket Council",
+                "type": "internal",
+                "page": "International Cricket Council"
+              }
+            ]
+          },
+          "predecessor3": {
+            "text": "Alan Isaac",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alan Isaac"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Zaheer Abbas",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Zaheer Abbas"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "1 July 2014"
+          },
+          "term_end3": {
+            "text": "1 April 2015"
+          },
+          "office4": {
+            "text": "President of the Bangladesh Cricket Board",
+            "links": [
+              {
+                "text": "President of the Bangladesh Cricket Board",
+                "type": "internal",
+                "page": "Bangladesh Cricket Board"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "23 September 2009"
+          },
+          "term_end4": {
+            "text": "17 October 2012"
+          },
+          "predecessor4": {
+            "text": "Sina Ibn Jamali",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sina Ibn Jamali"
+              }
+            ]
+          },
+          "successor4": {
+            "text": "Nazmul Hasan Papon",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nazmul Hasan Papon"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Member of Parliament",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Member of Parliament",
+                "anchor": "Bangladesh"
+              }
+            ]
+          },
+          "constituency1": {
+            "text": "Comilla-10",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Comilla-10"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Anwarul Azim",
+            "links": [
+              {
+                "text": "Anwarul Azim",
+                "type": "internal",
+                "page": "Anwarul Azim (politician)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "January 2009"
+          },
+          "party": {
+            "text": "Bangladesh Awami League",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bangladesh Awami League"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "June 15, 1947"
+          },
+          "birth_name": {
+            "text": "Abu Hena Mohammed Mustafa"
+          },
+          "birth_place": {
+            "text": "Comilla, Bengal Presidency, British India",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Comilla"
+              },
+              {
+                "type": "internal",
+                "page": "Bengal Presidency"
+              },
+              {
+                "type": "internal",
+                "page": "British India"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Bangladeshi"
+          },
+          "alma_mater": {
+            "text": "University of Dhaka",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Dhaka"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "47-member new cabinet announced",
+          "url": "https://www.thedailystar.net/politics/new-cabinet-members-of-bangladesh-government-formed-monday-1683733",
+          "access-date": "24 February 2019",
+          "agency": "The Daily Star",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.plandiv.gov.bd/index.php/planning-minister",
+          "title": "A H M Mustafa Kamal",
+          "publisher": "Ministry of Planning",
+          "access-date": "5 April 2015",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.cabinet.gov.bd/site/page/7776684d-66c7-4236-8231-ac98f285b475",
+          "title": "Cabinet Division",
+          "publisher": "Government of the People’s Republic of Bangladesh",
+          "access-date": "5 April 2015",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.thebanker.com/Awards/Finance-Minister-of-the-Year/Finance-Minister-of-the-Year-2020?ct=true",
+          "title": "Finance Minister of the Year 2020",
+          "magazine": "The Banker",
+          "access-date": "2020-01-12",
+          "template": "citation",
+          "type": "magazine"
+        }
+      ]
+    },
+    {
+      "title": "Early life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Kamal was born on 15 June 1947 in Laksham, Cumilla, East Bengal, British India.",
+              "links": [
+                {
+                  "text": "Laksham",
+                  "type": "internal",
+                  "page": "Laksham Upazila"
+                },
+                {
+                  "text": "Cumilla",
+                  "type": "internal",
+                  "page": "Comilla District"
+                }
+              ]
+            },
+            {
+              "text": "After the primary education from local Dattapur Primary School, SSC from Bagmara High School in 1962, later HSC from Cumilla Victoria Government College, and B.Com.",
+              "links": [
+                {
+                  "text": "Cumilla Victoria Government College",
+                  "type": "internal",
+                  "page": "Comilla Victoria Government College"
+                }
+              ]
+            },
+            {
+              "text": "(Honors) degree from Chittagong Government Commerce College in 1964–1967."
+            },
+            {
+              "text": "In 1967 he finished his undergraduate in Financial Management from the University of Dhaka.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Dhaka"
+                }
+              ]
+            },
+            {
+              "text": "He completed his master's degree in accounting in 1968 from the University of Dhaka."
+            },
+            {
+              "text": "He also earned a law degree."
+            },
+            {
+              "text": "He is also a FCA (Fellowship Chartered Accountant)."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Finance minister mustafa kamal was gained first place in CA exam",
+          "url": "http://m.dailyinqilab.com/article/177913/%E0%A6%B8%E0%A6%BF%E0%A6%8F%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A5%E0%A6%AE-%E0%A6%B9%E0%A7%9F%E0%A7%87%E0%A6%9B%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%85%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80-%E0%A6%B2%E0%A7%8B%E0%A6%9F%E0%A6%BE%E0%A6%B8-%E0%A6%95%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%B2",
+          "access-date": "24 February 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://plandiv.gov.bd/site/office_head/e5cb82ed-ed6f-40cf-b670-10edfdc736d7/%E0%A6%AC%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A6%A4",
+          "title": "মাননীয় মন্ত্রী",
+          "website": "plandiv.gov.bd",
+          "access-date": "26 July 2018",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Business",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Kamal founded the Lotus Kamal Group which is a well-known Bengali textile industry."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0
+    },
+    {
+      "title": "Politics",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Kamal was elected to Parliament from Cumilla-9 in 1996.",
+              "links": [
+                {
+                  "text": "Cumilla-9",
+                  "type": "internal",
+                  "page": "Comilla-9"
+                }
+              ]
+            },
+            {
+              "text": "He was elected to his second term as a member of the Jatiya Sangsad for the constituency of Cumilla-10 in 2008 and 2014.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jatiya Sangsad"
+                },
+                {
+                  "text": "Cumilla-10",
+                  "type": "internal",
+                  "page": "Comilla-10"
+                }
+              ]
+            },
+            {
+              "text": "He is Convener of Bangladesh Awami League in the Cumilla district (South).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bangladesh Awami League"
+                }
+              ]
+            },
+            {
+              "text": "He is also the Finance and Planning Secretary of Bangladesh Awami League."
+            },
+            {
+              "text": "He was appointed the Minister for Planning in January 2014."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Mr kamal has been criticised for his role in burning down opposition candidate house and business just before election."
+            },
+            {
+              "text": "Also his threat to opposition leader to get out of his constituency of face severe consequences went viral.",
+              "links": [
+                {
+                  "text": "viral",
+                  "type": "external",
+                  "site": "https://www.youtube.com/watch?v=mw6Mbpif5Qs"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://tigercricket.com/board.html",
+          "title": "Mustafa Kamal",
+          "publisher": "Bangladesh Cricket Board",
+          "date": "9 October 2012",
+          "archiveurl": "https://web.archive.org/web/20121015021346/http://tigercricket.com/board.html",
+          "archivedate": "15 October 2012",
+          "url-status": "dead",
+          "access-date": "10 October 2012",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.parliament.gov.bd/MP_Profile_258.html",
+          "title": "Constituency 258",
+          "publisher": "Bangladesh Parliament",
+          "access-date": "30 October 2012",
+          "archive-url": "https://web.archive.org/web/20120602101154/http://www.parliament.gov.bd/MP_Profile_258.html",
+          "archive-date": "2 June 2012",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Cricket administration",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Kamal has been involved with cricket and its development for last 30 years in various capacities."
+            },
+            {
+              "text": "From 1990 to 2010 he was chairman of the cricket committee of Abahani Limited, before becoming the President of Asian Cricket Council between 2010 and 2012.",
+              "links": [
+                {
+                  "text": "Abahani Limited",
+                  "type": "internal",
+                  "page": "Abahani Limited (Dhaka)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2012, Kamal was named as the vice-president of the International Cricket Council (ICC) for the 2012–2014 term.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "International Cricket Council"
+                }
+              ]
+            },
+            {
+              "text": "Prior to his nomination for the ICC, Kamal was the president of the Bangladesh Cricket Board.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bangladesh Cricket Board"
+                }
+              ]
+            },
+            {
+              "text": "Kamal succeeded Alan Isaac as president of the ICC in 2014."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Kamal resigned from his designation as ICC President, with effect from 1 April 2015."
+            },
+            {
+              "text": "The resignation was reportedly to protest alleged non-compliance by the ICC of laws written in the constitution of the ICC, and he was an active protester of corruption in cricket."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.icc-cricket.com/newsdetails.php?newsId=21792_1349783220",
+          "title": "Mustafa Kamal's nomination as ICC Vice-President 2012-14 accepted",
+          "date": "9 October 2012",
+          "publisher": "International Cricket Council",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.icc-cricket.com/about/63/icc-organisation/committees",
+          "title": "ICC Board of Directors, Chief Executives & IDI Board of Directors",
+          "access-date": "22 February 2015",
+          "archive-url": "https://web.archive.org/web/20150630053814/http://www.icc-cricket.com/about/63/icc-organisation/committees",
+          "archive-date": "30 June 2015",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.foxsports.com.au/cricket/cricket-world-cup-ahm-mustafa-kamal-quits-icc-after-butting-heads-with-n-srinivasan-over-trophy-snub/news-story/a3a6428eba461cb1fd84f8ee8e4338f9",
+          "title": "Clarke trophy row ends in shock resignation",
+          "date": "2015-04-01",
+          "publisher": "Fox Sports",
+          "language": "en-AU",
+          "access-date": "2020-04-03",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.asiancricket.org/index.php/the-acc/46",
+          "title": "Presidents of the Asian Cricket Council",
+          "publisher": "Asian Cricket Council",
+          "access-date": "30 October 2012",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://timesofindia.indiatimes.com/sports/cricket/top-stories/Mustafa-Kamal-to-be-ICC-vice-president/articleshow/16740830.cms",
+          "title": "Mustafa Kamal to be ICC Vice-President for 2012-14",
+          "date": "9 October 2012",
+          "work": "The Times of India",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.wisdenindia.com/cricket-news/mustafa-kamal-icc-vice-president-2012-14/30196",
+          "title": "Mustafa Kamal to be ICC Vice-President for 2012-14",
+          "date": "9 October 2012",
+          "work": "Wisden India",
+          "publisher": "FW Sports and Media India Private Limited",
+          "access-date": "10 October 2012",
+          "archive-url": "https://web.archive.org/web/20141218170459/http://www.wisdenindia.com/cricket-news/mustafa-kamal-icc-vice-president-2012-14/30196",
+          "archive-date": "18 December 2014",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Kamal's daughter Nafisa Kamal is the director of Farmers Bank and owner of Cumilla Victorians and wife is Kasmiri Kamal.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Nafisa Kamal"
+                },
+                {
+                  "text": "Cumilla Victorians",
+                  "type": "internal",
+                  "page": "Cumilla Warriors"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "presidents of icc"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}

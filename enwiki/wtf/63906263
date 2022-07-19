@@ -1,0 +1,322 @@
+{
+  "title": "Rashida Hamid",
+  "pageID": 63906263,
+  "categories": [
+    "First Ladies of Bangladesh",
+    "Living people",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Rashida Hamid is a Bangladeshi teacher, public figure, and First Lady of Bangladesh.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "First Lady of Bangladesh"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Rashida Hamid"
+                ]
+              }
+            },
+            {
+              "text": "She is the wife of the President Abdul Hamid.",
+              "links": [
+                {
+                  "text": "President",
+                  "type": "internal",
+                  "page": "President of Bangladesh"
+                },
+                {
+                  "text": "Abdul Hamid",
+                  "type": "internal",
+                  "page": "Abdul Hamid (politician)"
+                }
+              ]
+            },
+            {
+              "text": "She has been serving as a country's First Lady since 14 March 2013."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Bangladeshi politician",
+          "template": "short description"
+        },
+        {
+          "spouse": "Abdul Hamid",
+          "from": "1964",
+          "template": "marriage"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Rashida Hamid"
+          },
+          "caption": {
+            "text": "Official portrait"
+          },
+          "office": {
+            "text": "First Lady of Bangladesh",
+            "links": [
+              {
+                "type": "internal",
+                "page": "First Lady of Bangladesh"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Anwara Begum",
+            "links": [
+              {
+                "text": "Anwara Begum",
+                "type": "internal",
+                "page": "Anwara Begum (academic)"
+              }
+            ]
+          },
+          "status": {
+            "text": "Incumbent",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Incumbent"
+              }
+            ]
+          },
+          "term_label": {
+            "text": "Assumed role"
+          },
+          "term_start": {
+            "text": "14 March 2013"
+          },
+          "president": {
+            "text": "Abdul Hamid",
+            "links": [
+              {
+                "text": "Abdul Hamid",
+                "type": "internal",
+                "page": "Abdul Hamid (politician)"
+              }
+            ]
+          },
+          "birth_place": {
+            "text": "Karimganj, Kishoreganj",
+            "links": [
+              {
+                "text": "Karimganj",
+                "type": "internal",
+                "page": "Karimganj Upazila"
+              },
+              {
+                "text": "Kishoreganj",
+                "type": "internal",
+                "page": "Kishoreganj District"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Abdul Hamid (m. 1964)"
+          },
+          "children": {
+            "text": "Rejwan Ahammad Taufiq Rasel Ahmed Tuhin Riad Ahmed Tushar Shorna Hamid",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rejwan Ahammad Taufiq"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Gurudayal Government College",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gurudayal Government College"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "President hosts Victory Day reception",
+          "url": "https://www.dhakatribune.com/bangladesh/2019/10/22/president-hamid-attends-japan-emperor-s-enthronement-ceremony",
+          "work": "Dhaka Tribune",
+          "date": "17 June 2017",
+          "accessdate": "22 October 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Hamid elected president",
+          "url": "https://www.thedailystar.net/news/hamid-elected-president",
+          "work": "The Daily Star",
+          "date": "23 April 2013",
+          "accessdate": "9 May 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Hamid elected president for second term",
+          "url": "https://www.thedailystar.net/politics/abdul-hamid-elected-president-of-bangladesh-second-term-1531225",
+          "work": "The Daily Star",
+          "date": "7 February 2018",
+          "accessdate": "9 May 2020",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Early life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Rashida Hamid was born in Jaffarabad, Karimganj, Kishoreganj.",
+              "links": [
+                {
+                  "text": "Karimganj",
+                  "type": "internal",
+                  "page": "Karimganj Upazila"
+                },
+                {
+                  "text": "Kishoreganj",
+                  "type": "internal",
+                  "page": "Kishoreganj District"
+                }
+              ]
+            },
+            {
+              "text": "She is the wife of former Speaker of the Jatiya Sangsad and current President Abdul Hamid and mother of Rejwan Ahammad Taufiq, MP.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Speaker of the Jatiya Sangsad"
+                },
+                {
+                  "text": "Abdul Hamid",
+                  "type": "internal",
+                  "page": "Abdul Hamid (politician)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Rejwan Ahammad Taufiq"
+                },
+                {
+                  "text": "MP",
+                  "type": "internal",
+                  "page": "Kishoreganj-4"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "President hosts Victory Day reception",
+          "url": "https://unb.com.bd/category/Bangladesh/president-hosts-victory-day-reception/38362",
+          "work": "United News of Bangladesh",
+          "date": "17 December 2019",
+          "accessdate": "9 May 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "যার প্রেরণায় রাষ্ট্রপতি আবদুল হামিদের পথচলা",
+          "url": "https://www.jagonews24.com/special-reports/news/413864",
+          "work": "Jagonews24.com",
+          "date": "22 October 2019",
+          "accessdate": "9 May 2020",
+          "language": "bn",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Hamid passed SSC from SV Government High School in 1963 and HSC from Gurudayal Government College.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Gurudayal Government College"
+                }
+              ]
+            },
+            {
+              "text": "She graduated from Gurudayal Government College in 1972.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Gurudayal Government College"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Work",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Rashida Hamid worked as Headteacher in a Kindergarten School, Dhaka."
+            },
+            {
+              "text": "She is the Chairperson of the President Abdul Hamid Medical College and Hospital's governing body.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "President Abdul Hamid Medical College and Hospital"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "President urges medical students, teachers to acquire skills",
+          "url": "https://unb.com.bd/category/Bangladesh/president-urges-medical-students-teachers-to-acquire-skills/3977",
+          "work": "United News of Bangladesh",
+          "date": "10 October 2018",
+          "accessdate": "9 May 2020",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,421 @@
+{
+  "title": "Asaduzzaman Khan",
+  "pageID": 51255227,
+  "categories": [
+    "Living people",
+    "1950 births",
+    "Awami League politicians",
+    "Mukti Bahini personnel",
+    "9th Jatiya Sangsad members",
+    "10th Jatiya Sangsad members",
+    "11th Jatiya Sangsad members",
+    "Home Affairs ministers of Bangladesh",
+    "State Ministers of Home Affairs (Bangladesh)",
+    "Place of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Asaduzzaman Khan (born 31 December 1950) is a Bangladesh Awami League politician.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bangladesh Awami League"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Asaduzzaman Khan"
+                ]
+              }
+            },
+            {
+              "text": "He became the Member of Parliament for Dhaka-12 in 2014, being re-elected in 2018.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Dhaka-12"
+                }
+              ]
+            },
+            {
+              "text": "He currently serves as Minister of Home Affairs.",
+              "links": [
+                {
+                  "text": "Minister of Home Affairs",
+                  "type": "internal",
+                  "page": "Minister of Home Affairs (Bangladesh)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Bangladeshi politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "the current Home Affairs Minister of Bangladesh",
+            "the former Jute Minister of Bangladesh",
+            "Asaduzzaman Khan (politician, born 1916)"
+          ],
+          "template": "about"
+        },
+        {
+          "year": "1950",
+          "month": "12",
+          "day": "31",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Asaduzzaman Khan"
+          },
+          "native_name": {
+            "text": "আসাদুজ্জামান খাঁন"
+          },
+          "native_name_lang": {
+            "text": "bn"
+          },
+          "office": {
+            "text": "Minister of Home Affairs",
+            "links": [
+              {
+                "text": "Minister of Home Affairs",
+                "type": "internal",
+                "page": "Minister of Home Affairs (Bangladesh)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "12 January 2014"
+          },
+          "predecessor": {
+            "text": "Muhiuddin Khan Alamgir",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Muhiuddin Khan Alamgir"
+              }
+            ]
+          },
+          "president": {
+            "text": "Abdul Hamid",
+            "links": [
+              {
+                "text": "Abdul Hamid",
+                "type": "internal",
+                "page": "Abdul Hamid (politician)"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Sheikh Hasina",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sheikh Hasina"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Member of Parliament",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Member of Parliament"
+              }
+            ]
+          },
+          "constituency1": {
+            "text": "Dhaka-12",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Dhaka-12"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Sheikh Fazle Noor Taposh",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sheikh Fazle Noor Taposh"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "12 January 2014"
+          },
+          "party": {
+            "text": "Bangladesh Awami League",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bangladesh Awami League"
+              }
+            ]
+          },
+          "constituency2": {
+            "text": "Dhaka-11",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Dhaka-11"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "S. A. Khaleque",
+            "links": [
+              {
+                "type": "internal",
+                "page": "S. A. Khaleque"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "AKM Rahmatullah",
+            "links": [
+              {
+                "type": "internal",
+                "page": "AKM Rahmatullah"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "29 January 2009"
+          },
+          "term_end2": {
+            "text": "28 January 2014"
+          },
+          "birth_date": {
+            "text": "December 31, 1950"
+          },
+          "occupation": {
+            "text": "Politician"
+          },
+          "nationality": {
+            "text": "Bangladeshi"
+          },
+          "image": {
+            "text": "Asaduzzaman Khan kamal.jpeg"
+          },
+          "image_size": {
+            "text": "200px"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-11th-parliament-members-english",
+          "title": "List of 11th Parliament Members",
+          "website": "Bangladesh Parliament",
+          "access-date": "10 January 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last1": "Adhikary",
+          "first1": "Tuhin Shubhra",
+          "last2": "Bhattacharjee",
+          "first2": "Partha Pratim",
+          "date": "7 January 2019",
+          "title": "Hasina Axes Heavyweights",
+          "url": "https://www.thedailystar.net/bangladesh-national-election-2018/news/hasina-banks-fresh-blood-1684012",
+          "work": "The Daily Star",
+          "access-date": "10 January 2019",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Early life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Khan was born on 31 December 1950 in Monipuripara, Dhaka, East Bengal, Pakistan.His home district is Dohar,Dhaka.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Dhaka"
+                },
+                {
+                  "type": "internal",
+                  "page": "East Bengal"
+                },
+                {
+                  "type": "internal",
+                  "page": "Pakistan"
+                }
+              ]
+            },
+            {
+              "text": "In 1965, he completed his SSC from Tajgaon Polytechnic High school (Now Tejgaon Government High School) and in 1967, he completed his HSC from Jagannath College which is among the reputed colleges today.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Tejgaon Government High School"
+                },
+                {
+                  "type": "internal",
+                  "page": "Jagannath College"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://ssd.gov.bd/site/page/3cea803e-1607-4887-a5b5-484615e61017/%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%80%E0%A7%9F-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0-%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80",
+          "script-title": "bn:মাননীয় স্বরাষ্ট্র মন্ত্রী",
+          "website": "ssd.gov.bd",
+          "access-date": "26 July 2018",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Khan was a member of the Mukti Bahini and fought in the Bangladesh Liberation war in 1971.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bangladesh Liberation war"
+                }
+              ]
+            },
+            {
+              "text": "He served in sector 2 under Captain Abdul Halim Chowdhury.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Abdul Halim Chowdhury"
+                }
+              ]
+            },
+            {
+              "text": "He was elected to Parliament in December 2008."
+            },
+            {
+              "text": "From 2009 to 2013, he served in the Parliamentary Standing Committee on Housing and Public Works."
+            },
+            {
+              "text": "He was a member of the Bangladesh Press Council.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bangladesh Press Council"
+                }
+              ]
+            },
+            {
+              "text": "He founded the Dohar Padma College."
+            },
+            {
+              "text": "He served as the President of the Ispahani School and College and Tejgaon College, two reputed colleges (both founded after Bangladesh's liberation war).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Tejgaon College"
+                }
+              ]
+            },
+            {
+              "text": "He is a senate member of the Sher-e-Bangla Agricultural University.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sher-e-Bangla Agricultural University"
+                }
+              ]
+            },
+            {
+              "text": "He was re-elected in January 2014 and on 12 January 2014, he was made the State Minister of Home Affairs."
+            },
+            {
+              "text": "On 14 July 2015 he was made the Minister of Home Affairs."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "Further reading",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "commons category"
+        },
+        {
+          "template": "awamileague-politician-stub"
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.bbc.com/news/world-asia-36462026",
+          "title": "Bangladesh home minister suggests Israel behind spate of killings",
+          "work": "BBC News",
+          "template": "citation",
+          "type": "cite web"
+        },
+        {
+          "url": "http://www.thedailystar.net/frontpage/local-militants-claiming-be-members-1265362",
+          "title": "Local militants claiming to be IS members",
+          "work": "The Daily Star",
+          "date": "5 August 2016",
+          "template": "citation",
+          "type": "cite web"
+        },
+        {
+          "url": "http://www.stripes.com/news/pacific/expat-exodus-after-islamist-cafe-carnage-imperils-bangladesh-1.421986",
+          "title": "Expat exodus after Islamist cafe carnage imperils Bangladesh",
+          "work": "Stars and Stripes",
+          "archive-url": "https://web.archive.org/web/20160803183130/https://www.stripes.com/news/pacific/expat-exodus-after-islamist-cafe-carnage-imperils-bangladesh-1.421986",
+          "archive-date": "3 August 2016",
+          "template": "citation",
+          "type": "cite web"
+        }
+      ]
+    }
+  ]
+}

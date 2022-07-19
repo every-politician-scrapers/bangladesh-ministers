@@ -1,0 +1,337 @@
+{
+  "title": "Md. Nurul Islam Sujon",
+  "pageID": 59383815,
+  "categories": [
+    "Living people",
+    "1956 births",
+    "University of Dhaka alumni",
+    "Awami League politicians",
+    "9th Jatiya Sangsad members",
+    "10th Jatiya Sangsad members",
+    "11th Jatiya Sangsad members",
+    "Railways ministers of Bangladesh",
+    "Place of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Md. Nurul Islam  (born 5 January 1956) is a Bangladesh Awami League politician.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bangladesh Awami League"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Md. Nurul Islam "
+                ]
+              }
+            },
+            {
+              "text": "He is the incumbent minister of railways and Jatiya Sangsad member representing the Panchagarh-2 constituency.",
+              "links": [
+                {
+                  "text": "minister of railways",
+                  "type": "internal",
+                  "page": "Ministry of Railways (Bangladesh)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Jatiya Sangsad"
+                },
+                {
+                  "type": "internal",
+                  "page": "Panchagarh-2"
+                }
+              ]
+            },
+            {
+              "text": "In January 2019, he was appointed as minister of railways.",
+              "links": [
+                {
+                  "text": "minister of railways",
+                  "type": "internal",
+                  "page": "Ministry of Railways (Bangladesh)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Bangladeshi politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Nurul Islam (disambiguation)"
+          ],
+          "template": "other people5"
+        },
+        {
+          "year": "1956",
+          "month": "01",
+          "day": "05",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "spouse": "Nilufar Jahan",
+          "to": "2018",
+          "end": "d.",
+          "template": "marriage"
+        },
+        {
+          "spouse": "Shammi Akter Moni",
+          "from": "2021",
+          "template": "marriage"
+        },
+        {
+          "list": [
+            "Nilufar Jahan",
+            "Shammi Akter Moni (m. 2021)"
+          ],
+          "template": "ubl"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Md. Nurul Islam"
+          },
+          "native_name": {
+            "text": "মোঃ নূরুল ইসলাম"
+          },
+          "image": {
+            "text": "Nurul Islam Sujon at Komlapur Railway Station.jpg"
+          },
+          "native_name_lang": {
+            "text": "bn"
+          },
+          "primeminister": {
+            "text": "Sheikh Hasina",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sheikh Hasina"
+              }
+            ]
+          },
+          "office": {
+            "text": "Minister of Railways",
+            "links": [
+              {
+                "text": "Minister of Railways",
+                "type": "internal",
+                "page": "Ministry of Railways (Bangladesh)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "7 January 2019"
+          },
+          "predecessor": {
+            "text": "Mujibul Haque Mujib",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mujibul Haque Mujib"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Member of Parliament",
+            "links": [
+              {
+                "text": "Parliament",
+                "type": "internal",
+                "page": "Jatiya Sangsad"
+              }
+            ]
+          },
+          "constituency1": {
+            "text": "Panchagarh-2",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Panchagarh-2"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "25 January 2009"
+          },
+          "predecessor1": {
+            "text": "Mozahar Hossain",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mozahar Hossain"
+              }
+            ]
+          },
+          "majority1": {
+            "text": "58,419",
+            "number": 58419
+          },
+          "party": {
+            "text": "Bangladesh Awami League",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bangladesh Awami League"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Bangladeshi"
+          },
+          "birth_date": {
+            "text": "January 5, 1956"
+          },
+          "alma_mater": {
+            "text": "University of Dhaka",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Dhaka"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Nilufar Jahan\n\nShammi Akter Moni (m. 2021)"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://mor.gov.bd/site/biography/8c185b06-a607-4bf8-ba4a-8105f03a8e05",
+          "publisher": "mor.gov.bd",
+          "script-title": "bn:মাননীয় মন্ত্রী",
+          "access-date": "2020-04-02",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.thedailystar.net/politics/new-cabinet-members-of-bangladesh-government-formed-monday-1683733",
+          "title": "47-member new cabinet announced",
+          "date": "2019-01-06",
+          "work": "The Daily Star",
+          "language": "en",
+          "access-date": "2019-01-08",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Early life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Islam completed his bachelor's in law from the University of Dhaka.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Dhaka"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Islam was elected to parliament from Panchagarh-2 on 5 January 2014 as a Bangladesh Awami League candidate."
+            },
+            {
+              "text": "He inaugurated Kalidhaho bridge on 28 August 2015."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Md. Nurul Islam",
+          "url": "https://amarmp.com/mp/18",
+          "website": "Amarmp",
+          "access-date": "14 December 2018",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Kalidhaho bridge inaugurated",
+          "url": "http://www.theindependentbd.com/arcprint/details/20863/2015-10-28",
+          "access-date": "14 December 2018",
+          "work": "The Independent",
+          "location": "Dhaka",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Islam's first wife, Nilufar Jahan, died in 2018."
+            },
+            {
+              "text": "Together they had three children."
+            },
+            {
+              "text": "He then married Shammi Akter Moni in June 2021."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Railways Minister Nurul Islam Sujan ties the knot again",
+          "url": "https://bdnews24.com/bangladesh/2021/06/11/railways-minister-nurul-islam-sujan-ties-the-knot-again",
+          "access-date": "2021-06-13",
+          "website": "bdnews24.com",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "commons category"
+        },
+        {
+          "template": "awamileague-politician-stub"
+        }
+      ]
+    }
+  ]
+}
