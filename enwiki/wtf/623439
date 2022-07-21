@@ -48,7 +48,7 @@
         {
           "sentences": [
             {
-              "text": "Sheikh Hasina Wazed (née Sheikh Hasina ; ; শেখ হাসিনা ওয়াজেদ, ), born 28 September 1947, is a Bangladeshi politician who has been serving as the Prime Minister of Bangladesh since January 2009.",
+              "text": "Sheikh Hasina Wazed (née Sheikh Hasina ; ; শেখ হাসিনা ওয়াজেদ,, born 28 September 1947), is a Bangladeshi politician who has been serving as the Prime Minister of Bangladesh since January 2009.",
               "links": [
                 {
                   "text": "née",
@@ -463,12 +463,11 @@
           },
           "primeminister4": {
             "text": "Herself",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Herself"
-              }
-            ]
+            "formatting": {
+              "italic": [
+                "Herself"
+              ]
+            }
           },
           "predecessor4": {
             "text": "Khaleda Zia",
@@ -1248,7 +1247,7 @@
               "text": "Ershad dissolved the parliament in December 1987 when Hasina and her Awami League resigned in an attempt to call for a fresh general election to be held under a neutral government."
             },
             {
-              "text": "During November and December in 1987, a mass uprising happened in Dhaka and several people were killed, including Noor Hossain, a Hasina supporter.",
+              "text": "During November and December in 1987, a mass uprising happened in Dhaka and several people were killed, including Noor Hossain, an Awami League activist and support of Hasina.",
               "links": [
                 {
                   "type": "internal",
@@ -1371,6 +1370,15 @@
           "type": "news"
         },
         {
+          "title": "Hossain, Shahid Nur - Banglapedia",
+          "url": "https://en.banglapedia.org/index.php/Hossain,_Shahid_Nur",
+          "access-date": "2022-07-20",
+          "website": "en.banglapedia.org",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
           "url": "https://www.forbes.com/profile/sheikh-hasina-wajed/",
           "title": "Sheikh Hasina Wajed",
           "website": "Forbes",
@@ -1380,10 +1388,6 @@
           "url-status": "live",
           "template": "citation",
           "type": "web"
-        },
-        {
-          "date": "September 2021",
-          "template": "citation needed"
         }
       ]
     },
@@ -1467,7 +1471,7 @@
         {
           "sentences": [
             {
-              "text": "Politics in Bangladesh took a decisive turn in 1994, after a by-election in Magura, held after the death of the MP for that constituency, a member of Hasina's party.",
+              "text": "Politics in Bangladesh took a decisive turn in 1994, after a by-election in Magura-2, held after the death of the MP for that constituency, a member of Hasina's party.",
               "links": [
                 {
                   "text": "by-election",
@@ -1475,9 +1479,8 @@
                   "page": "by-election"
                 },
                 {
-                  "text": "Magura",
                   "type": "internal",
-                  "page": "Magura District"
+                  "page": "Magura-2"
                 }
               ]
             },
@@ -1520,6 +1523,15 @@
           "url-status": "live",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "title": "Memories of Magura 1994",
+          "url": "https://www.newagebd.net/article/99198/memories-of-magura-1994",
+          "access-date": "2022-07-20",
+          "website": "New Age {{!}} The Most Popular Outspoken English Daily in Bangladesh",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
         },
         {
           "url": "http://www.thedailystar.net/magura-polls-then-and-now-19000",
@@ -2128,7 +2140,7 @@
               ]
             },
             {
-              "text": "Later the nomination of Ershad was cancelled."
+              "text": "Later the nomination of Ershad was cancelled by the returning officer of the Election Commission as Ershad had been convicted on a corruption case."
             },
             {
               "text": "As a result, the Grand Alliance withdrew its candidates en masse on the last day possible.",
@@ -2371,16 +2383,6 @@
           ]
         }
       ],
-      "templates": [
-        {
-          "date": "January 2014",
-          "template": "why?"
-        },
-        {
-          "date": "January 2014",
-          "template": "by whom"
-        }
-      ],
       "references": [
         {
           "title": "10 Huji men to die for the attempted murder of Hasina",
@@ -2422,6 +2424,22 @@
           "url-status": "dead",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "title": "The Daily Star Web Edition Vol. 5 Num 922",
+          "url": "http://archive.thedailystar.net/2006/12/30/d6123001044.htm",
+          "access-date": "2022-07-20",
+          "website": "archive.thedailystar.net",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "The Daily Star Web Edition Vol. 5 Num 920",
+          "url": "http://archive.thedailystar.net/2006/12/28/d6122801033.htm",
+          "access-date": "2022-07-20",
+          "website": "archive.thedailystar.net",
+          "template": "citation",
+          "type": "web"
         },
         {
           "last": "Butenis",
