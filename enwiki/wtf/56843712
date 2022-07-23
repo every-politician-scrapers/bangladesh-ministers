@@ -163,6 +163,7 @@
           "url": "https://bangla.bdnews24.com/bangladesh/article1992100.bdnews",
           "access-date": "2021-12-30",
           "website": "bangla.bdnews24.com",
+          "language": "bn",
           "template": "citation",
           "type": "web"
         },
@@ -314,7 +315,7 @@
         {
           "sentences": [
             {
-              "text": "On 21 June 2021, Siddique issued a order halting the bail of those accused of attacking a motorcade of Prime Minister Sheikh Hasina.",
+              "text": "On 21 June 2021, Siddique issued an order halting the bail of those accused of attacking a motorcade of Prime Minister Sheikh Hasina.",
               "links": [
                 {
                   "type": "internal",

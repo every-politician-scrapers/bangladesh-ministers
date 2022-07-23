@@ -5031,6 +5031,15 @@
                 "page": "India"
               }
             ]
+          },
+          {
+            "text": "Recipient of the Lifetime Achievement Award (Champions of the Earth) in 2015.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Champions of the Earth"
+              }
+            ]
           }
         ]
       ],
@@ -5301,6 +5310,16 @@
           "url-status": "live",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "last1": "Programme",
+          "first1": "UN Environment",
+          "title": "Search Results",
+          "url": "https://www.unep.org/championsofearth/search/node?keys=Sheikh+Hasina",
+          "website": "Champions of the Earth",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
         },
         {
           "title": "Prime Minister Shiekh Hasina receives 'Planet 50–50 Champion' and 'Agent of Change Award'",
